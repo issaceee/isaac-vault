@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "8225b7d7e3fc5afe",
+    "id": "97e3e91bf43cb7c8",
     "type": "split",
     "children": [
       {
-        "id": "9e4bacfae9669196",
+        "id": "2fbafa69137b3f5a",
         "type": "tabs",
         "children": [
           {
-            "id": "c60b4108673bae64",
+            "id": "e90fd27894096904",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life of Charlotte Brontë.md",
+                "file": "the gothic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Life of Charlotte Brontë"
+              "title": "the gothic"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aca8b629d399e96f",
+    "id": "b83f9daa36228a7e",
     "type": "split",
     "children": [
       {
-        "id": "04bb28926f956ab0",
+        "id": "f62d3b6f1066a7a5",
         "type": "tabs",
         "children": [
           {
-            "id": "82b9824df09585e8",
+            "id": "0edd627bc1badc02",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "3e736ce047f824bf",
+            "id": "98cf7c36171cdc44",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "4f97976503f75b00",
+            "id": "6b6b88ff3698d88e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "b4c26603c870c779",
+    "id": "5de73303b1554d22",
     "type": "split",
     "children": [
       {
-        "id": "1e91b84ea8a942b9",
+        "id": "3cab01ecde052e68",
         "type": "tabs",
         "children": [
           {
-            "id": "3a34f7489cfe2a8d",
+            "id": "1addf0d64e640c1d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "this is a test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +103,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for this is a test"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "916d65214feb5c65",
+            "id": "bd67030bde28e477",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,7 +120,7 @@
             }
           },
           {
-            "id": "2252d8f75b120524",
+            "id": "cde7018883ebf7bc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,7 +135,7 @@
             }
           },
           {
-            "id": "2dc741be2886dbf9",
+            "id": "afc050a93af495eb",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -168,19 +167,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c60b4108673bae64",
+  "active": "e90fd27894096904",
   "lastOpenFiles": [
-    "is a test to see if this works!.md",
-    "Life of Charlotte Brontë.md",
-    "narratorial failure.md",
-    "is a tea.md",
-    "narrative authority.md",
-    "narratorial frames.md",
-    "the rise of the novel.md",
-    "ssh_pub_key.txt",
-    "the gothic.md",
-    "id_ed25519.pub.txt",
     "the domestic.md",
-    "domestic.md"
+    "narratorial failure.md",
+    "the gothic.md",
+    "the rise of the novel.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Wuthering Heights.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Williams, Natural Supernaturalism in “Wuthering Heights.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Vargish, REVENGE AND “WUTHERING HEIGHTS.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Stoneman, Feminist Criticism of “Wuthering Heights.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Rena-Dozier, “Gothic Criticisms.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights",
+    "Readings/Texts/Victorian",
+    "Readings/Texts",
+    "Readings",
+    "ssh_pub_key.txt",
+    "natural supernaturalism.md",
+    "narratorial frames.md",
+    "narrative inadequacy.md",
+    "narrative authority.md",
+    "gothic violence.md",
+    "domestic.md",
+    "Life of Charlotte Brontë.md",
+    "Welcome.md"
   ]
 }
