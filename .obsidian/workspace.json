@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the gothic.md",
+                "file": "Readings/Texts/Paper 3/North & South.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the gothic"
+              "title": "North & South"
             }
           }
         ]
@@ -169,10 +169,17 @@
   },
   "active": "e90fd27894096904",
   "lastOpenFiles": [
-    "the domestic.md",
-    "narratorial failure.md",
-    "the gothic.md",
-    "the rise of the novel.md",
+    "To Dos/domestic.md",
+    "Readings/Texts/Paper 3/North & South.md",
+    "Untitled",
+    "Readings/Texts/Paper 3",
+    "To Dos/natural supernaturalism.md",
+    "To Dos",
+    "To Dos/narrative inadequacy.md",
+    "To Dos/the gothic.md",
+    "To Dos/the domestic.md",
+    "To Dos/narratorial failure.md",
+    "To Dos/the rise of the novel.md",
     "Readings/Texts/Victorian/Wuthering Heights/Wuthering Heights.md",
     "Readings/Texts/Victorian/Wuthering Heights/Williams, Natural Supernaturalism in “Wuthering Heights.”.md",
     "Readings/Texts/Victorian/Wuthering Heights/Vargish, REVENGE AND “WUTHERING HEIGHTS.”.md",
@@ -183,13 +190,10 @@
     "Readings/Texts",
     "Readings",
     "ssh_pub_key.txt",
-    "natural supernaturalism.md",
-    "narratorial frames.md",
-    "narrative inadequacy.md",
-    "narrative authority.md",
-    "gothic violence.md",
-    "domestic.md",
-    "Life of Charlotte Brontë.md",
+    "To Dos/narratorial frames.md",
+    "To Dos/narrative authority.md",
+    "To Dos/gothic violence.md",
+    "To Dos/Life of Charlotte Brontë.md",
     "Welcome.md"
   ]
 }
