@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "narratorial frames.md",
+                "file": "this is a.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "narratorial frames"
+              "title": "this is a"
             }
           }
         ]
@@ -169,13 +169,13 @@
   },
   "active": "c60b4108673bae64",
   "lastOpenFiles": [
+    "narratorial frames.md",
     "the domestic.md",
-    "this is a testa.md",
+    "this is a.md",
     "the gothic.md",
     "the rise of the novel.md",
     "narrative authority.md",
     "narratorial failure.md",
-    "narratorial frames.md",
     "domestic.md"
   ]
 }
