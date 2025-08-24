@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "is a tea.md",
+                "file": "Life of Charlotte Brontë.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "is a tea"
+              "title": "Life of Charlotte Brontë"
             }
           }
         ]
@@ -170,15 +170,17 @@
   },
   "active": "c60b4108673bae64",
   "lastOpenFiles": [
+    "is a test to see if this works!.md",
+    "Life of Charlotte Brontë.md",
+    "narratorial failure.md",
+    "is a tea.md",
     "narrative authority.md",
     "narratorial frames.md",
-    "is a tea.md",
     "the rise of the novel.md",
     "ssh_pub_key.txt",
     "the gothic.md",
     "id_ed25519.pub.txt",
     "the domestic.md",
-    "narratorial failure.md",
     "domestic.md"
   ]
 }
