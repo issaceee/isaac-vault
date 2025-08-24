@@ -2,7 +2,7 @@ Rena-Dozier, Emily. “Gothic Criticisms: Wuthering Heights and Nineteenth-Centu
 
 # Summary
 
-"the mode of narration used in [[Wuthering Heights]]- a series of narratorial frames that both reinforce and undercut one another- is both a showcase for and a critique of two major modes of narrative authority current in the nineteenth-century British novel: [[the gothic]] and [[the domestic]]. It's possible to learn a great deal about the expectations placed on narration in nineteenth-century novels from Wuthering Heights, a novel that makes its central concern an illustration of [[narratorial failure]] and [[narrative inadequacy]]. It does so, I contend, by conscientiously identifying and discarding the methods used by earlier novels to construct [[narrative authority]]."
+"the mode of narration used in [[Wuthering Heights]]- a series of narratorial frames that both reinforce and undercut one another- is both a showcase for and a critique of two major modes of narrative authority current in the nineteenth-century British novel: [[the gothicccccc]] and [[the domestic]]. It's possible to learn a great deal about the expectations placed on narration in nineteenth-century novels from Wuthering Heights, a novel that makes its central concern an illustration of [[narratorial failure]] and [[narrative inadequacy]]. It does so, I contend, by conscientiously identifying and discarding the methods used by earlier novels to construct [[narrative authority]]."
 
 Wuthering Heights act as an attack on the narrative traditions of the 19th century, mainly through its use of [[narratorial frames]] that at once reinforce and subvert each other - that is, the use of narration in WH allows for...
 
