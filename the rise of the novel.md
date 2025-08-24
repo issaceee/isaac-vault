@@ -1,0 +1,1 @@
+Prior to the Victorian Era, poetry had been the dominant form of literature. However, changes in class structure saw the novel rise in popularity. As the middle class expanded and more people became literate, the popularity of the novel exploded.

@@ -1,0 +1,1 @@
+- ''tendency to reformulate theological ideas (the Fall, redemption) within the realm of mind and nature alone- the human imahination becoming our means of salvation" [[M.H. Abrams, Natural Supernaturalism (New York, 1971)]]
