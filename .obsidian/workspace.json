@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "95d9e0104ddd1906",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa586313a21cfc61",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
         "id": "2fbafa69137b3f5a",
         "type": "tabs",
         "children": [
@@ -29,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the gothic.md",
+                "file": "the gothicccccc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the gothic"
+              "title": "the gothicccccc"
             }
           }
         ]
@@ -186,7 +170,7 @@
   "active": "e90fd27894096904",
   "lastOpenFiles": [
     "the rise of the novel.md",
-    "the gothic.md",
+    "the gothicccccc.md",
     "Readings/Texts/Victorian/Wuthering Heights/Wuthering Heights.md",
     "Readings/Texts/Victorian/Wuthering Heights/Williams, Natural Supernaturalism in “Wuthering Heights.”.md",
     "Readings/Texts/Victorian/Wuthering Heights/Vargish, REVENGE AND “WUTHERING HEIGHTS.”.md",
