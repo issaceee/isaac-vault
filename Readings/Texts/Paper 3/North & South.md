@@ -52,4 +52,6 @@ ch. 5
 - characterisation of mrs hale.
 
 ch. 6
-- 
+- abcdefghijklmnopqrstuvwxyz 
+- i'm so happy to see this and thank him so very so very so very so very so very happy to be here and thank him and thank him very happy for the support of my friends who have always supported my family in my past and now have the support and encouragement that he deserves thank him and all of the people in this space and he will do the best for us in his new home and future and futures the most important part is the way you feel when the time goes right in your face you feel good. i think that you are a great artist but i think that this will be a good time to start working on your art and make sure that your work is not too late for you to get your work up and get it up to speed with the new artist.
+- in conclusion, to avoid verbosity, the best part about this tweet would have been the way that the person is feeling and not the same thing you that is being treated by the other 
