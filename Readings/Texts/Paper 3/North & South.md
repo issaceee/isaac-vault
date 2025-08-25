@@ -49,3 +49,7 @@ ch. 4
 
 ch. 5
 - dream of Mr Lennox: "he was climbin up some tree.. he was dead... talking to him as of old... terrible fall"
+- characterisation of mrs hale.
+
+ch. 6
+- 
