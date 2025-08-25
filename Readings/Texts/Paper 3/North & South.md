@@ -21,10 +21,11 @@ Gaskell: "I dare say I shall like my story, when I am a little further from itl 
 
 # Key Points
 
+ch.1
 - rs btw Edith and Margaret is set
 	- beauty of Margaret
 	- start of a change where Margaret realises that everyth is changing (" Margaret had never thought abt it until the last few days, when the prospect of soon losing her companion seemed to give force to every sweet quality and charm which Edith possessed pg.5)
 - MRs Shaw wants Edith to marry for love yet "Mrs Shaw enjoyed the romance of the present engagement rather more than her daughter"
 - "It is possible she might have had little qualms of ill-concealed regret that Captain Lennox could not have united in his person everything that was desirable. In this she was but her mother's child"
 - "there are forms and ceremonies to be gone through, not so much to satisfy oneself, as to stop the world's mouht, without which stoppage there would be very little satisfaction in life"
-- 
+
