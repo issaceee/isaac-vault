@@ -29,3 +29,7 @@ ch.1
 - "It is possible she might have had little qualms of ill-concealed regret that Captain Lennox could not have united in his person everything that was desirable. In this she was but her mother's child"
 - "there are forms and ceremonies to be gone through, not so much to satisfy oneself, as to stop the world's mouht, without which stoppage there would be very little satisfaction in life"
 
+ch. 2
+- Mrs Hale :"as he had not the money to equip his wife afresh, from top to toe, she would not show herself at her only sister's only wedding"
+- Margaret: "She took a pride in her forest. Its people were her people. She made hearty friends with theml learned and delighted in using their peculiar words; took up her freedom amongst theml nursed their babiesl t..."
+- 
