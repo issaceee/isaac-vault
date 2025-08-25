@@ -42,4 +42,10 @@ ch. 3
 ch. 4
 - "how she could have loved him if he had but been different, with a difference which .... to be one that went low -- deep down"
 - "Margaret felt guilty and ashamed of having grown so much into a woman as to be thought of in marriage"
-- 
+
+- large juxtaposition btw Helstone and Milton-Northern, a manufacturing town 
+- "What in the world do manufacturers want with the .... accomplishments of a gentlement"
+- "conscious of their own deficiencies... have been"
+
+ch. 5
+- dream of Mr Lennox: "he was climbin up some tree.. he was dead... talking to him as of old... terrible fall"
