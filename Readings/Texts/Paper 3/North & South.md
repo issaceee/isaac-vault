@@ -57,4 +57,25 @@ ch. 6
 
 ch. 7
 - "everything looked more purposelike"
-- 
+- "She had never come fairly in contact with .... which are of themselves the framework of elegance"
+- "a young lady of a different type to most... her dress was very plain... and which she wore as an empress wears her drapery"
+- "with her superb ways of moving and looking..."
+- "full of feminine defiance, always gave strangers the impression of haughtiness"
+
+- this chapter has quotes on the male gaze on Margaret
+
+- "Dont call the Milton manufactures tradesmen... They are very different"
+- "what he did not care to do for a Reverend.... he was only too glad to do..."
+	- compare the reputation btw Hale and Thronton in Helstone vs Milton
+
+ch. 8
+- use of smoke and fog: entire setting screams uncertainty
+- "THe window,... looked to the blank wall of a similar projection... it loomed through the fog like a great barrior to hope"
+
+- juxtaposition btw Edith's life and Margaret
+
+- "as she realised what might have been, she grew to be thankful for what was. They were at the lowest now; they could not be worse."
+
+- "most of the manufacturers polaced.... unsparingly cutting away all off-shoots in the direction of literature or high mental cultiuvation, in hopes of throwing the whole strength and vigour of the plant into commerce"
+- "the power of the machinery of milton, the power of the men of milton, impressed him with a sense ofgrandeur... she was thrown with one or two of those who, in all measures affecting masses of people, must be acute sufferes for the good of many. The question always is, has everything been done to make the sufferings of these exceptions as small as possible? Or, in the triumph of the crowded procession, have the helpless been trampled on, instead of being gently lifted aside out of the roadway of the conqueror, whom they have no power to accompany on his march"
+- "endure the rough independent way in which all the Milton girls... even went the lenght of questioning...having doubts and fears oftheir own"
