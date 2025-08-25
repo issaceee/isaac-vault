@@ -79,3 +79,20 @@ ch. 8
 - "most of the manufacturers polaced.... unsparingly cutting away all off-shoots in the direction of literature or high mental cultiuvation, in hopes of throwing the whole strength and vigour of the plant into commerce"
 - "the power of the machinery of milton, the power of the men of milton, impressed him with a sense ofgrandeur... she was thrown with one or two of those who, in all measures affecting masses of people, must be acute sufferes for the good of many. The question always is, has everything been done to make the sufferings of these exceptions as small as possible? Or, in the triumph of the crowded procession, have the helpless been trampled on, instead of being gently lifted aside out of the roadway of the conqueror, whom they have no power to accompany on his march"
 - "endure the rough independent way in which all the Milton girls... even went the lenght of questioning...having doubts and fears oftheir own"
+
+- "They came rushing along... not unfriendly freedom"
+- "simple reliance opn her womanly sympathy with their love of dress"
+
+- "ANd yetyo see North and South has both met and made kind o friends in this big smoky place" - Milton as a place where people gather - pros of industrialisation?
+
+
+ch. 9
+- First instance of Mrs Thronton, directly after chracterisation of Margaret
+
+ch. 10
+- Mr thronton likes Margaret! so cute
+- pg. 81 "If there is less adventure or less progress... I see men here"
+- "raw crude materials came togerher; men of the same level, as regarded education and station, took suddenly the different positions of masters.... recieve his orders... what unlimited power the manufacturers had about the beginning of this century" pg 83 highlights the commoners vs the masters
+- "it is one of the great beauties of our system, that a workingman may raise ....."
+
+chapter 11
