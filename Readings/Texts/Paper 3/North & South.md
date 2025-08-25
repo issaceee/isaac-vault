@@ -32,4 +32,5 @@ ch.1
 ch. 2
 - Mrs Hale :"as he had not the money to equip his wife afresh, from top to toe, she would not show herself at her only sister's only wedding"
 - Margaret: "She took a pride in her forest. Its people were her people. She made hearty friends with theml learned and delighted in using their peculiar words; took up her freedom amongst theml nursed their babiesl t..."
-- 
+
+ch. 3
