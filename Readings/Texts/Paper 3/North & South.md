@@ -34,3 +34,12 @@ ch. 2
 - Margaret: "She took a pride in her forest. Its people were her people. She made hearty friends with theml learned and delighted in using their peculiar words; took up her freedom amongst theml nursed their babiesl t..."
 
 ch. 3
+- would be amply rewarded by one year of such an exquisite serene life as this such .... as if it were a nest" "You must please to remember... and get sodden"
+- "I have alwasy thought... "
+- pg 29-30: confession and rejection
+- "I believe I love you more than ever - if I do not hate you"
+
+ch. 4
+- "how she could have loved him if he had but been different, with a difference which .... to be one that went low -- deep down"
+- "Margaret felt guilty and ashamed of having grown so much into a woman as to be thought of in marriage"
+- 
