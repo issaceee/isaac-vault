@@ -92,7 +92,7 @@ ch. 9
 ch. 10
 - Mr thronton likes Margaret! so cute
 - pg. 81 "If there is less adventure or less progress... I see men here"
-- "raw crude materials came togerher; men of the same level, as regarded education and station, took suddenly the different positions of masters.... recieve his orders... what unlimited power the manufacturers had about the beginning of this century" pg 83 highlights the commoners vs the masters
+	- "raw crude materials came togerher; men of the same level, as regarded education and station, took suddenly the different positions of masters.... recieve his orders... what unlimited power the manufacturers had about the beginning of this century" pg 83 highlights the commoners vs the masters
 - "it is one of the great beauties of our system, that a workingman may raise ....."
 
 chapter 11
