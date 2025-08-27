@@ -124,4 +124,6 @@ ch. 15
 - "i choose to be the unquestioned.... I myself exact"
 
 ch 16.
-- 
+- "And when you fire up, you;re the very image..."
+
+ch. 17
