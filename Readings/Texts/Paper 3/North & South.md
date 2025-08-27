@@ -111,5 +111,17 @@ ch. 13
 - "I felt somethered like down below"
 - "if this should be th' end of all...I could."
 
-ch. 14
+ch. 14 (about Frederick Hale, the oldest Hale son)
+- "Loyalty and obedience to wisdom and justice are finel but it is still finer to defy arbitrary power, unjustly and cruelly used - not on behalf of ourselves, but on behalf of others more helpless"
+
+ch. 15
+- "Wherever she looked there was evidence of care and labour, but not care and labour to procure ease, to help on habits of tran.... dirt or destruction"
+- "they want to be masters, and make..."
+- "South country people are often frightened by what our Darkshire men and women only call living and struggling"
+- "two classes dependent on each other in every possible way... running each other down"
+- "as if the masters would like their hands to be merely tall, large children -- living in the present moment -- with a blind unreasoning kind of obedience"
+- taqlking as if the workers are children - maturity as a metaphor for political and class consciousness
+- "i choose to be the unquestioned.... I myself exact"
+
+ch 16.
 - 
