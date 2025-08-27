@@ -96,3 +96,11 @@ ch. 10
 - "it is one of the great beauties of our system, that a workingman may raise ....."
 
 chapter 11
+- "when he spoke of the mechanical powers, he evidently looked upon them only as new ways of extending trade and making money"
+- "the air itself was so different, deprived of all revivifying principle as it seemed to be here; the domestic worries pressed so very closely, and in so new and sordid a form upon all the women in the family"
+- "Margaret heard her murmur to herself: ' They shall hunger no more, neither thirst any more; neither shall the sun loight on them, nor any heat'"
+- "I could wish there were a God, if it were only to ask Him to bless thee"
+
+ch. 12
+"The very daringness with which mother and son spoke out unpalatbale truths.... each other's souls"
+
