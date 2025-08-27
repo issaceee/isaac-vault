@@ -102,5 +102,14 @@ chapter 11
 - "I could wish there were a God, if it were only to ask Him to bless thee"
 
 ch. 12
-"The very daringness with which mother and son spoke out unpalatbale truths.... each other's souls"
+- "The very daringness with which mother and son spoke out unpalatbale truths.... each other's souls"
+- "the room altogether was full of knick-knacks, which must take a long time to dust; and time to people of limited income was money"
+- "do you like new music simply for its newness, then?"
 
+ch. 13
+- "as she went along the crowded narrow streets, she felt how much of interest they had gained by the simple favct of her having learnt to care for a dweller in them"
+- "I felt somethered like down below"
+- "if this should be th' end of all...I could."
+
+ch. 14
+- 
