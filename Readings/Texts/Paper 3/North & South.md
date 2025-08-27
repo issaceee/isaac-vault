@@ -127,3 +127,6 @@ ch 16.
 - "And when you fire up, you;re the very image..."
 
 ch. 17
+- "we known when we're put upon..."
+- "its not that they've too much sense, but that they've too little spirit"
+- "what is em to do"
