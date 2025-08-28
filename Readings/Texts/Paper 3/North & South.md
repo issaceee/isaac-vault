@@ -169,3 +169,7 @@ ch. 21
 - "Margaret had taken off her gown and tossed it aside with a sortof impatient disgust"
 
 ch. 22
+- 'hands' trying to break into Mr Thornton's house (imported hands from overseas)
+- "save these poor strangers, whom you have decoyed here. Speak to your workmen as if they were human beings. Speak to them kindly. Dont let the soldiers come in and cut down poor creatures who are driven mad."
+- "Many in the crowd were mere boys; cruel and thoughtless, - ...little ones of bread"
+- 
