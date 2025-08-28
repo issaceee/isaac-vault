@@ -129,4 +129,7 @@ ch 16.
 ch. 17
 - "we known when we're put upon..."
 - "its not that they've too much sense, but that they've too little spirit"
-- "what is em to doq"
+- "what is em to do"
+- "I wonder how she'll sin. All on us must sin."
+
+ch. 18
