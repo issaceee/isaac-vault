@@ -133,3 +133,8 @@ ch. 17
 - "I wonder how she'll sin. All on us must sin."
 
 ch. 18
+- "But they dont quite understand all, though they think they do."
+- "fools -ignorant wayward men like these - just by uniting their weak silly heads, are to rule over the fortune of those who bring all the wisdom that knowledge and experience, and often painful thought and anxiety, can give"
+- "he would start life again, comforted by the conviction that those who brought it on were in a worse predicament than he himself - for he had head as well as hands, while they had only hands"
+
+ch. 19
