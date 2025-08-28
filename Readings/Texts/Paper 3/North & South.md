@@ -158,4 +158,13 @@ ch. 20
 - "as for the continual murmur of of the work-people, it distrubs me no moren than the humming of a hive of bees"
 
 - "he shook hands with Maragret. He knew it was the first time their hands had met, though she was perfecvtly unconscious of the fact."
+- "it might be rather rampant in its display, and savour of boasting; but still they seemed to defy the old limits of possibility, in a kind of fine intoxication, caused by the recollection of what had been achieved, and what yet should be.... much to admire in their forgetfulness of themselves and the present, in their anticipated triumphs over all inanimate matter at some future time which none of them should live to see."
+
+- "a man is to me a higher and a completer being than a gentleman..."
+
+ch. 21
+- "why, they took nouns.... in the prettiest accidental manner possible"
+- "I felt like a great hypocrite... good thorough..."
+
+- "Margaret had taken off her gown and tossed it aside with a sortof impatient disgust"
 - 
