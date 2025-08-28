@@ -167,4 +167,5 @@ ch. 21
 - "I felt like a great hypocrite... good thorough..."
 
 - "Margaret had taken off her gown and tossed it aside with a sortof impatient disgust"
-- 
+
+ch. 22
