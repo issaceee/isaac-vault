@@ -138,3 +138,16 @@ ch. 18
 - "he would start life again, comforted by the conviction that those who brought it on were in a worse predicament than he himself - for he had head as well as hands, while they had only hands"
 
 ch. 19
+- "th' women are as bad as th' men, in their savageness, this time. Food is high, - and they mun have food for their childer, I reckon."
+- "Some's pre-elected to sumptuous feasts, and purple and fine linen, - may be yo're one on 'em. Others toil and moil all their lives long -and the very dogs are not pitiful in our days, as they were in the days of Lazarus"
+- "Some spoke o' deadly hatred, and made my blood run cold wi/ the terreible things they said o' th' masters, -but more, being women, kept plaining, plaining (wi' the tears running down their cheeks, and never wiped away, nor heeded), of the price o' meat, and how their childer could na sleep at nights for th' hunger."
+- "they would have scorned....consequences were so entirely logical"
+- 'who would fain lie down and quietly die out of the world that needed them not, but felt as if they could never rest in their graves for the clinging cries of the beloved and helpless they would leave behindl who envied the power of the wild bird, that can feed her young with her very heart's blood.'
+
+- the entire dinner scene is written is a very detached manner (// "as if commerce were evertghing and humanity nothing")
+
+- "how reconcile those eyes, that voice with the hard-reasoning, dry, merciless way in which he laid down the acioms of trade, and serenely followed them out to their full consequences? The discord jarred upon her inexpressibly"
+- "yo' may be kind hearts, each separate; but once banded together, yo've no more pity for a man than a wild hunger-maddened wolf."
+
+- 'she took out her purse; ....'
+- 
