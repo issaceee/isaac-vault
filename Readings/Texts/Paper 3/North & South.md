@@ -150,4 +150,6 @@ ch. 19
 - "yo' may be kind hearts, each separate; but once banded together, yo've no more pity for a man than a wild hunger-maddened wolf."
 
 - 'she took out her purse; ....'
-- 
+
+ch. 20
+- "margaret could not help comparing this strange....more than a year ago"
