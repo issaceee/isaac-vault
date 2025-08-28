@@ -153,3 +153,9 @@ ch. 19
 
 ch. 20
 - "margaret could not help comparing this strange....more than a year ago"
+- "Margaret, with her London cultivated taste, felt the number of delicacies to be oppresive; one hald of the quantity would have been enough, and the effect... old magnificence of preparation"
+- "Every corner was taken off...weariness to the eye"
+- "as for the continual murmur of of the work-people, it distrubs me no moren than the humming of a hive of bees"
+
+- "he shook hands with Maragret. He knew it was the first time their hands had met, though she was perfecvtly unconscious of the fact."
+- 
