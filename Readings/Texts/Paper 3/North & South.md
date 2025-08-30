@@ -220,3 +220,9 @@ ch 16.
 ## Vol 2
 
 ### ch.1 
+- "they had been her pride when she was first married... carefully unpicked the G. H."
+- "all household pplenty and comfort, all purple and fine linen, honour, love, obedience, troops of friends would... for their separate value"
+
+- "If she had been a Milton las.... piungent, and had taste, and spirit and flavour in her"
+
+### ch. 2
