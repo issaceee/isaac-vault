@@ -226,3 +226,9 @@ ch 16.
 - "If she had been a Milton las.... piungent, and had taste, and spirit and flavour in her"
 
 ### ch. 2
+- "When trade is bad, there's more undermining of health, and preparation for death, going on among you Milton men than you're aware of."
+- Margaret choosing to see Betty's dead body
+- "They've just a notion these common folkd, of its being a respect to the departed"
+
+### ch. 3
+- 
