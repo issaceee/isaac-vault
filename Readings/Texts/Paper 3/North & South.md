@@ -227,11 +227,19 @@ ch 16.
 
 ### ch. 2
 - "When trade is bad, there's more undermining of health, and preparation for death, going on among you Milton men than you're aware of."
-- Margaret choosing to see Betty's dead body
+- Margaret choosing to see Bessy's dead body
 - "They've just a notion these common folkd, of its being a respect to the departed"
 
 ### ch. 3
-- Margaret visiting Betty's dead body
+- Margaret visiting Bessy's dead body
 
 - "And that was death! It looked more peaceful than life."
--  
+- "Goodbye, ou'd wench! We've parted.... lone and forlorn for evermore"
+- "d'ye think their first cry.... "
+- "If salvation, and life to come, and what not, was truenot in men's words, but in men's hearts' core–dun yo' not think they'd din us wi' it as they do wi' political 'conomy"
+- "We do not reason–we bel;ieve; and so do you. It is the one sole comfort in such times."
+
+- "The workmen's calculations were based (like too many of the masters') on false premises"
+
+- page 229 monologue is q interesting - "it went on about capital and labour, and labour and capital.... it spoke on'em as if they was vartues or vices; and what I wanted for to know were the rights o' men, whether they were rich or poor–so be they only were men."
+- "suppose it was truth double strong, it were no truth to me if I couldna take it in"
