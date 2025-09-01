@@ -231,4 +231,7 @@ ch 16.
 - "They've just a notion these common folkd, of its being a respect to the departed"
 
 ### ch. 3
-- 
+- Margaret visiting Betty's dead body
+
+- "And that was death! It looked more peaceful than life."
+-  
