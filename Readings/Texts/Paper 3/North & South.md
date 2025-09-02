@@ -19,6 +19,20 @@ Gaskell: "I dare say I shall like my story, when I am a little further from itl 
 - Why exactly did Gaskell feel that such a format didn't allow for her story to be told faithfully
 
 
+# Thoughts
+
+- Perspective & Truth
+	- The masters and the hands each have their own perspective of what is right and wrong, whether or not both are true
+	- The Hales, as an outsider are in a privileged position of being a mediator between the two truths here, but this is only because they are outsiders
+		- yet, because of being outsiders, the truth of some situations are also inaccessible to the Hales (they cannot relate to the plights of either)
+		- yet, they also CAN relate to both
+			- // bessy and Mrs Hale: in terms of being sick/being affected by the working conditions
+			- // bessy and Margaret: in terms of being young teenage girls that are religious and trying to navigate
+			- Margaret vs Edith (Margaret's could have been if she went with lennox?)
+	- I think it'll also be interesting to consider the idea of religion here (one singular truth)
+		- I think gaskell sets up a little bit of foreshadowing in highlighting first the father's struggle with the church and their one singular ideology, and this sets the precursor/context for the entire story and sturggle
+		- There's also a lot of references/allusions within the story itself, i think it is an attempt to lend credibility to certain perspectives and truths, yet at the same time there is always other allusions to various other truths that call into question other truths
+
 # Key Points
 
 ## Vol 1
@@ -243,3 +257,26 @@ ch 16.
 
 - page 229 monologue is q interesting - "it went on about capital and labour, and labour and capital.... it spoke on'em as if they was vartues or vices; and what I wanted for to know were the rights o' men, whether they were rich or poor–so be they only were men."
 - "suppose it was truth double strong, it were no truth to me if I couldna take it in"
+- "he'll larn me what the words mean, and not blow me up if I'm a bit stupid, or forget how one thing hangs on another–why, in time I may get to see the truth of it; or I may not"
+- "I'll not be bound to say I shall end in thinking the same as any man."
+- "truth can be shaped out in words, all neat and clean"
+- "Folk who sets up to doctor th' world wi' their truth, mun suit different for different mindsl and be abhit tender in th' way of giving it too, or th' poor sick fools may spit out i' their faces"
+
+- "if a man doesn't belong to th' Union.... he's out o' bounds; he's none o' us; he comes among us, he works among us, but he's none o' us"
+- "The dead stand between yo' and every angry word o' mine."
+
+- "And it's th' masters as has made us sin, if th' Union is a sin. Not this generation maybe, but their fathers. Their fathers ground our fathers to the very dust; ground us to powder"
+	- "The fathers have eaten sour grapes and th' children's teeth are set on edge"
+
+- "Margaret the Churchwoman, her father the Dissenter, Higgins the Infidel, knelt down together. It did them no harm."
+
+### ch. 4
+- "Did not somebody burn his hand for having said or done something he was sorry for? Well I can't burn mine, because it would hurt me and the scar would be ugly; but I'll retract all I said as fast as I can."
+- "a tender craving to bespeak the kindness of some woman towards the daughter that might soon be left motherless"
+- "Margaret, don't get to use these horrid Milton words. "slack of work:" it is a provincialism. What will your aunt Shaw say, if she hears you use it on her return" 
+- "But yours is factory slang."
+- "If I live in a factory town. I must speak factory language when I want it"
+
+### ch. 5
+- "There lay Mrs. Hale–a mother like herself–a much younger woman than she was,–on the bed from which there was no sign of hope that she might e....monotonous life seemed almost too much!"
+- "–of a little daughter–dead in infancy–long years ago–that, like a sudden sunbeam, melted the icy crust, behind which there was a real tender woman"
