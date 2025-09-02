@@ -81,7 +81,7 @@ Gaskell: "I dare say I shall like my story, when I am a little further from itl 
 
 - "Dont call the Milton manufactures tradesmen... They are very different"
 - "what he did not care to do for a Reverend.... he was only too glad to do..."
-	- compare the reputation btw Hale and Thronton in Helstone vs Milton
+	- compare the reputation btw Hale and Thornton in Helstone vs Milton
 
 ### ch. 8
 - use of smoke and fog: entire setting screams uncertainty
@@ -102,10 +102,10 @@ Gaskell: "I dare say I shall like my story, when I am a little further from itl 
 
 
 ### ch. 9
-- First instance of Mrs Thronton, directly after chracterisation of Margaret
+- First instance of Mrs Thornton, directly after chracterisation of Margaret
 
 ### ch. 10
-- Mr thronton likes Margaret! so cute
+- Mr Thornton likes Margaret! so cute
 - pg. 81 "If there is less adventure or less progress... I see men here"
 	- "raw crude materials came togerher; men of the same level, as regarded education and station, took suddenly the different positions of masters.... recieve his orders... what unlimited power the manufacturers had about the beginning of this century" pg 83 highlights the commoners vs the masters
 - "it is one of the great beauties of our system, that a workingman may raise ....."
@@ -190,7 +190,7 @@ ch 16.
 - ,
 
 ### ch. 23
-- "Still love is selfish, and in an instant he reverted to his own hopes and fears in a way that drew the cold creeping shadow over Mrs Thronton's heart"
+- "Still love is selfish, and in an instant he reverted to his own hopes and fears in a way that drew the cold creeping shadow over Mrs Thornton's heart"
 - "I shall put myself at her feet - I must. If it were but one chance ina. thousand - or a million - I should do it."
 
 - "Did I do any good? They would have gone away without me, I dare say"
@@ -280,3 +280,99 @@ ch 16.
 ### ch. 5
 - "There lay Mrs. Hale–a mother like herself–a much younger woman than she was,–on the bed from which there was no sign of hope that she might e....monotonous life seemed almost too much!"
 - "–of a little daughter–dead in infancy–long years ago–that, like a sudden sunbeam, melted the icy crust, behind which there was a real tender woman"
+
+- "I will hope. I will, in spite of a thousand doctors. bear up, Margaret, and be brave enough to hope!"
+- "Do something, my sister, do good if you can; but at any rate, do something."
+- "Blot your misdeeds out (if you are particularly conscientious), by a good deed, as soon as you can.... It was better than wetting our sponge with our tears; both less loss of time where tears had to be waited for, and a better effect at last."
+
+- "Her husband might lie by her shaking the bed with his sobs; her son's strong arms might lift her tenderly up into a comfortable position; her daughter's hands might bathe her face; but she knew them not. She would never recognise them again, till they met in heaven"
+
+### ch. 6
+- "The father and brother depended upon her; while they were giving way to grief, she must be working, planning, considering. Even the necessary arrangmenets for the funeral seemed to devolve upon her."
+- "but this seemed a loss by itself; not to bear comparison with any other event in the world"
+
+- "Go, when his cares for the living mother, and sorrow for the dead, seemed to make him one of those peculiar people who are bound to us by a fellow-love for them that are taken away"
+
+- "We had plenty of our own–trees loaded with them; but some one had told you that stolen fruit tasted sweetest, which you took au pied de la lettre, and off you went a-robbing"
+
+- "consider it as an assembly where justice is administered, instead of what it really is–a court where authority weighs nine-tenths in the balance, and evidence forms only the other tenths"
+
+- "She is too perfect to be known by fragments. No mean brick shall be a specimen of the building of my palace."
+
+### ch. 7
+
+
+### ch. 8
+- "No: because they can't control themselves. WOmen of our class don't go, because they have no power over their emotions, and yet are ashamed of showing them. Poor women go, and don't care if they are seen overwhelmed with grief. But I promise you, papa, that if you will let me go, I will be no trouble"
+- "that the last visible token of the presence of his wife was to be carried away from him, and hidden from his sight"
+- "Pray for me, Margaret. I have no strength left in me. I cannot pray. I give her up because I must. I try to bear it: indeed I do. I know it is God's will. But I cannot see why she died. Pray for me, Margaret, that I may have faith to pray"
+
+- "It took a great moral effort to galvanise his trust–ere–while so perfect–in Margaret's pure and exquisite maidenliness, into life..."
+
+- "For some reason or other, Dixon never named this interview that she had had with Mr Thornton to Margaret. It might have been mere chance, but so it was that Margaret never heard that he had attended her poor mother's funeral"
+
+### ch. 9
+- "There was something of infignation expressed in her countenance, but so kept down and controlled, that it gave her a superb air of disdain. There was no surprise, no curiosity. She stood awaiting the opening of his business there. Not a question did she ask."
+
+### ch. 10
+- "It was curious how the presence of Mr. Thornton had power over Mr Hale to make him unlock the secret thoughts which he kept shut up even from Margaret"
+- "Man of action as he was, busy in the world's great battle, there was a deeper religion binding him to God in his heart, in spite of his strong wilfulness, through all his mistakes than Mr Hale had ever dreamed."
+- "When all are admitted, how can there by a Holy of Holies?"
+
+- "if he had but foreseen that she would have stained her whiteness by a falsefood"
+
+- "She stood as a liar in his eyes. She was a liar. But she had no thought of penitence before God; nothing but chaos and night surrounded the one lurid fact that, in Mr Thornton's eyes, she was degraded"
+
+- "Mr Thornton, above all people, on whjome she had looked down from her imaginary heights till now! She suddenly found herself at his feet and was strangely distressed at her fall."
+
+- "Not humbled before God, as having failed in trust towards Him; not degraded and abased in Mr Thornton's sight" - "here was she calssing his low opinion of her alonside with the displeasure of God"
+- "She believed that she could have borne the sense of Almighty displeasure, because He knew all, and could read her penitence, and hear her cries for help in time to come. But Mr. Thornton– why did she tremble, and hide her face in the pillow?"
+
+- "she was not good enough, nor pure enough to be indifferent to the lowered opinion of a fellow creature;that the thought of how he must be looking upon her with contempt, stoood between her and her sense of wrong-doing"
+
+- "Fomerly, Margaret would have come to him as priest as well as father, to tell him of her temptations nad her sin; but latterly they had not spoken much on such subjectsl and she knew not how, in his change of opinions, he would reply if the depth of her soul called unto his"
+
+- "It would seem unfair–unkind to your mother, who always, I'm afraid, disliked Milton so much, if we left it now she is lying here, and cannot go with us."
+
+- "her father;s relapse into his abstracted musing upon the wife he had lost, and the past era in his life that was closed to him forever."
+
+### ch. 11
+- """Gi' me work" means "and i'll do it like a man.." Them's Good words...""
+- "that's a less sin, to my mind, to making men's hearts so hard that they'll not do a kindness to them as needs it, or help on the right and just cause, though it goes again the strong hand"
+- "By-and-by they'll find out, tyrants makes liars."
+- "But once i' the Union, his interests are taken care on better nor he could do it for himsel' or by himsel'... it puts a bit of a check on him, whether he likes it or no"
+- "It;s  a great power: it's our only power"
+- "Don't you see how you've made Boucher what he is, by driving him into the Union against his will– without his heart going with it. you have made him what he is!'
+- "made him what he is! what was he?
+	- not quotation - part of narrative
+
+- "I will go,' said she."
+
+- the entire sequence of events is meant to question Nicholas Higgin's undying loyalty to the Union. Union --> ostracized Boucher --> Boucher cannot find work --> kill himself
+
+### ch. 12
+- "Margaret's heart bled.... It was intermingling the coarsness of horror with the profoundness of natural grief."
+- "She could not enter into the enduring mercy of the God who had not specially interposed to prevent the water from drowning her prostrate husband"
+- "The masters... the union... the children... all made up one great army of personal enemies, whose fault it was that she was now a helpless widow"
+
+- "it is the town life... their nevers .... and in the country some get such stagnant habits of mind that they are almost fatalists" - this entire dialogue and excahgne is interesting - i think it captures the heart of the novel
+
+- "Of all faults the one she most despised in others was the want of bravery; the meanness of heart which leads to untruth"
+
+- "Why master and you must always be asking the lower classes up-stairs, since we came to Milton, I cannot understand. Fold at Helstone were never brought higher than the kitchen; and I've let one or two fo them know before now that they might think it an honour to be even there"
+
+- "I've been a seeking work. I have.... I said to mysel', I'd keep a civil tongue in my head, let who would say what 'em would. I'd set my teeth into my tongue sooner nor speak i' haste"
+- "I would ha guided Boucher to a better end: but I set him off o' th' road, and so I mun answer for him"
+- "where food is cheap and wages good, and all the folk, rich and poor, master and man, friendly like: yo' could, may be, help me to work"
+
+- "You must not go to the South... for all that. You could not stand it..."
+- "You would not bear the dulness of the life...it would eat you away like rust... What would be peace to them, would be enternal fretting to you"
+
+- "God hel 'em! North an' South..."
+
+- "Meddling 'twixt master and man is liker meddling 'twixt husband and wife than aught else"
+- "It's amusing to see how he evidently respects the part in Mr Thornton's character which is like his own"
+- "if he and Mr Thornton would speak out together as man to man–if Higgins would forget that Mr. Thornton was a master, and speak to him as he does to us– and if Mr. Thornton would be patient enough to listen to him with his human heart, not with his master's ears"
+
+### ch. 13
+- 
