@@ -1,0 +1,4 @@
+
+# Thoughts
+
+# Key Qoutes

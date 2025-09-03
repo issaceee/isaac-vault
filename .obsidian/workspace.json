@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Texts/Paper 3/North & South.md",
+                "file": "Readings/Texts/Paper 3/Moby Dick/Moby Dick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "North & South"
+              "title": "Moby Dick"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5de73303b1554d22",
@@ -170,11 +169,13 @@
   },
   "active": "e90fd27894096904",
   "lastOpenFiles": [
+    "Readings/Texts/Paper 3/North & South/North & South.md",
+    "Readings/Texts/Paper 3/Moby Dick/Moby Dick.md",
+    "Readings/Texts/Paper 3/Moby Dick",
+    "Readings/Texts/Paper 3/North & South",
     "Readings/Texts/Paper 3/North & South haha.md",
-    "Readings/Texts/Paper 3/North & South.md",
     "Readings/Texts/Victorian/Wuthering Heights/Stoneman, Feminist Criticism of “Wuthering Heights.”.md",
     "To Dos/domestic.md",
-    "Untitled",
     "Readings/Texts/Paper 3",
     "To Dos/natural supernaturalism.md",
     "To Dos",
