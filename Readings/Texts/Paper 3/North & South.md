@@ -409,3 +409,5 @@ ch 16.
 - "Margaret smiled a little, and then sighed as she remembered afresh her old tirades against trade. here was her preux chevalier of a brother turned merchant, trader!"
 - "It was astonishing, almost stunning, to feel herself so much at liberty; no one depending on her for cheering care, if not for positive happiness; no invalid to plan and think for; she might be idle, and silent, and forgetful,–and what seemed worth more than all the other privileges–she might be unhappy if she liked"
 - "For months past.....elements of peace"
+
+- "not even if I could have known how *she* would have suffered,–that I would undo it– the act of open acknowledgement that I no longer held the same faitha s the chruch in which I was a priest. As I think now, even if I could have foreseen that cruellest martyrdom of suffering, through the sufferings of one whome I loved, I would have done just the same as fara as that step of openly leaving the church went"
