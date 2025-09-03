@@ -454,3 +454,12 @@ ch 16.
 
 ### ch. 22
 - ""
+
+### ch. 23
+- "Every talen, every feeling, every acquirement; nay, even every tendency towards virtue, was used up as materials for fireworks; the hidden, sacred fire, exhausted itself in sparkle and crackle. They talked about art in a merely sensuous way, dwelling on outside effects, instead of allowing themselves to learn what it has to teach."
+
+- "Margaret's room had been the day nursery of ehr childhood, just when it merged into girlhood, and when the feelings and conscience had been first awakened into full activity"
+
+- "If all the world spoke, acted, or kept silence with intent to deceive,–if dearest interests were at stake, and dearest lives in peril,–if no one should ever know of her truth or her falsehood to measure out their honour or contempt for her by, straight alone where she stood, in the presence of God, she prayed that she might have strength to speak and act the truth for evermore."
+
+### ch. 24
