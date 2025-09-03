@@ -418,3 +418,7 @@ ch 16.
 
 ### ch. 18
 - "It is sometimes very pretty–in summer; you can't judge by what it is now. I have been very happy here"
+
+### ch. 19
+- "have a secret feeling that the Helstone Vicarage–nay, even the poor little house at Milton, with her anxious father and her invalid mother, and all the small household cares of comparative, poverty, composed her idea of home"
+- "there might be toilers and moilers there in London, but she never saw them; the very servants lived in an underground world of their own, of which she knew neither the hopes nor the fears; they only seemed to start into existence when some want or whim of their master and mistress needed them"
