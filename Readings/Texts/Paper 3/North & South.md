@@ -474,3 +474,12 @@ ch 16.
 - "among a race of people strange, shrewd, ignorant; but above, all, full of character and strong human feeling."
 
 - "how it was, or could be, that two men like himself and Higgins, living by the same trade, working in their different ways at the same object, could look upon each other's position and duties in so strangely different a way."
+
+### ch. 26
+- "the advantages were mutual; we were both unconsciously and consciously teaching each other"
+- "no mere institutions, however wise, and however much thought may have been required to organise and arrange them, can attach class to class as they should be attached, unless the working out of such institutions bring the individuals of the different classes into actual personal contact"
+- "such intercourse is the very breath of life"
+
+### ch. 27
+- "What it is to find oneself no longer young – yet thrown back to the strating-point which requires the hopeful energy of youth–to feel one half of life gone, and nothing done–nothing remaining of wasted opportunity, but the bitter recollection that it has been"
+- "Those who are happy and successful themselves are too apt to make light of the misfortune of others"
