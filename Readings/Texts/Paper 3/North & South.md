@@ -417,4 +417,4 @@ ch 16.
 - "Nothing like the act of eating for equalising men. Dying is nothing to it. The philosopher dies sententiously–the phrarisee ostentatiously–the simple-hearted humbly–the poor idiot blindly, as the sparrow falls to the ground; the philosopher and idiot, publican and pharisee, all eat after the same fashion–given an equally good digestion"
 
 ### ch. 18
-- 
+- "It is sometimes very pretty–in summer; you can't judge by what it is now. I have been very happy here"
