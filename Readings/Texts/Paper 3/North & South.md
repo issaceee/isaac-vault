@@ -406,3 +406,6 @@ ch 16.
 - "the want of a man's intercourse with men"
 
 ### ch. 16
+- "Margaret smiled a little, and then sighed as she remembered afresh her old tirades against trade. here was her preux chevalier of a brother turned merchant, trader!"
+- "It was astonishing, almost stunning, to feel herself so much at liberty; no one depending on her for cheering care, if not for positive happiness; no invalid to plan and think for; she might be idle, and silent, and forgetful,–and what seemed worth more than all the other privileges–she might be unhappy if she liked"
+- "For months past.....elements of peace"
