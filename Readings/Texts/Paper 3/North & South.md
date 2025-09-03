@@ -413,4 +413,8 @@ ch 16.
 - "not even if I could have known how *she* would have suffered,–that I would undo it– the act of open acknowledgement that I no longer held the same faitha s the chruch in which I was a priest. As I think now, even if I could have foreseen that cruellest martyrdom of suffering, through the sufferings of one whome I loved, I would have done just the same as fara as that step of openly leaving the church went"
 
 ### ch. 17
+- "I've got acquainted witha ..."
+- "Nothing like the act of eating for equalising men. Dying is nothing to it. The philosopher dies sententiously–the phrarisee ostentatiously–the simple-hearted humbly–the poor idiot blindly, as the sparrow falls to the ground; the philosopher and idiot, publican and pharisee, all eat after the same fashion–given an equally good digestion"
+
+### ch. 18
 - 
