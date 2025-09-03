@@ -375,4 +375,34 @@ ch 16.
 - "if he and Mr Thornton would speak out together as man to man–if Higgins would forget that Mr. Thornton was a master, and speak to him as he does to us– and if Mr. Thornton would be patient enough to listen to him with his human heart, not with his master's ears"
 
 ### ch. 13
-- 
+- "that falsehood! which showed a fatal consciousness of something wrong, and to be concealed, which was unlike her."
+- "Not against her, mother! I *could* not speak against her"
+- "Her sharp Damascus blade seemed out of place, and useless among rose-leaves"
+- "I like to see a girl fly out at the notion of being talked about. It shows they're neither giddy, nor bold by nature. as for that girl, she might be bold, but she'd never be giddy"
+
+- "and his tone was rougher than before"
+- "It is men such as this,' thought he, 'who interrupt commerce and injure the very town they live in: mere demagogues, lovers of power, at whatever cost to others'"
+
+- "You'd be a knobstick. You'd be taking less wages than the other labourers–all for the sake of another man's children. THink how you'd abuse any poor fellow who was willing to take what he could get to keep his own children. You and your Union would soon be upon him"
+
+- "it's a long time for a man to wait, doing nothing but first hoping and then fearing"
+
+### ch. 14
+- "I have passed our of childhood into old age. I had no youth–no womanhood; the hopes of womanhood have closed for me–for I shall never marry; and I anticipate cares and sorrows just as if I were an old woman, and with the same fearful spirit."
+
+- "Yo've called me impudent, and a liar, and a mischief-maker, and yo' might ha' said wi' some truth, as I were now and then given to drink. An' I ha' called you a tyrant, an' an oud bull-dog, and a hard, cruel master; that's where it stands. but for th' childer. Measter do yo' think we can e'er get on together"
+
+- "since then she had been buffeted about, and felt so exhausted by this recent struggle with herself, that she thought that even stagnation would be a rest and a refreshment."
+
+### ch. 15
+- "She's a democrat, a red republican, a member of the Peace Society, a socialist–"
+- "It's the bustle and the struggle they like. As for sitting still, and learning from the past, or shaping out the future by faithful work done in a prophetic spirirt"
+- "Milton people, I suspect, think Oxford men don't know how to move. It would be a very good thing if they mixed a little more."
+
+- pg. 332-334
+
+- "He's two chaps. One chap I knowed of old as were measter all o'er. T'other chap hasn't an ounce of measter's flesh about him. how them two chaps is bound up in one body, is a craddy for me to find out"
+
+- "the want of a man's intercourse with men"
+
+### ch. 16
