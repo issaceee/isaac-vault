@@ -463,3 +463,14 @@ ch 16.
 - "If all the world spoke, acted, or kept silence with intent to deceive,–if dearest interests were at stake, and dearest lives in peril,–if no one should ever know of her truth or her falsehood to measure out their honour or contempt for her by, straight alone where she stood, in the presence of God, she prayed that she might have strength to speak and act the truth for evermore."
 
 ### ch. 24
+- "Their energy, their power, their indomitable courage in struggling and fighting; their lurid vividness of existence, captivated and arrested his attention"
+- "I shall be merrier than I have ever been, now I have got my own way.... but no one can please me but myself"
+
+### ch. 25
+- first paragraph captures the heart of Milton
+	- "persistence of their monotonous work was rivalled in tireless endurance by the strong crowds, who, with sense and with purpose, were busy and restless in seeking ofter–What?"
+- "to the power, which he believed that commerce gave to every brave, honest, and persevering man, to raise himself to a level from which he might see and read the great game of worldly success, and honestly, by such far-sightedness, command more power and influence than. in any other mode of life.
+- "Once brought face to face, man to man, with an individual of the masses around him, and (take notice) out of character of master and workman, in the first instance, they had each begun to recognise that 'we have all of us one human heart.'"
+- "among a race of people strange, shrewd, ignorant; but above, all, full of character and strong human feeling."
+
+- "how it was, or could be, that two men like himself and Higgins, living by the same trade, working in their different ways at the same object, could look upon each other's position and duties in so strangely different a way."
