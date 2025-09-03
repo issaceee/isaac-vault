@@ -411,3 +411,6 @@ ch 16.
 - "For months past.....elements of peace"
 
 - "not even if I could have known how *she* would have suffered,–that I would undo it– the act of open acknowledgement that I no longer held the same faitha s the chruch in which I was a priest. As I think now, even if I could have foreseen that cruellest martyrdom of suffering, through the sufferings of one whome I loved, I would have done just the same as fara as that step of openly leaving the church went"
+
+### ch. 17
+- 
