@@ -422,3 +422,35 @@ ch 16.
 ### ch. 19
 - "have a secret feeling that the Helstone Vicarage–nay, even the poor little house at Milton, with her anxious father and her invalid mother, and all the small household cares of comparative, poverty, composed her idea of home"
 - "there might be toilers and moilers there in London, but she never saw them; the very servants lived in an underground world of their own, of which she knew neither the hopes nor the fears; they only seemed to start into existence when some want or whim of their master and mistress needed them"
+
+- "there was no call upon Mr. Hale to do what he did, relinquish the living, and throw himself and his family on the tender mercies of private teaching in a manufacturing town"
+- =="It is years since I have been at Helston–but I'll answer for it, is standing there yet–every stick and every stone as it has done for the alst century, while Milton! I go there every four or five years–and I was born there–yet I do assure you, I often lose my way–aye, among the very piles of warehouses that are built upon my father's orchard"==
+
+### ch. 20
+
+
+### ch. 21
+- "THe last time she had passed along this road was when she had left it with her father and mother–the dat, the season, had been gloomy, and she herself hopeless, but they were there with her Now she was alone, an orphan, and they, strangely had gone away from her, and vanished from the face of the earth"
+- "Nature felt no change, and was ever young."
+
+- "The white, lightning-scarred trunk of the...
+- "It is the first cahnges among familiar things that make such a mystery of time to the young, afterwards we lose the sense of the mysterious.
+
+- "it were very cruel for sure, and she should not like to do it; but that there was nothing like it for giving a person what they wished for; she had heard it all her life; but it were very cruel for all that."
+
+- "Margaret sate abashed. The children knew more than she did. Mr. Bell turned away, and smiled."
+
+- "The parsonage was so altered, both inside and out, that the real pain was less than she had anticipated"
+- "There was change everywhere; slight, yet pervading all. Households were changed by absence, or death, or marriage, or the natural mutations brought by days and months and years, which carry us on imperceptibly from childhood to youth, and thence through manhood to age, whence we drop like fruit, fully r..."
+
+- "The tainting blood of falsefood runs through us all."
+- "let me tell you about it–you could perhaps help me a little; no, not help me..."
+
+- "What other people may think of the rightness or wrongness is nothing in comparison to my own deep knowledge, my innate conviction that it was wrong."
+
+- "A sense of change, of individual nothingness, of perplexity and disappointment, over-powered Maragaret. Nothing had ever been the same; and this slight, all-pervading instability, had given her greater pain than if all had been too entirely changed for her to recognise it."
+
+- "And I too change perpetually–now this, now that–now disappointed and peevish because all is not exactly as I had pictured it, and now suddenly discovering that the reality is far more beautiful than I had imagined it"
+
+### ch. 22
+- ""
