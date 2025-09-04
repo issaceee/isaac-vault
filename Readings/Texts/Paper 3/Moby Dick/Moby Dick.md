@@ -95,7 +95,12 @@
 - “For sinful as he is, Jonah does not weep and wail for direct deliverance. He feels that his dreadful punishment is just. He leaves all his deliverance to God, contenting himself with this, that spite of all his pains and pangs, he will still look towards His holy temple. And here, shipmates, is true and faithful repentance; not clamorous for pardon, but grateful for punishment.”
 
 ## ch. 10
+- “You cannot hide the soul. Through all his unearthly tattooings, I thought I saw the traces of a simple honest heart; and in his large, deep eyes, fiery black and bold, there seemed tokens of a spirit that would dare a thousand devils. ”
 
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
 
 
 
