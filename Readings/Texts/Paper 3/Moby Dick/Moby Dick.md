@@ -93,6 +93,7 @@
 - “He thinks that a ship made by men, will carry him into countries where God does not reign, but only the Captains of this earth.”
 	- one cannot escape fate/destiny
 - “For sinful as he is, Jonah does not weep and wail for direct deliverance. He feels that his dreadful punishment is just. He leaves all his deliverance to God, contenting himself with this, that spite of all his pains and pangs, he will still look towards His holy temple. And here, shipmates, is true and faithful repentance; not clamorous for pardon, but grateful for punishment.”
+- "what is man that he should live out the lifetime of his God?"
 
 ## ch. 10
 - “You cannot hide the soul. Through all his unearthly tattooings, I thought I saw the traces of a simple honest heart; and in his large, deep eyes, fiery black and bold, there seemed tokens of a spirit that would dare a thousand devils. ” (about Queequeg)
@@ -102,6 +103,15 @@
 
 ## ch. 11
 - “there is no quality in this world that is not what it is merely by contrast. Nothing exists in itself.”
+
+## ch. 12
+- “It is not down on any map; true places never are.”
+- “ he paddled off to a distant strait, which he knew the ship must pass through when she quitted the island. On one side was a coral reef; on the other a low tongue of land, covered with mangrove thickets that grew out into the water. ”
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright. 
 
 
 
