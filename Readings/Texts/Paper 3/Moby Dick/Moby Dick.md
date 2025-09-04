@@ -90,6 +90,10 @@
 ### ch. 9
 - “offered a prayer so deeply devout that he seemed kneeling and praying at the bottom of the sea.”
 - “if we obey God, we must disobey ourselves; and it is in this disobeying ourselves, wherein the hardness of obeying God consists.”
+- “He thinks that a ship made by men, will carry him into countries where God does not reign, but only the Captains of this earth.”
+	- one cannot escape fate/destiny
+- 
+
 
 
 
