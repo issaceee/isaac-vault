@@ -124,6 +124,11 @@
 
 - “The prospect was unlimited, but exceedingly monotonous and forbidding; not the slightest variety that I could see.”
 
+- “; Ahab’s above the common; Ahab’s been in colleges, as well as ’mong the cannibals; been used to deeper wonders than the waves; fixed his fiery lance in mightier, stranger foes than whales. His lance! aye, the keenest and surest that out of all our isle! Oh! he ain’t Captain Bildad; no, and he ain’t Captain Peleg; he’s Ahab, boy; and Ahab of old, thou knowest, was a crowned king!”
+	- “Captain Ahab did not name himself. ”
+
+
+
  
 
 
