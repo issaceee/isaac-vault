@@ -16,4 +16,20 @@
 - "the great flood-gates of the wonder-world squng open, and in the wild conceits that swayed me to my purpose, two and two.... like a snow hill in the air"
 
 ## ch. 2
-- 
+- "Nantucket was her great original–the Tyre of this Carthage;–the place where the first dead American whale was stranded"
+
+- "the great Black Paarliament sitting in Tophet. A hundred black faces turned round in their rows to peer; and beyond, a black Angel of Doom was beating a book in a pulpit... blackness of darkness, and the weeping and wailing and teeth-gnashing there."
+
+- "Euroclydon, nevertheless, is a mighty pleasant zephyr to any one in-doors, with his feet on the hob quietly toasting for bed.... it maketh a marvellous difference, whether thou lookest out at it from a glass window where the frost is all on the outside, or whether thou observest it from that sashless window, whether the frost is on both sides, and of which the wight Death is the only glazier"
+	- outside - readers?
+
+
+- "we are going a-whaling..."
+	- use of "we"
+
+### ch. 3
+- "you found youself..."
+	- use of 2nd person pronouns // 
+
+- "THe picture represents a Cape-Horner in a great hurricane; the half-foundered ship weltering there with its three dismantled masts alone visible; and an exasperated whale, purposing to spring clean over the craft, is in the enormous act of impaling himself upon the three mast-heads" ^d19cd6
+
