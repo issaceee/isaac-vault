@@ -97,7 +97,11 @@
 ## ch. 10
 - “You cannot hide the soul. Through all his unearthly tattooings, I thought I saw the traces of a simple honest heart; and in his large, deep eyes, fiery black and bold, there seemed tokens of a spirit that would dare a thousand devils. ” (about Queequeg)
 - “And what is the will of God?—to do to my fellow man what I would have my fellow man to do to me— that is the will of God.”
+- “Thus, then, in our hearts’ honeymoon, lay I and Queequeg—a cosy, loving pair.”
+	- ????
 
+## ch. 11
+- “there is no quality in this world that is not what it is merely by contrast. Nothing exists in itself.”
 
 
 
