@@ -157,6 +157,48 @@
 - “ this six-inch chapter is the stoneless grave of Bulkington”
 - “Know ye now, Bulkington? Glimpses do ye seem to see of that mortally intolerable truth; that all deep, earnest thinking is but the intrepid effort of the soul to keep the open independence of her sea; while the wildest winds of heaven and earth conspire to cast her on the treacherous, slavish shore?”
 
+## ch. 24
+- “But, though the world scouts at us whale hunters, yet does it unwittingly pay us the profoundest homage; yea, an all-abounding adoration! for almost all the tapers, lamps, and candles that burn round the globe, burn, as before so many shrines, to our glory!”
+- “ One way and another, it has begotten events so remarkable in themselves, and so continuously momentous in their sequential issues, that whaling may well be regarded as that Egyptian mother,* who bore offspring themselves pregnant from her womb.”
+- “for a whale-ship was my Yale College and my Harvard.”
+
+## ch. 25
+- “But the only thing to be considered here, is this—what kind of oil is used at coronations? Certainly it cannot be olive oil, nor macassar oil, nor castor oil, nor bear’s oil, nor train oil, nor cod-liver oil. What then can it possibly be, but the sperm oil in its unmanufactured, unpolluted state, the sweetest of all oils?”
+
+## ch. 26
+- “'I will have no man in my boat,’ said Starbuck, ‘who is not afraid of a whale.’ By this, he seemed to mean, not only that the most reliable and useful courage was that which arises from the fair estimation of the encountered peril, but that an utterly fearless man is a far more dangerous comrade than a coward.”
+- “What doom was his own father’s? Where, in the bottomless deeps, could he find the torn limbs of his brother?”
+
+- “But were the coming narrative to reveal, in any instance, the complete abasement of poor Starbuck’s fortitude, scarce might I have the heart to write it; for it is a thing most sorrowful, nay shocking, to expose the fall of valor in the soul”
+- “men may have mean and meagre faces; but man, in the ideal, is so noble and so sparkling, such a grand and glowing creature, that over any ignominious blemish in him all his fellows should run to throw their costliest robes.”
+
+## ch. 27
+- “ if he ever did chance to cast his mind that way after a comfortable dinner, no doubt, like a good sailor, he took it to be a sort of call of the watch to tumble aloft, and bestir themselves there, about something which he would find out when he obeyed the order, and not sooner.”
+- “for every one knows that this earthly air, whether ashore or afloat, is terribly infected with the nameless miseries of the numberless mortals who have died exhaling it;”
+
+- All the harpooners are native/darker-complexioned
+	- “not one in two of the many thousand men before the mast employed in the American whale fishery, are Americans born, though pretty nearly all the officers are.”
+	- “the native American liberally provides the brains, the rest of the world as generously supplying the muscles.”
+
+## ch. 28
+- “He looked like a man cut away from the stake, when the fire has overrunningly wasted all the limbs without consuming them, or taking away one particle from their compacted aged robustness.”
+- scar: “threading its way out from among his grey hairs, and continuing right down one side of his tawny scorched face and neck, till it disappeared in his clothing, you saw a slender rod-like mark, lividly whitish.”
+
+## ch. 29
+
+## ch. 30
+- “In old Norse times, the thrones of the sea-loving Danish kings were fabricated, saith tradition, of the tusks of the narwhale. How could one look at Ahab then, seated on that tripod of bones, without bethinking him of the royalty it symbolized? For a Khan of the plank, and a king of the sea, and a great lord of Leviathans was Ahab.”
+- “Here have I been unconsciously toiling, not pleasuring,—aye, and ignorantly smoking to windward all the while; to windward, and with such nervous whiffs, as if, like the dying whale, my final jets were the strongest and fullest of trouble.”
+
+## ch. 31
+- “ No, you were kicked by a great man, and with a beautiful ivory leg, Stubb. It’s an honor; I consider it an honor. ”
+
+## ch. 33
+- “As yet, however, the sperm whale, scientific or poetic, lives not complete in any literature. Far above all other hunted whales, his is an unwritten life.”
+- “because any human thing supposed to be complete, must for that very reason infallibly be faulty”
+- “among the unspeakable foundations, ribs, and very pelvis of the world”
+
+
 
 
  
