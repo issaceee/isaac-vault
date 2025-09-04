@@ -107,11 +107,12 @@
 ## ch. 12
 - “It is not down on any map; true places never are.”
 - “ he paddled off to a distant strait, which he knew the ship must pass through when she quitted the island. On one side was a coral reef; on the other a low tongue of land, covered with mangrove thickets that grew out into the water. ”
+- “the practices of whalemen soon convinced him that even Christians could be both miserable and wicked; infinitely more so, than all his father’s heathens.”
+- “he was fearful Christianity, or rather Christians, had unfitted him for ascending the pure and undefiled throne of thirty pagan Kings before him. But by and by, he said, he would return,—as soon as he felt himself baptized again. For the nonce, however, he proposed to sail about, and sow his wild oats in all four oceans. **They had made a harpooneer of him, and that barbed iron was in lieu of a sceptre now.**"
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright. 
+## ch. 13
+
+ 
 
 
 
