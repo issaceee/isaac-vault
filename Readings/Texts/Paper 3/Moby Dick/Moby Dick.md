@@ -27,11 +27,22 @@
 - "we are going a-whaling..."
 	- use of "we"
 
-### ch. 3
+## ch. 3
 - "you found youself..."
 	- use of 2nd person pronouns // 
 
 - "THe picture represents a Cape-Horner in a great hurricane; the half-foundered ship weltering there with its three dismantled masts alone visible; and an exasperated whale, purposing to spring clean over the craft, is in the enormous act of impaling himself upon the three mast-heads" 
 
 - "(though but a sleeping-partner one, so far as this narrative is concered)"
+
+- "he bought up a lot of 'balmed New Zealand heads (great curios, you know)"
+
+- "a man can be honest in any sort of skin"
+
+- ritual done by the harpooner to the idol
+	- “laying a bit of ship biscuit on top and applying the flame from the lamp, he kindled the shavings into a sacrificial blaze. Presently, after many hasty snatches into the fire, and still hastier withdrawals of his fingers (whereby he seemed to be scorching them badly), he at last succeeded in drawing out the biscuit; then blowing off the heat and ashes a little, he made a polite offer of it to the little negro. ”
+
+- “I turned in, and never slept better in my life.”
+
+## ch. 4
 
