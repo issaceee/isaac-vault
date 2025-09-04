@@ -127,6 +127,20 @@
 - “; Ahab’s above the common; Ahab’s been in colleges, as well as ’mong the cannibals; been used to deeper wonders than the waves; fixed his fiery lance in mightier, stranger foes than whales. His lance! aye, the keenest and surest that out of all our isle! Oh! he ain’t Captain Bildad; no, and he ain’t Captain Peleg; he’s Ahab, boy; and Ahab of old, thou knowest, was a crowned king!”
 	- “Captain Ahab did not name himself. ”
 
+## ch. 17
+- “there sat Queequeg, altogether cool and self-collected; right in the middle of the room; squatting on his hams, and holding Yojo on top of his head. He looked neither one way nor the other way, but sat like a carved image with scarce a sign of active life.”
+- “hell is an idea first born on an undigested apple-dumpling; and since then perpetuated through the hereditary dyspepsias nurtured by Ramadans.”
+
+## ch. 18 
+- “Something of the salt sea yet lingered in old Bildad’s language, heterogeneously mixed with Scriptural and domestic phrases.”
+- “Pious harpooneers never make good voyagers—it takes the shark out of ’em; no harpooneer is worth a straw who ain’t pretty sharkish.”
+
+- “When every moment we thought the ship would sink! Death and the Judgment then? What? With all three masts making such an everlasting thundering against the side; and every sea breaking over us, fore and aft. Think of Death and the Judgment then? No! no time to think about death then. Life was what Captain Ahab and I was thinking of; and how to save all hands—how to rig jury-masts—how to get into the nearest port; that was what I was thinking of.”
+
+## ch. 19
+
+
+
 
 
  
