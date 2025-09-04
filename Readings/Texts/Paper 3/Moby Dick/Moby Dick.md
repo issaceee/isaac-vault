@@ -55,4 +55,12 @@
 
 ## ch. 5
 - “men who have seen the world, thereby become quite at ease in manner, quite self-possessed in company. ”
-- 
+
+- “ I was preparing to hear some good stories about whaling; to my no small surprise nearly every man maintained a profound silence. And not only that, but they looked embarrassed.”
+
+## ch. 6
+- “o omnipotent is art; which in many a district of New Bedford has superinduced bright terraces of flowers upon the barren refuse rocks thrown aside at creation’s final day.”
+	- “You must go to New Bedford to see a brilliant wedding; for, they say, they have reservoirs of oil in every house, and every night recklessly burn their lengths in spermaceti candles.”
+	- the pleasures of the town are made possible with the whaling/fishing buysinesses
+
+## ch. 7
