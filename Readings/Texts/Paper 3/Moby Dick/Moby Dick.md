@@ -215,4 +215,28 @@
 	- changing of ships to blubber hunters
 - “here is no life in thee, now, except that rocking life imparted by a gentle rolling ship; by her, borrowed from the sea; by the sea, from the inscrutable tides of God. But while this sleep, this dream is on ye, move your foot or hand an inch; slip your hold at all; and your identity comes back in horror. ”
 
-## ch. 36
+## ch. 36 (Ahab's 1st tirade against Moby Dick)
+- “All this while Tashtego, Daggoo, and Queequeg had looked on with even more intense interest and surprise than the rest, and at the mention of the wrinkled brow and crooked jaw they had started as if each was separately touched by some specific recollection.”
+- “A sharp eye for the white whale; a sharp lance for Moby Dick!”
+- “Hark ye yet again,—the little lower layer...” (this entire monologue is Ahab's feelings towards Moby Dick)
+- “(Aside) Something shot from my dilated nostrils, he has inhaled it in his lungs. Starbuck now is mine; cannot oppose me now, without rebellion.”
+	- ==the narrative structure of the book is like a play... very interesting==
+
+- “But in his joy at the enchanted, tacit, acquiescence of the mate, Ahab did not hear his foreboding invocation; nor yet the low laugh from the hold; nor yet the presaging vibrations of the winds in the cordage; nor yet the hollow flap of the sails against the masts as for a moment their hearts sank in.”
+
+- Ahab's ritual
+
+## ch. 37
+- Soliloquoy by Ahab
+- “The prophecy was that I should be dismembered; and—Aye! I lost this leg. I now prophesy that I will dismember my dismemberer. ”
+
+## ch. 38
+- “the soft feeling of the human in me, yet will I try to fight ye, ye grim, phantom futures! Stand by me, hold me, bind me, O ye blessed influences!”
+
+## ch. 39
+- stubb soliloquizes
+
+## ch. 40
+- a bunch of different nationality sailors singing and dancing tgt
+
+## ch. 41
