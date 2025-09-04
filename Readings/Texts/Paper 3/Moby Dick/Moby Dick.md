@@ -31,5 +31,7 @@
 - "you found youself..."
 	- use of 2nd person pronouns // 
 
-- "THe picture represents a Cape-Horner in a great hurricane; the half-foundered ship weltering there with its three dismantled masts alone visible; and an exasperated whale, purposing to spring clean over the craft, is in the enormous act of impaling himself upon the three mast-heads" ^d19cd6
+- "THe picture represents a Cape-Horner in a great hurricane; the half-foundered ship weltering there with its three dismantled masts alone visible; and an exasperated whale, purposing to spring clean over the craft, is in the enormous act of impaling himself upon the three mast-heads" 
+
+- "(though but a sleeping-partner one, so far as this narrative is concered)"
 
