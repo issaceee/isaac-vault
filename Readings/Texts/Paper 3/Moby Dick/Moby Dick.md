@@ -73,3 +73,18 @@
 	- death in the sea --> without a grave, forever lost/wandering, no relief to the surviving family and friends --> elevates the danger
 
 - “But Faith, like a jackal, feeds among the tombs, and even from these dead doubts she gathers her most vital hope.”
+
+- “Yes, there is death in this business of whaling—a speechlessly quick chaotic bundling of a man into Eternity. But what then? Methinks we have hugely mistaken this matter of Life and Death. Methinks that what they call my shadow here on earth is my true substance. Methinks that in looking at things spiritual, we are too much like oysters observing the sun through the water, and thinking that thick water the thinnest of air. Methinks my body is but the lees of my better being. In fact take my body who will, take it I say, it is not me.”
+
+## ch. 8
+
+- “At the time I now write of”
+	- Again, this narrative distance/technique
+
+- “finished the pulpit without a stairs, substituting a perpendicular side ladder, like those used in mounting a ship from a boat at sea.”
+- “Father Mapple cast a look upwards, and then with a truly sailor-like but still reverential dexterity, hand over hand, mounted the steps as if ascending the main-top of his vessel.”
+- “deliberately drag up the ladder step by step, till the whole was deposited within, leaving him impregnable in his little Quebec.”
+	- “Can it be, then, that by that act of physical isolation, he signifies his spiritual withdrawal for the time, from all outward worldly ties and connexions? Yes, for replenished with the meat and wine of the world, to the faithful man of God, this pulpit, I see, is a self-containing stronghold—a lofty Ehrenbreitstein,* with a perennial well of water within the walls.”
+
+
+
