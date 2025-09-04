@@ -48,4 +48,11 @@
 
 - “anything indeed but condemning me to lie abed such an unendurable length of time.”
 	- foreshadowing to doing nth on the ocean and seeing nothing??
+
+
+- “ I felt a shock running through all my frame; nothing was to be seen, and nothing was to be heard; but a supernatural hand seemed placed in mine.”
+- “Queequeg, do you see, was a creature in the transition stage—neither caterpillar nor butterfly. He was just enough civilized to show off his outlandishness in the strangest possible manner. ”
+
+## ch. 5
+- “men who have seen the world, thereby become quite at ease in manner, quite self-possessed in company. ”
 - 
