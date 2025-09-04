@@ -198,11 +198,21 @@
 - “because any human thing supposed to be complete, must for that very reason infallibly be faulty”
 - “among the unspeakable foundations, ribs, and very pelvis of the world”
 
+- “For small erections may be finished by their first architects; grand ones, true ones, ever leave the copestone to posterity. God keep me from ever completing anything. This whole book is but a draught—nay, but the draught of a draught. Oh, Time, Strength, Cash, and Patience.”
 
+## ch. 33
+- “Now, the grand distinction drawn between officer and man at sea, is this—the first lives aft, the last forward”
+- “I must not conceal that I have only to do with a poor old whale-hunter like him; and, therefore, all outward majestical trappings and housings are denied me. Oh, Ahab! what shall be grand in thee, it must needs be plucked at from the skies, and dived for in the deep, and featured in the unbodied air”
 
+## ch. 34
+ - “In strange contrast to the hardly tolerable constraint and nameless invisible domineerings of the captain’s table, was the entire care-free license and ease, the almost frantic democracy of those inferior fellows the harpooneers. While their masters, the mates, seemed afraid of the sound of the hinges of their own jaws, the harpooneers chewed their food with such a relish that there was a report to it. They dined like lords; they filled their bellies like Indian ships all day loading with spices. Such”
+## ch. 35
+- “old astronomers were wont to mount to the apex, and sing out for new stars; even as the look-outs of a modern ship sing out for a sail, or a whale just bearing in sight.”
+- “dauntless stander-of-mast-heads; who was not to be driven from his place by fogs or frosts, rain, hail, or sleet; but valiantly facing everything out to the last, literally died at his post.”
+- “say: your whales must be seen before they can be killed; and this sunken-eyed young Platonist will tow you ten wakes round the world, and never make you one pint of sperm the richer.”
+- “For nowadays, the whale-fishery furnishes an asylum for many romantic, melancholy, and absent-minded young men, disgusted with the carking care of earth, and seeking sentiment in tar and blubber.”
+- “Ten thousand blubber-hunters sweep over thee in vain.’*”
+	- changing of ships to blubber hunters
+- “here is no life in thee, now, except that rocking life imparted by a gentle rolling ship; by her, borrowed from the sea; by the sea, from the inscrutable tides of God. But while this sleep, this dream is on ye, move your foot or hand an inch; slip your hold at all; and your identity comes back in horror. ”
 
- 
-
-
-
-
+## ch. 36
