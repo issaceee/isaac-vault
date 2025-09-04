@@ -46,4 +46,6 @@
 
 ## ch. 4
 
+- “anything indeed but condemning me to lie abed such an unendurable length of time.”
+	- foreshadowing to doing nth on the ocean and seeing nothing??
 - 
