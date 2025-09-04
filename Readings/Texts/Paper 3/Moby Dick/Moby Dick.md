@@ -92,7 +92,8 @@
 - “if we obey God, we must disobey ourselves; and it is in this disobeying ourselves, wherein the hardness of obeying God consists.”
 - “He thinks that a ship made by men, will carry him into countries where God does not reign, but only the Captains of this earth.”
 	- one cannot escape fate/destiny
-- 
+- “For sinful as he is, Jonah does not weep and wail for direct deliverance. He feels that his dreadful punishment is just. He leaves all his deliverance to God, contenting himself with this, that spite of all his pains and pangs, he will still look towards His holy temple. And here, shipmates, is true and faithful repentance; not clamorous for pardon, but grateful for punishment.”
+
 
 
 
