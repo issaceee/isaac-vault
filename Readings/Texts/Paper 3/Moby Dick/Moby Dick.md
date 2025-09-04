@@ -59,8 +59,17 @@
 - “ I was preparing to hear some good stories about whaling; to my no small surprise nearly every man maintained a profound silence. And not only that, but they looked embarrassed.”
 
 ## ch. 6
-- “o omnipotent is art; which in many a district of New Bedford has superinduced bright terraces of flowers upon the barren refuse rocks thrown aside at creation’s final day.”
+- “But, besides the Feegeeans, Tongatobooarrs, Erromanggoans, Pannangians, and Brighggians, and, besides the wild specimens of the whaling-craft which unheeded reel about the streets, you will see other sights still more curious, certainly more comical. There weekly arrive in this town scores of green Vermonters and New Hampshire men, all athirst for gain and glory in the fishery.”
+
+- “so omnipotent is art; which in many a district of New Bedford has superinduced bright terraces of flowers upon the barren refuse rocks thrown aside at creation’s final day.”
 	- “You must go to New Bedford to see a brilliant wedding; for, they say, they have reservoirs of oil in every house, and every night recklessly burn their lengths in spermaceti candles.”
 	- the pleasures of the town are made possible with the whaling/fishing buysinesses
 
 ## ch. 7
+- “Each silent worshipper seemed purposely sitting apart from the other, as if each silent grief were insular and incommunicable. The chaplain had not yet arrived; and there these silent islands of men and women sat steadfastly eyeing several marble tablets, with black borders, masoned into the wall on either side the pulpit”
+	- Foreshadowing to death
+
+- “Oh! ye whose dead lie buried beneath the green grass; who standing among flowers can say—here, here lies my beloved; ye know not the desolation that broods in bosoms like these. What bitter blanks in those black-bordered marbles which cover no ashes! What despair in those immovable inscriptions! What deadly voids and unbidden infidelities in the lines that seem to gnaw upon all Faith, and refuse resurrections to the beings who have placelessly perished without a grave”
+	- death in the sea --> without a grave, forever lost/wandering, no relief to the surviving family and friends --> elevates the danger
+
+- “But Faith, like a jackal, feeds among the tombs, and even from these dead doubts she gathers her most vital hope.”
