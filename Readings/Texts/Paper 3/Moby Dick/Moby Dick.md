@@ -122,6 +122,8 @@
 ## ch. 16
 - “Yojo earnestly enjoined that the selection of the ship should rest wholly with me, inasmuch as Yojo purposed befriending us; and, in order to do so, had already pitched upon a vessel, which, if left to myself, I, Ishmael, should infallibly light upon, for all the world as though it had turned out by chance; and in that vessel I must immediately ship myself, for the present irrespective of Queequeg.”
 
+- “The prospect was unlimited, but exceedingly monotonous and forbidding; not the slightest variety that I could see.”
+
  
 
 
