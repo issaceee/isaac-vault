@@ -138,8 +138,24 @@
 - “When every moment we thought the ship would sink! Death and the Judgment then? What? With all three masts making such an everlasting thundering against the side; and every sea breaking over us, fore and aft. Think of Death and the Judgment then? No! no time to think about death then. Life was what Captain Ahab and I was thinking of; and how to save all hands—how to rig jury-masts—how to get into the nearest port; that was what I was thinking of.”
 
 ## ch. 19
+- “Didn’t ye hear a word about them matters and something more, eh? No, I don’t think ye did; how could ye? Who knows it? Not all Nantucket, I guess. But hows’ever, mayhap, ye’ve heard tell about the leg, and how he lost it; aye, ye have heard of that, I dare say. Oh, yes, that every one knows a’most—I mean they know he’s only one leg; and that a parmacetti took the other off.”
+
+- “what’s signed, is signed; and what’s to be, will be; and then again, perhaps it won’t be, after all. Any how, it’s all fixed and arranged a’ready; ”
+
+## ch. 20
+- "the spare boats, spare spars, and spare lines and harpoons, and spare everythings, almost, but a spare Captain and duplicate ship.”
+
+- “But when a man suspects any wrong, it sometimes happens that if he be already involved in the matter, he insensibly strives to cover up his suspicions even from himself. And much this way it was with me. I said nothing, and tried to think nothing.”
+
+## ch. 21
+- Elijah “See if you can find ‘em now, will ye” --> “we found everything in profound quiet, not a soul moving. The cabin entrance was locked within; the hatches were all on, and lumbered with coils of rigging”
+
+## ch. 22
 
 
+## ch. 23
+- “ this six-inch chapter is the stoneless grave of Bulkington”
+- “Know ye now, Bulkington? Glimpses do ye seem to see of that mortally intolerable truth; that all deep, earnest thinking is but the intrepid effort of the soul to keep the open independence of her sea; while the wildest winds of heaven and earth conspire to cast her on the treacherous, slavish shore?”
 
 
 
