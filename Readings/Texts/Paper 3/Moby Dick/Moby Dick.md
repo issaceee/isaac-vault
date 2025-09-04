@@ -111,6 +111,16 @@
 - “he was fearful Christianity, or rather Christians, had unfitted him for ascending the pure and undefiled throne of thirty pagan Kings before him. But by and by, he said, he would return,—as soon as he felt himself baptized again. For the nonce, however, he proposed to sail about, and sow his wild oats in all four oceans. **They had made a harpooneer of him, and that barbed iron was in lieu of a sceptre now.**"
 
 ## ch. 13
+- “It’s a mutual, joint-stock world, in all meridians. We cannibals must help these Christians.”
+
+## ch. 14
+- “The Nantucketer, he alone resides and riots on the sea; he alone, in Bible language, goes down to it in ships; to and fro ploughing it as his own special plantation. There is his home; there lies his business, which a Noah’s flood would not interrupt, though it overwhelmed all the millions in China. He lives on the sea, as prairie cocks in the prairie; he hides among the waves, he climbs them as chamois hunters climb the Alps. ”
+
+## ch. 15
+- “A sort of crick was in my neck as I gazed up to the two remaining horns; yes, two of them, one for Queequeg, and one for me. It’s ominous, thinks I.”
+
+## ch. 16
+- “Yojo earnestly enjoined that the selection of the ship should rest wholly with me, inasmuch as Yojo purposed befriending us; and, in order to do so, had already pitched upon a vessel, which, if left to myself, I, Ishmael, should infallibly light upon, for all the world as though it had turned out by chance; and in that vessel I must immediately ship myself, for the present irrespective of Queequeg.”
 
  
 
