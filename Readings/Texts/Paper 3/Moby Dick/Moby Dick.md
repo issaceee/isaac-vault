@@ -313,4 +313,9 @@
 - “Some two years prior to my first learning the events which I am about rehearsing to you" - remembering and retelling the story
 - “For in their interflowing aggregate, those grand freshwater seas of ours,—Erie, and Ontario, and Huron, and Superior, and Michigan,—possess an ocean-like expansiveness, with many of the ocean’s noblest traits;”
 
-- 
+- “Steelkilt was a tall and noble animal with a head like a Roman, and a flowing golden beard like the tasseled housings of your last viceroy’s snorting charger; and a brain, and a heart, and a soul in him, gentlemen, which had made Steelkilt Charlemagne, had he been born son to Charlemagne’s father. But Radney, the mate, was ugly as a mule; yet as hardy, as stubborn, as malicious. He did not love Steelkilt, and Steelkilt knew it”
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
