@@ -523,7 +523,14 @@
 ## ch. 88
 - “Almost universally, a lone whale—as a solitary Leviathan is called—proves an ancient one. Like venerable mossbearded Daniel Boone,* he will have no one near him but Nature herself; and her he takes to wife in the wilderness of waters, and the best of wives she is, though she keeps so many moody secrets.”
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+## ch. 89
+- "Is it not a saying in every one’s mouth, Possession is half of the law: that is, regardless of how the thing came into possession? But often possession is the whole of the law."
+- “And concerning all these, is not Possession the whole of the law
+- “What are the Rights of Man and the Liberties of the World but Loose-Fish? What all men’s minds and opinions but Loose-Fish? What is the principle of religious belief in them but a Loose-Fish? What to the ostentatious smuggling verbalists are the thoughts of thinkers but Loose-Fish? What is the great globe itself but a Loose-Fish? And what are you, reader, but a Loose-Fish and a Fast-Fish, too?”
+
+## ch. 90
+- "“De balena vero sufficit, si rex habeat caput, et regina caudam.’*
+                                                                  Bracton, l. 3, c. 3.”
+- "It is his."
+
+## ch. 91
