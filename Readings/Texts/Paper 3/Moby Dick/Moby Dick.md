@@ -315,7 +315,24 @@
 
 - “Steelkilt was a tall and noble animal with a head like a Roman, and a flowing golden beard like the tasseled housings of your last viceroy’s snorting charger; and a brain, and a heart, and a soul in him, gentlemen, which had made Steelkilt Charlemagne, had he been born son to Charlemagne’s father. But Radney, the mate, was ugly as a mule; yet as hardy, as stubborn, as malicious. He did not love Steelkilt, and Steelkilt knew it”
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+- “For by a mysterious fatality, Heaven itself seemed to step in to take out of his hands into its own the damning thing he would have done.”
+- “Gentlemen, a strange fatality pervades the whole career of these events, as if verily mapped out before the world itself was charted”
+- “But a sudden, terrific, downward jerking of the boat, quickly brought his knife to the line. He cut it; and the whale was free. But, at some distance, Moby Dick rose again, with some tatters of Radney’s red woollen shirt, caught in the teeth that had destroyed him”
+
+- “hold the Holy Book before me that I may touch it.‘ / “So help me Heaven, and on my honor the story I have told ye, gentlemen, is in substance and its great items, true. I know it to be true; it happened on this ball; I trod the ship; I knew the crew; I have seen and talked with Steelkilt since the death of Radney.”
+
+## ch. 55
+- “But go to the old Galleries, and look now at a great Christian painter’s portrait of this fish; for he succeeds no better than the antediluvian Hindoo”
+- “But these manifold mistakes in depicting the whale are not so very surprising after all. Consider! Most of the scientific drawings have been taken from the stranded fish; and these are about as correct as a drawing of a wrecked ship, with broken back, would correctly represent the noble animal itself in all its undashed pride of hull and spars.”
+
+- ==“The living whale, in his full majesty and significance, is only to be seen at sea in unfathomable waters; and afloat the vast bulk of him is out of sight, like a launched line-of-battle ship; and out of that element it is a thing eternally impossible for mortal man to hoist him bodily into the air, so as to preserve all his mighty swells and undulations”==
+- “from the naked skeleton of the stranded whale, accurate hints may be derived touching his true form. Not at all. For it is one of the more curious things about this Leviathan, that his skeleton gives very little idea of his general shape”
+
+- “For all these reasons, then, any way you may look at it, you must needs conclude that the great Leviathan is that one creature in the world which must remain unpainted to the last. True, one portrait may hit the mark much nearer than another, but none can hit it with any very considerable degree of exactness. So there is no earthly way of finding out precisely what the whale really looks like. And the only mode in which you can derive even a tolerable idea of his living contour, is by going a whaling yourself; but by so doing, you run no small risk of being eternally stove and sunk by him. Wherefore, it seems to me you had best not be too fastidious in your curiosity touching this Leviathan.”
+
+## ch. 56
+- “He has but one picture of whaling scenes, and this is a sad deficiency, because it is by such pictures only, when at all well done, that you can derive anything like a truthful idea of the living whale as seen by his living hunters”
+- “Serious fault might be found with the anatomical details of this whale, but let that pass; since, for the life of me, I could not draw so good a one.”
+- “Thus, the foreground is all raging commotion; but behind, in admirable artistic contrast, is the glassy level of a sea becalmed, the drooping unstarched sails of the powerless ship, and the inert mass of a dead whale, a conquered fortress, with the flag of capture lazily hanging from the whale-pole inserted into his spout-hole.”
+
+## ch. 57
