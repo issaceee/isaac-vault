@@ -260,22 +260,23 @@
 - “That ghastly whiteness it is which imparts such an abhorrent mildness, even more loathsome than terrific, to the dumb gloating of their aspect. ”
 - “Therefore, in his other moods, symbolize whatever grand or gracious thing he will by whiteness, no man can deny that in its profoundest idealized significance it calls up a peculiar apparition to the soul.”
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+- “Is it that by its indefiniteness it shadows forth the heartless voids and immensities of the universe, and thus stabs us from behind with the thought of annihilation, when beholding the white depths of the milky way? Or is it, that as in essence whiteness is not so much a color as the visible absence of color, and at the same time the concrete of all colors; is it for these reasons that there is such a dumb blankness, full of meaning”
+- “the palsied universe lies before us a leper; and like wilful travellers in Lapland, who refuse to wear colored and coloring glasses upon their eyes, so the wretched infidel gazes himself blind at the monumental white shroud that wraps all the prospect around him. And of all these things the Albino whale was the symbol. Wonder ye then at the fiery hunt?”
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+## ch. 43
+- revelation of a stowaway
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+## ch. 44
+- “that in the broad boundless ocean, one solitary whale, even if encountered, should be thought capable of individual recognition from his hunter, even as a white-bearded Mufti in the thronged thoroughfares of Constantinople? Yes. For the peculiar snow-white brow of Moby Dick, and his snow-white hump, could not but be unmistakable. And have I not tallied the whale, Ahab would mutter to himself, as after poring over his charts till long after midnight he would throw himself back in reveries—tallied him, and shall he escape?”
+- “crazy Ahab, the scheming, unappeasedly steadfast hunter of the white whale; this Ahab that had gone to his hammock, was not the agent that so caused him to burst from it in horror again. The latter was the eternal, living principle or soul in him; and in sleep, being for the time dissociated from the characterizing mind, which at other times employed it for its outer vehicle or agent, it spontaneously sought escape from the scorching contiguity of the frantic thing, of which, for the time, it was no longer an integral. But as the mind does not exist unless leagued with the soul, therefore it must have been that, in Ahab’s case, yielding up all his thoughts and fancies to his one supreme purpose; that purpose, by its own sheer inveteracy of will, forced itself against gods and devils into a kind of self-assumed, independent being of its own. Nay, could grimly live and burn, while the common vitality to which it was conjoined, fled horror-stricken from the unbidden and unfathered birth.”
+- “God help thee, old man, thy thoughts have created a creature in thee; and he whose intense thinking thus makes him a Prometheus; a vulture feeds upon that heart for ever; that vulture the very creature he creates.”
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+## ch. 45
+- “the reason was this: that from the fatal experiences of the fishery there hung a terrible prestige of perilousness about such a whale as there did about Rinaldo Rinaldini,* insomuch that most fishermen were content to recognise him by merely touching their tarpaulins when he would be discovered”
+- “not only did each of these famous whales enjoy great individual celebrity—nay, you may call it an ocean-wide renown; not only was he famous in life and now is immortal in forecastle stories after death, but he was admitted into all the rights, privileges, and distinctions of a name”
+- “For God’s sake, be economical with your lamps and candles! not a gallon you burn, but at least one drop of man’s blood was spilled for it.”
+- “The Sperm Whale is in some cases sufficiently powerful, knowing, and judiciously malicious, as with direct aforethought to stave in, utterly destroy, and sink a large ship; and what is more, the Sperm Whale has done it.”
+- “it is very often observed that, if the sperm whale, once struck, is allowed time to rally, he then acts, not so often with blind rage, as with wilful, deliberate designs of destruction to his pursuers; nor is it without conveying some eloquent indication of his character, that upon being attacked he will frequently open his mouth, and retain it in that dread expansion for several consecutive minutes. ”
+- “not only is the most marvellous event in this book corroborated by plain facts of the present day, but that these marvels (like all marvels) are mere repetitions of the ages; so that for the millionth time we say amen with Solomon*—Verily there is nothing new under the sun.”
+
+## ch. 46
