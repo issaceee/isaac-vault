@@ -458,3 +458,31 @@
 - “had Tashtego perished in that head, it had been a very precious perishing; smothered in the very whitest and daintiest of fragrant spermaceti; coffined, hearsed, and tombed in the secret inner chamber and sanctum sanctorum of the whale.”
 
 ## ch. 79
+- “n some particulars, perhaps the most imposing physiognomical view to be had of the Sperm Whale, is that of the full front of his head. This aspect is sublime”
+- “But in the great Sperm Whale, this high and mighty god-like dignity inherent in the brow is so immensely amplified, that gazing on it, in that full front view, you feel the Deity and the dread powers more forcibly than in beholding any other object in living nature. For you see no one point precisely; not one distinct feature is revealed; no nose, eyes, ears, or mouth; no face; he has none, proper; nothing but that one broad firmament of a forehead, pleated with riddles; dumbly lowering with the doom of boats, and ships, and men. Nor, in profile, does this wondrous brow diminish; though that way viewed, its grandeur does not domineer upon you so. In profile, you plainly perceive that horizontal, semi-crescentic depression in the forehead’s middle, which, in man, is Lavater’s mark of genius.”
+- “his great genius is declared in his doing nothing particular to prove it. It is moreover declared in his pyramidical silence. ”
+
+## ch. 80
+
+## ch. 81
+- “ So have I seen a bird with clipped wing, making affrighted broken circles in the air, vainly striving to escape the piratical hawks. But the bird has a voice, and with plaintive cries will make known her fear; but the fear of this vast dumb brute of the sea, was chained up and enchanted in him; he had no voice, save that choking respiration through his spiracle, and this made the sight of him unspeakably pitiable; while still, in his amazing bulk, portcullis jaw, and omnipotent tail, there was enough to appal the stoutest man who so pitied”
+- “As strange misgrown masses gather in the knotholes of the noblest oaks when prostrate, so from the points which the whale’s eyes had once occupied, now protruded blind bulbs, horribly pitiable to see. But pity there was none. For all his old age, and his one arm, and his blind eyes, he must die the death and be murdered, in order to light the gay bridals and other merry-makings of men, and also to illuminate the solemn churches that preach unconditional inoffensiveness by all to all. Still rolling in his blood, at last he partially disclosed a strangely discolored bunch or protuberance, the size of a bushel, low down on the flank.”
+
+- “But still more curious was the fact of a lance-head of stone being found in him, not far from the buried iron, the flesh perfectly firm about it. Who had darted that stone lance? And when? It might have been darted by some Nor’ West Indian long before America was discovered.”
+- “the sunken whale again rises, more buoyant than in life. But the reason of this is obvious. Gases are generated in him; he swells to a prodigious magnitude; becomes a sort of animal balloon"
+
+- “Nevertheless, the Fin-Back’s spout is so similar to the Sperm Whale’s, that by unskilful fishermen it is often mistaken for it. And consequently Derick and all his host were now in valiant chase of this unnearable brute. The Virgin crowding all sail, made after her four young keels, and thus they all disappeared far to leeward, still in bold, hopeful chase.
+  
+  Oh! many are the Fin-Backs, and many are the Dericks, my friend.”
+
+## ch. 82
+- “Those were the knightly days of our profession, when we only bore arms to succor the distressed, and not to fill men’s lamp-feeders.”
+- “Grecian story of Hercules and the whale is considered to be derived from the still more ancient Hebrew story of Jonah and the whale; and vice versa; certainly they are very similar. If I claim the demi-god then, why not the prophet?”
+- “Was not this Vishnoo a whaleman, then? even as a man who rides a horse is called a horseman?
+  
+  Perseus, St. George, Hercules, Jonah, and Vishnoo! there’s a member-roll for you! What club but the whaleman’s can head off like that?”
+
+## ch. 83
+- “But all these foolish arguments of old Sag-Harbor only evinced his foolish pride of reason—a thing still more reprehensible in him, seeing that he had but little learning except what he had picked up from the sun and the sea. I say it only shows his foolish, impious pride, and abominable, devilish rebellion against the reverend clergy.”
+
+## ch. 84
