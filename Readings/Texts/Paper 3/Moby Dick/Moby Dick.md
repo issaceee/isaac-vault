@@ -504,3 +504,5 @@
 - “So in dreams, have I seen majestic Satan thrusting forth his tormented colossal claw from the flame Baltic of Hell. But in gazing at such scenes, it is all in all what mood you are in; if in the Dantean, the devils will occur to you; if in that of Isaiah, the archangels. Standing at the mast-head of my ship during a sunrise that crimsoned sky and sea, I once saw a large herd of whales in the east, all heading towards the sun, and for a moment vibrating in concert with peaked flukes. As it seemed to me at the time, such a grand embodiment of adoration of the gods was never beheld, even in Persia, the home of the fire worshipper”
 - “Dissect him how I may, then, I but go skin deep; I know him not, and never will
 - “Thou shalt see my back parts, my tail, he seems to say, but my face shall not be seen. But I cannot completely make out his back parts; and hint what he will about his face, I say again he has no face.”
+
+## ch. 87
