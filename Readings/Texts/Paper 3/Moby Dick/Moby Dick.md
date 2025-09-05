@@ -486,3 +486,21 @@
 - “But all these foolish arguments of old Sag-Harbor only evinced his foolish pride of reason—a thing still more reprehensible in him, seeing that he had but little learning except what he had picked up from the sun and the sea. I say it only shows his foolish, impious pride, and abominable, devilish rebellion against the reverend clergy.”
 
 ## ch. 84
+
+
+## ch. 85
+- “Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood. So that for an hour or more, a thousand fathoms in the sea, he carries a surplus stock of vitality in him, just as the camel crossing the waterless desert carries a surplus supply of drink for future use in its four supplementary stomachs. ”
+
+- “For not by hook or by net could this vast leviathan be caught, when sailing a thousand fathoms beneath the sunlight. Not so much thy skill, then, O hunter, as the great necessities that strike the victory to thee!”
+
+- “But why pester one with all this reasoning on the subject? Speak out! You have seen him spout; then declare what the spout is; can you not tell water from air? My dear sir, in this world it is not so easy to settle these plain things. I have ever found your plain things the knottiest of all.”
+
+
+- ==“for all have doubts; many deny; but doubts or denials, few along with them, have intuitions. Doubts of all things earthly, and intuitions of some things heavenly; this combination makes neither believer nor infidel, but makes a man who regards them both with equal eye.”==
+
+## ch. 86
+- “Real strength never impairs beauty or harmony, but it often bestows it; and in everything imposingly beautiful, strength has much to do with the magic. ”
+- "And whatever they may reveal of the divine love in the Son, the soft, curled, hermaphroditical Italian pictures, in which his idea has been most successfully embodied; these pictures, so destitute as they are of all brawniness, hint nothing of any power, but the mere negative, feminine one of submission and endurance, which on all hands it is conceded, form the peculiar practical virtues of his teachings"
+- “So in dreams, have I seen majestic Satan thrusting forth his tormented colossal claw from the flame Baltic of Hell. But in gazing at such scenes, it is all in all what mood you are in; if in the Dantean, the devils will occur to you; if in that of Isaiah, the archangels. Standing at the mast-head of my ship during a sunrise that crimsoned sky and sea, I once saw a large herd of whales in the east, all heading towards the sun, and for a moment vibrating in concert with peaked flukes. As it seemed to me at the time, such a grand embodiment of adoration of the gods was never beheld, even in Persia, the home of the fire worshipper”
+- “Dissect him how I may, then, I but go skin deep; I know him not, and never will
+- “Thou shalt see my back parts, my tail, he seems to say, but my face shall not be seen. But I cannot completely make out his back parts; and hint what he will about his face, I say again he has no face.”
