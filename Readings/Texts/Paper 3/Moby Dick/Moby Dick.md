@@ -234,9 +234,48 @@
 - “the soft feeling of the human in me, yet will I try to fight ye, ye grim, phantom futures! Stand by me, hold me, bind me, O ye blessed influences!”
 
 ## ch. 39
-- stubb soliloquizes
+- stubb soliloquizes (apparently // shakespeare - to research)
 
 ## ch. 40
-- a bunch of different nationality sailors singing and dancing tgt
+- a bunch of different nationality sailors singing and dancing tgt in a play form
 
 ## ch. 41
+- “ascribe the peculiar terror he bred, more, as it were, to the perils of the Sperm Whale fishery at large, than to the individual cause.”
+- “Nor did wild rumors of all sorts fail to exaggerate, and still the more horrify the true histories of these deadly encounters. For not only do fabulous rumors naturally grow out of the very body of all surprising terrible events,—as the smitten tree gives birth to its fungi; but, in maritime life, far more than in that of terra firma, wild rumors abound, wherever there is any adequate reality for them to cling to. ”
+- “but of all sailors, they are by all odds the most directly brought into contact with whatever is appallingly astonishing in the sea; face to face they not only eye its greatest marvels, but, hand to jaw, give battle to them”
+- “was the unearthly conceit that Moby Dick was ubiquitous; that he had actually been encountered in opposite latitudes at one and the same instant of time.”
+- “declaring Moby Dick not only ubiquitous, but immortal (for immortality is but ubiquity in time)”
+- “unexampled, intelligent malignity which, according to specific accounts, he had over and over again evinced in his assaults”
+
+- “swam out of the white curds of the whale’s direful wrath into the serene, exasperating sunlight, that smiled on, as if at a birth or a bridal.”
+
+- “The White Whale swam before him as the monomaniac incarnation of all those malicious agencies which some deep men feel eating in them, till they are left living on with half a heart and half a lung.”
+- “all my means are sane, my motive and my object mad”
+
+- “grey-headed, ungodly old man, chasing with curses a Job’s whale round the world, at the head of a crew, too, chiefly made up of mongrel renegades, and castaways, and cannibals—morally enfeebled also, by the incompetence of mere unaided virtue or right-mindedness in Starbuck, the invulnerable jollity of indifference and recklessness in Stubb, and the pervading mediocrity in Flask. Such a crew, so officered, seemed specially picked and packed by some infernal fatality to help him to his monomaniac revenge”
+
+## ch. 42
+- “It was the whiteness of the whale that above all things appalled me. ”
+- “in many natural objects, whiteness refiningly enhances beauty, as if imparting some special virtue of its own”
+- “That ghastly whiteness it is which imparts such an abhorrent mildness, even more loathsome than terrific, to the dumb gloating of their aspect. ”
+- “Therefore, in his other moods, symbolize whatever grand or gracious thing he will by whiteness, no man can deny that in its profoundest idealized significance it calls up a peculiar apparition to the soul.”
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
