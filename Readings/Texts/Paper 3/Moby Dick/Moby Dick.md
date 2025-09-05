@@ -280,3 +280,14 @@
 - “not only is the most marvellous event in this book corroborated by plain facts of the present day, but that these marvels (like all marvels) are mere repetitions of the ages; so that for the millionth time we say amen with Solomon*—Verily there is nothing new under the sun.”
 
 ## ch. 46
+
+## ch. 47
+- “I say so strange a dreaminess did there then reign all over the ship and all over the sea, only broken by the intermitting dull sound of the sword, that it seemed as if this were the Loom of Time, and I myself were a shuttle mechanically weaving and weaving away at the Fates. There lay the fixed threads of the warp subject to but one single, ever returning, unchanging vibration, and that vibration merely enough to admit of the crosswise interblending of other threads with its own. This warp seemed necessity; and here, thought I, with my own hand I ply my own shuttle and weave my own destiny into these unalterable threads.”
+
+## ch. 48
+
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
