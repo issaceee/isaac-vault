@@ -534,3 +534,11 @@
 - "It is his."
 
 ## ch. 91
+- “According to this little plan of theirs, the Guernsey-man, under cover of an interpreter’s office, was to tell the Captain what he pleased, but as coming from Stubb; and as for Stubb, he was to utter any nonsense that should come uppermost in him during the interview.”
+- “, during which the stranger mate expressed his detestation of his Captain as a conceited ignoramus, who had brought them all into so unsavory and unprofitable a pickle.”
+- “And this, good friends, is ambergris, worth a gold guinea an ounce to any druggist.”
+
+## ch. 92
+- “but cannot, owing to my anxiety to repel a charge often made against whalemen, and which, in the estimation of some already biased minds, might be considered as indirectly substantiated by what has been said of the Frenchman’s two whales. Elsewhere in this volume the slanderous aspersion has been disproved, that the vocation of whaling is throughout a slatternly, untidy business.”
+
+## ch. 93
