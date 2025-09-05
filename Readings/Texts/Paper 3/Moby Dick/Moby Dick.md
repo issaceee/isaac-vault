@@ -285,9 +285,32 @@
 - “I say so strange a dreaminess did there then reign all over the ship and all over the sea, only broken by the intermitting dull sound of the sword, that it seemed as if this were the Loom of Time, and I myself were a shuttle mechanically weaving and weaving away at the Fates. There lay the fixed threads of the warp subject to but one single, ever returning, unchanging vibration, and that vibration merely enough to admit of the crosswise interblending of other threads with its own. This warp seemed necessity; and here, thought I, with my own hand I ply my own shuttle and weave my own destiny into these unalterable threads.”
 
 ## ch. 48
+- “ Squall, whale, and harpoon had all blended together; and the whale, merely grazed by the iron, escaped.”
+- “There, then, he sat, holding up that imbecile candle in the heart of that almighty forlornness. There, then, he sat, the sign and symbol of a man without faith, hopelessly holding up hope in the midst of despair.”
 
+## ch. 49
+- “Now then, thought I, unconsciously rolling up the sleeves of my frock, here goes for a cool, collected dive at death and destruction, and the devil fetch the hindmost.”
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+## ch. 50
+
+## ch. 51
+- “all the waves rolled by like scrolls of silver; and, by their soft, suffusing seethings, made what seemed a silvery silence, not a solitude: on such a silent night a silvery jet was seen far in advance of the white bubbles at the bow. Lit up by the moon, it looked celestial; seemed some plumed and glittering god uprising from the sea”
+- “Had the trump of judgment blown, they could not have quivered more; yet still they felt no terror; rather pleasure. For though it was a most unwonted hour, yet so impressive was the cry, and so deliriously exciting, that almost every soul on board instinctively desired a lowering”
+- “While his one live leg made lively echoes along the deck, every stroke of his dead limb sounded like a coffin-tap. On life and death this old man walked.”
+- “this solitary jet seemed for ever alluring us on.”
+
+## ch. 52
+- “As if the waves had been fullers,* this craft was bleached like the skeleton of a stranded walrus. All down her sides, this spectral appearance was traced with long channels of reddened rust, while all her spars and her rigging were like the thick branches of trees furred over with hoar-frost”
+- “But as the strange captain, leaning over the pallid bulwarks, was in the act of putting his trumpet to his mouth, it somehow fell from his hand into the sea;”
+- “seamen of the Pequod were evincing their observance of this ominous incident at the first mere mention of the White Whale’s name to another ship”
+- “shoals of small harmless fish, that for some days before had been placidly swimming by our side, darted away with what seemed shuddering fins, and ranged themselves fore and aft with the stranger’s flanks.”
+## ch. 53
+- “the captain, having no place to sit in, is pulled off to his visit all standing like a pine tree. And often you will notice that being conscious of the eyes of the whole visible world resting on him from the sides of the two ships, this standing captain is all alive to the importance of sustaining his dignity by maintaining his legs.”
+
+## ch. 54
+- note that this story was purposefully withheld from abah: “so potent an influence did this thing have on those seamen in the Pequod who came to the full knowledge of it, and by such a strange delicacy, to call it so, were they governed in this matter, that they kept the secret among themselves so that it never transpired abaft the Pequod’s main-mast.”
+
+- “Some two years prior to my first learning the events which I am about rehearsing to you" - remembering and retelling the story
+- “For in their interflowing aggregate, those grand freshwater seas of ours,—Erie, and Ontario, and Huron, and Superior, and Michigan,—possess an ocean-like expansiveness, with many of the ocean’s noblest traits;”
+
+- 
