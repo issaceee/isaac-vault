@@ -542,3 +542,21 @@
 - “but cannot, owing to my anxiety to repel a charge often made against whalemen, and which, in the estimation of some already biased minds, might be considered as indirectly substantiated by what has been said of the Frenchman’s two whales. Elsewhere in this volume the slanderous aspersion has been disproved, that the vocation of whaling is throughout a slatternly, untidy business.”
 
 ## ch. 93
+- “Hereby perhaps Stubb indirectly hinted, that though man loved his fellow, yet man is a money-making animal, which propensity too often interferes with his benevolence.”
+- “The sea had jeeringly kept his finite body up, but drowned the infinite of his soul. Not drowned entirely, though. Rather carried down alive to wondrous depths, where strange shapes of the unwarped primal world glided to and fro before his passive eyes; and the miser-merman, Wisdom, revealed his hoarded heaps; and among the joyous, heartless, ever-juvenile eternities, Pip saw the multitudinous, God-omnipresent, coral insects, that out of the firmament of waters heaved the colossal orbs. He saw God’s foot upon the treadle of the loom, and spoke it; and therefore his shipmates called him mad. So man’s insanity is heaven’s sense; and wandering from all mortal reason, man comes at last to that celestial thought, which, to reason, is absurd and frantic; and weal or woe, feels then uncompromised, indifferent as his God.”
+
+- “in the sequel of the narrative, it will then be seen what like abandonment befell myself.”
+
+## ch. 94
+- “No wonder that in old times sperm was such a favorite cosmetic. Such a clearer! such a sweetener! such a softener! such a delicious mollifier!”
+- “as they richly broke to my fingers, and discharged all their opulence, like fully ripe grapes their wine; as I snuffed up that uncontaminated aroma,—literally and truly, like the smell of spring violets; I declare to you, that for the time I lived as in a musky meadow; I forgot all about our horrible oath; in that inexpressible sperm, I washed my hands and my heart of it; I almost began to credit the old Paracelsan superstition that sperm is of rare virtue in allaying the heat of anger; while bathing in that bath, I felt divinely free from all ill-will, or petulance, or malice, of any sort whatsoever.”
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
