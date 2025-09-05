@@ -399,3 +399,7 @@
 ## ch. 67
 
 ## ch. 68
+- “How wonderful is it then—except after explanation—that this great monster, to whom corporeal warmth is as indispensable as it is to man; how wonderful that he should be found at home, immersed to his lips for life in those Arctic waters! where, when seamen fall overboard, they are sometimes found, months afterwards, perpendicularly frozen into the hearts of fields of ice, as a fly is found glued in amber. But more surprising is it to know, as has been proved by experiment, that the blood of a Polar whale is warmer than that of a Borneo negro in summer.”
+  “Oh, man! admire and model thyself after the whale! Do thou, too, remain warm among ice. Do thou, too, live in this world without being of it. Be cool at the equator; keep thy blood fluid at the Pole. Like the great dome of St. Peter’s, and like the great whale, retain, O man! in all seasons a temperature of thine own.”
+
+## ch. 69
