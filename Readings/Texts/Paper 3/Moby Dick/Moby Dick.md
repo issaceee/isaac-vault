@@ -419,27 +419,42 @@
 - “a broad white shadow rose from the sea; by its quick, fanning motion, temporarily taking the breath out of the bodies of the oarsmen. Next instant, the luckless mate, so full of furious life, was smitten bodily into the air, and making a long arc in his descent, fell into the sea at the distance of about fifty yards. Not a chip of the boat was harmed, nor a hair of any oarsman’s head; but the mate for ever sank.”
 - “But strangest of all is the circumstance, that in more instances than one, when the body has been recovered, not a single mark of violence is discernible; the man being stark dead”
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+## ch. 72
+- “Queequeg figured in the Highland costume—a shirt and socks—in which to my eyes, at least, he appeared to uncommon advantage; and no one had a better chance to observe him, as will presently be seen.”
+	- LOLLLL
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+- “So that for better or for worse, we two, for the time, were wedded; and should poor Queequeg sink to rise no more, then both usage and honor demanded, that instead of cutting the cord, it should drag me down in his wake.”
+- “I seemed distinctly to perceive that my own individuality was now merged in a joint stock company of two: that my free will had received a mortal wound; and that another’s mistake or misfortune might plunge innocent me into unmerited disaster and death.”
+- “this situation of mine was the precise situation of every mortal that breathes; only, in most cases, he, one way or other, has this Siamese connexion with a plurality of other mortals.”
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+- “what matters it, after all? Are you not the precious image of each and all of us men in this whaling world? That unsounded ocean you gasp in, is Life; those sharks, your foes; those spades, your friends; and what between sharks and spades you are in a sad pickle and peril, poor lad.”
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+## ch. 73
+- “the ship which but once has a Sperm Whale’s head hoisted on her starboard side, and at the same time a Right Whale’s on the larboard; did you never hear, Stubb, that that ship can never afterwards capsize?”
+- “So, when on one side you hoist in Locke’s head, you go over that way; but now, on the other side, hoist in Kant’s and you come back again; but in very poor plight. Thus, some minds for ever keep trimming boat. Oh, ye foolish! throw all these thunderheads overboard, and then you will float light and right.”
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+## ch. 74
+- “Man may, in effect, be said to look out on the world from a sentry-box with two joined sashes for his window. But with the whale, these two sashes are separately inserted, making two distinct windows, but sadly impairing the view. This peculiarity of the whale’s eyes is a thing always to be borne in mind in the fishery; and to be remembered by the reader in some subsequent scenes.”
+- “Man may, in effect, be said to look out on the world from a sentry-box with two joined sashes for his window. But with the whale, these two sashes are separately inserted, making two distinct windows, but sadly impairing the view. This peculiarity of the whale’s eyes is a thing always to be borne in mind in the fishery; and to be remembered by the reader in some subsequent scenes.”
+- “Is it not curious, that so vast a being as the whale should see the world through so small an eye, and hear the thunder through an ear which is smaller than a hare’s?”
+- “But far more terrible is it to behold, when fathoms down in the sea, you see some sulky whale, floating there suspended, with his prodigious jaw, some fifteen feet long, hanging straight down at right-angles with his body, for all the world like a ship’s jib-boom. This whale is not dead; he is only dispirited; out of sorts, perhaps; hypochondriac; and so supine, that the hinges of his jaw have relaxed, leaving him there in that ungainly sort of plight, a reproach to all his tribe, who must, no doubt, imprecate lock-jaws upon him.”
+
+
+## ch. 75
+- “fixing your eyes solely on this, you would take the head for the trunk of some huge oak, with a bird’s nest in its crotch. At any rate, when you watch those live crabs that nestle here on this bonnet, such an idea will be almost sure to occur to you; unless, indeed, your fancy has been fixed by the technical term ‘crown’ also bestowed upon it; in which case you will take great interest in thinking how this mighty monster is actually a diademed king of the sea, whose green crown has been put together for him in this marvellous manner”
+- “Can you catch the expression of the Sperm Whale’s there? It is the same he died with, only some of the longer wrinkles in the forehead seem now faded away. I think his broad brow to be full of a prairie-like placidity, born of a speculative indifference as to death. But mark the other head’s expression. See that amazing lower lip, pressed by accident against the vessel’s side, so as firmly to embrace the jaw. Does not this whole head seem to speak of an enormous practical resolution in facing death? This Right Whale I take to have been a Stoic; the Sperm Whale, a Platonian, who might have taken up Spinoza in his latter years.”
+
+## ch. 76
+- "Here is a vital point; for you must either satisfactorily settle this matter with yourself, or for ever remain an infidel as to one of the most appalling, but not the less true events, perhaps anywhere to be found in all recorded history."
+- "For unless you own the whale, you are but a provincial and sentimentalist in Truth. But clear Truth is a thing for salamander giants only to encounter; how small the chances for the provincials then? What befell the weakling youth lifting the dread goddess’s veil at Lais?"
+- "Now, mark. Unerringly impelling this dead, impregnable, uninjurable wall, and this most buoyant thing within; there swims behind it all a mass of tremendous life, only to be adequately estimated as piled wood is—by the cord; and all obedient to one volition, as the smallest insect."
+
+## ch. 77
+- "Moreover, as that of Heidelburgh was always replenished with the most excellent of the wines of the Rhenish valleys, so the tun of the whale contains by far the most precious of all his oily vintages; namely, the highly-prized spermaceti, in its absolutely pure, limpid, and odoriferous state. Nor is this precious substance found unalloyed in any other part of the creature. Though in life it remains perfectly fluid, yet, upon exposure to the air, after death, it soon begins to concrete; sending forth beautiful crystalline shoots, as when the first thin delicate ice is just forming in water."
+
+## ch. 78
+- “Whether it was that Tashtego, that wild Indian, was so heedless and reckless as to let go for a moment his one-handed hold on the great cabled tackles suspending the head; or whether the place where he stood was so treacherous and oozy; or whether the Evil One himself would have it to fall out so, without stating his particular reasons; how it was exactly, there is no telling now; but, on a sudden, as the eightieth or ninetieth bucket came suckingly up—my God! poor Tashtego—like the twin reciprocating bucket in a veritable well, dropped head-foremost down into this great Tun of Heidelburgh, and with a horrible oily gurgling, went clean out of sight!”
+- “presented; but well knowing that that was not as it ought to be, and might occasion great trouble;—he had thrust back the leg, and by a dexterous heave and toss, had wrought a somerset upon the Indian; so that with the next trial, he came forth in the good old way—head foremost.”
+- “had Tashtego perished in that head, it had been a very precious perishing; smothered in the very whitest and daintiest of fragrant spermaceti; coffined, hearsed, and tombed in the secret inner chamber and sanctum sanctorum of the whale.”
+
+## ch. 79
