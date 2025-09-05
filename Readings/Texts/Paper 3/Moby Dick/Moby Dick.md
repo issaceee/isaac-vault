@@ -551,6 +551,50 @@
 - “No wonder that in old times sperm was such a favorite cosmetic. Such a clearer! such a sweetener! such a softener! such a delicious mollifier!”
 - “as they richly broke to my fingers, and discharged all their opulence, like fully ripe grapes their wine; as I snuffed up that uncontaminated aroma,—literally and truly, like the smell of spring violets; I declare to you, that for the time I lived as in a musky meadow; I forgot all about our horrible oath; in that inexpressible sperm, I washed my hands and my heart of it; I almost began to credit the old Paracelsan superstition that sperm is of rare virtue in allaying the heat of anger; while bathing in that bath, I felt divinely free from all ill-will, or petulance, or malice, of any sort whatsoever.”
 
+## ch. 95
+- whale's dick - “unaccountable cone,—longer than a Kentuckian is tall,”
+
+## ch. 96
+- "as the wind howled on, and the sea leaped, and the ship groaned and dived, and yet steadfastly shot her red hell further and further into the blackness of the sea and the night, and scornfully champed the white bone in her mouth, and viciously spat round her on all sides; then the rushing Pequod, freighted with savages, and laden with fire, and burning a corpse, and plunging into that blackness of darkness, seemed the material counterpart of her monomaniac commander’s soul."
+- “Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body. Would that he consumed his own smoke! for his smoke is horrible to inhale, and inhale it you must, and not only that, but you must live in it for the time. It has an unspeakable, wild, Hindoo odor about it, such as may lurk in the vicinity of funereal pyres. It smells like the left wing of the day of judgment; it is an argument for the pit.”
+- “Look not too long in the face of the fire, O man! Never dream with thy hand on the helm! Turn not thy back to the compass; accept the first hint of the hitching tiller; believe not the artificial fire, when its redness makes all things look ghastly. To-morrow, in the natural sun, the skies will be bright; those who glared like devils in the forking flames, the morn will show in far other, at least gentler, relief; the glorious, golden, glad sun, the only true lamp—all others but liars!”
+- "Nevertheless the sun hides not Virginia’s Dismal Swamp, nor Rome’s accursed Campagna, nor wide Sahara, nor all the millions of miles of deserts and of griefs beneath the moon."
+- “The sun hides not the ocean, which is the dark side of this earth, and which is two thirds of this earth. So, therefore, that mortal man who hath more of joy than sorrow in him, that mortal man cannot be true—not true, or undeveloped.”
+- “And even if he for ever flies within the gorge, that gorge is in the mountains; so that even in his lowest swoop the mountain eagle is still higher than other birds upon the plain, even though they soar.”
+
+## ch. 97
+- “he goes and hunts for his oil, so as to be sure of its freshness and genuineness, even as the traveller on the prairie hunts up his own supper of game.”
+
+## ch. 98
+- “the entire ship seems great leviathan himself; while on all hands the din is deafening.
+  
+  But a day or two after, you look about you, and prick your ears in this self-same ship; and were it not for the tell-tale boats and tryworks, you would all but swear you trod some silent merchant vessel, with a most scrupulously neat commander.”
+- “many is the time the poor fellows, just buttoning the necks of their clean frocks, are startled by the cry of ‘There she blows!’ and away they fly to fight another whale, and go through the whole weary thing again. Oh! my friends, but this is man-killing! Yet this is life. For hardly have we mortals by long toilings extracted from this world’s vast bulk its small but valuable sperm; and then, with weary patience, cleansed ourselves from its defilements, and learned to live here in clean tabernacles of the soul; hardly is this done, when— There she blows!—the ghost is spouted up, and away we sail to fight some other world, and go through young life’s old routine again.”
+
+## ch. 99
+
+![[Pasted image 20250905195013.png]]
+
+- AHAB: “here’s something ever egotistical in mountain-tops and towers, and all other grand and lofty things; look here,—three peaks as proud as Lucifer. The firm tower, that is Ahab; the volcano, that is Ahab; the courageous, the undaunted, and victorious fowl, that, too, is Ahab; all are Ahab; a**nd this round gold is but the image of the rounder globe, which, like a magician’s glass, to each and every man in turn but mirrors back his own mysterious self**. Great pains, small gains for those who ask the world to solve them; it cannot solve itself. Methinks now this coined sun wears a ruddy face; but see! aye, he enters the sign of storms, the equinox! and but six months before he wheeled out of a former equinox at Aries! From storm to storm! So be it, then. Born in throes, ‘tis fit that man should live in pains and die in pangs! So be it, then! Here’s stout stuff for woe to work on. So be it, then.”
+- STARBUCK: “So in this vale of Death, God girds us round; and over all our gloom, the sun of Righteousness still shines a beacon and a hope. If we bend down our eyes, the dark vale shows her mouldy soil; but if we lift them, the bright sun meets our glance half way, to cheer. Yet, oh, the great sun is no fixture; and if, at midnight, we would fain snatch some sweet solace from him, we gaze for him in vain!”
+- STUBB: “There’s a sermon now, writ in high heaven, and the sun goes through it every year, and yet comes out of it all alive and hearty. Jollily he, aloft there, wheels through toil and trouble; and so, alow here, does jolly Stubb. Oh, jolly’s the word for aye!”
+- FLASK: “ see nothing here, but a round thing made of gold, and whoever raises a certain whale, this round thing belongs to him. So, what’s all this staring been about? It is worth sixteen dollars, that’s true;”
+- OLD MAXMAN: “f the White Whale be raised, it must be in a month and a day, when the sun stands in some one of these signs. I’ve studied signs, and know their marks; they were taught me two score years ago, by the old witch in Copenhagen. Now, in what sign will the sun then be? The horse-shoe sign; for there it is, right opposite the gold. And what’s the horse-shoe sign? The lion is the horse-shoe sign—the roaring and devouring lion. Ship, old ship! my old head shakes to think of thee.”
+- QUEEQUEG:“As I live he’s comparing notes; looking at his thigh bone; thinks the sun is in the thigh, or in the calf, or in the bowels, I suppose, as the old women talk Surgeon’s Astronomy in the back country. And by Jove, he’s found something there in the vicinity of his thigh—I guess it’s Sagittarius, or the Archer. No: he don’t know what to make of the doubloon; he takes it for an old button off some king’s trowsers.”
+- FEDALLAH:“Ah, only makes a sign to the sign and bows himself; there is a sun on the coin”
+- PIP: “I look, you look, he looks; we look, ye look, they look.” “old Ahab! the White Whale; he’ll nail ye! This is a pine tree. My father, in old Tolland county, cut down a pine tree once, and found a silver ring grown over in it; some old darkey’s wedding ring. How did it get there? And so they’ll say in the resurrection, when they come to fish up this old mast, and find a doubloon lodged in it, with bedded oysters for the shaggy bark.”
+
+## ch. 100
+- “Aye, aye, hearty! let us shake bones together!—an arm and a leg!—an arm that never can shrink, d’ye see; and a leg that never can run. Where did’st thou see the White Whale?—how long ago?”
+- “all befogged and bedeadened with black foam”
+- “the digestive organs of the whale are so inscrutably constructed by Divine Providence, that it is quite impossible for him to completely digest even a man’s arm? And he knows it too. So that what you take for the White Whale’s malice is only his awkwardness. For he never means to swallow a single limb; he only thinks to terrify by feints.”
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+- 
+
 Excerpt From
 Moby Dick (Oxford World's Classics)
 Herman Melville
