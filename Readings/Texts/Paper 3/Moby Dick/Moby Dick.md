@@ -380,6 +380,22 @@
   ‘No use goin’ on; de dam willains will keep a scrougin’ and slappin’ each oder, Massa Stubb; dey don’t hear one word; no use a-preaching to such dam g’uttons as you call ‘em, till dare bellies is full, and dare bellies is bottomless; and when dey do get ‘em full, dey wont hear you den; for den dey sink in de sea, go fast to sleep on de coral, and can’t hear not’ing at all, no more, for eber and eber.’
   ‘Upon my soul, I am about of the same opinion; so give the benediction, Fleece, and I’ll away to my supper.”
 
-- * Interactions with slaves
+- * Interactions with slaves - to take note of the entire escne (dialogue + the fact that the sharks are feasting on the whales below - //)
 
 ## ch. 65
+- “The fact is, that among his hunters at least, the whale would by all hands be considered a noble dish, were there not so much of him; but when you come to sit down before a meat-pie nearly one hundred feet long, it takes away your appetite.”
+- “But what further depreciates the whale as a civilized dish, is his exceeding richness. He is the great prize ox of the sea, too fat to be delicately good. ”
+- “a young buck with an intelligent looking calf’s head before him, is somehow one of the saddest sights you can see. The head looks a sort of reproachfully at him, with an ‘Et tu Brute!’ expression.”
+
+- “a man should eat a newly murdered thing of the sea, and eat it too by its own light.”
+- “no doubt the first man that ever murdered an ox was regarded as a murderer;”
+- “see the crowds of live bipeds staring up at the long rows of dead quadrupeds. Does not that sight take a tooth out of the cannibal’s jaw? Cannibals? who is not a cannibal?”
+
+- “But Stubb, he eats the whale by its own light, does he? and that is adding insult to injury, is it? Look at your knife-handle, there, my civilized and enlightened gourmand dining off that roast beef, what is that handle made of?—what but the bones of the brother of the very ox you are eating? And what do you pick your teeth with, after devouring that fat goose? With a feather of the same fowl. And with what quill did the Secretary of the Society for the Suppression of Cruelty to Ganders formally indite his circulars? It is only within the last month or two that that society passed a resolution to patronize nothing but steel pens.”
+
+## ch. 66
+- “Queequeg no care what god made him shark,’ said the savage, agonizingly lifting his hand up and down; ‘wedder Fejee god or Nantucket god; but de god wat made shark must be one dam Ingin.”
+
+## ch. 67
+
+## ch. 68
