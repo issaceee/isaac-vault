@@ -403,3 +403,43 @@
   “Oh, man! admire and model thyself after the whale! Do thou, too, remain warm among ice. Do thou, too, live in this world without being of it. Be cool at the equator; keep thy blood fluid at the Pole. Like the great dome of St. Peter’s, and like the great whale, retain, O man! in all seasons a temperature of thine own.”
 
 ## ch. 69
+- “The peeled white body of the beheaded whale flashes like a marble sepulchre; though changed in hue, it has not perceptibly lost anything in bulk. It is still colossal. ”
+- “There’s a most doleful and most mocking funeral! The seavultures all in pious mourning, the air-sharks all punctiliously in black or speckled. In life but few of them would have helped the whale, I ween, if peradventure he had needed it; but upon the banquet of his funeral they most piously do pounce. Oh, horrible vultureism of earth! from which not the mightiest whale is free”
+- “Thus, while in life the great whale’s body may have been a real terror to his foes, in his death his ghost becomes a powerless panic to a world.”
+
+## ch. 70
+- “Speak, thou vast and venerable head,’ muttered Ahab, ‘which, though ungarnished with a beard, yet here and there lookest hoary with mosses; speak, mighty head, and tell us the secret thing that is in thee. Of all divers, thou hast dived the deepest. That head upon which the upper sun now gleams, has moved amid this world’s foundations."
+- “O head! thou hast seen enough to split the planets and make an infidel of Abraham, and not one syllable is thine!’”
+- “O Nature, and O soul of man! how far beyond all utterance are your linked analogies; not the smallest atom stirs or lives on matter, but has its cunning duplicate in mind.”
+
+## ch. 71
+- “even in that wild whaling life where individual notabilities make up all totalities.”
+- “Think, think of thy whale-boat, stoven and sunk! Beware of the horrible tail!”
+- “Gabriel solemnly warned the captain against attacking the White Whale, in case the monster should be seen; in his gibbering insanity, pronouncing the White Whale to be no less a being than the Shaker God incarnated”
+- “a broad white shadow rose from the sea; by its quick, fanning motion, temporarily taking the breath out of the bodies of the oarsmen. Next instant, the luckless mate, so full of furious life, was smitten bodily into the air, and making a long arc in his descent, fell into the sea at the distance of about fifty yards. Not a chip of the boat was harmed, nor a hair of any oarsman’s head; but the mate for ever sank.”
+- “But strangest of all is the circumstance, that in more instances than one, when the body has been recovered, not a single mark of violence is discernible; the man being stark dead”
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
