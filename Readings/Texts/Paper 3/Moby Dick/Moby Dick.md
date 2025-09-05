@@ -355,3 +355,31 @@
 - “When the painted canvas cover is clapped on the American tub-line, the boat looks as if it were pulling off with a prodigious great wedding-cake to present to the whales”
 - “hus the whale-line folds the whole boat in its complicated coils, twisting and writhing around it in almost every direction. All the oarsmen are involved in its perilous contortions; so that to the timid eye of the landsman, they seem as Indian jugglers, with the deadliest snakes sportively festooning their limbs. ”
 - “the calm is but the wrapper and envelope of the storm; and contains it in itself, as the seemingly harmless rifle holds the fatal powder, and the ball, and the explosion; so the graceful repose of the line, as it silently serpentines about the oarsmen before being brought into actual play—this is a thing which carries more of true terror than any other aspect of this dangerous affair. But why say more? All men live enveloped in whale-lines. All are born with halters round their necks; but it is only when caught in the swift, sudden turn of death, that mortals realize the silent, subtle, everpresent perils of life. And if you be a philosopher, though seated in the whale-boat, you would not at heart feel one whit more of terror, than though seated before your evening fire with a poker, and not a harpoon, by your side.”
+
+## ch. 61
+- “Yes, a mighty change had come over the fish. All alive to his jeopardy, he was going ‘head out’; that part obliquely projecting from the mad yeast which he brewed”
+- “His tormented body rolled not in brine but in blood, which bubbled and seethed for furlongs behind in their wake. The slanting sun playing upon this crimson pond in the sea, sent back its reflection into every face, so that they all glowed to each other like red men. And all the while, jet after jet of white smoke was agonizingly shot from the spiracle of the whale, and vehement puff after puff from the mouth of the excited headsman; as at every dart, hauling in upon his crooked lance (by the line attached to it), Stubb straightened it again and again, by a few rapid blows against the gunwale, then again and again sent it into the whale
+- “And now it is struck; for, starting from his trance into that unspeakable thing called his ‘flurry,’ the monster horribly wallowed in his blood, overwrapped himself in impenetrable, mad, boiling spray, so that the imperilled craft, instantly dropping astern, had much ado blindly to struggle out from that phrensied twilight into the clear air of the day.”
+- “Yes; both pipes smoked out!’ and withdrawing his own from his mouth, Stubb scattered the dead ashes over the water; and, for a moment, stood thoughtfully eyeing the vast corpse he had made.”
+
+## ch. 62
+- “he is expected to set an example of superhuman activity to the rest, not only by incredible rowing, but by repeated loud and intrepid exclamations; and what it is to keep shouting at the top of one’s compass, while all the other muscles are strained and half started—what that is none know but those who have tried it
+- “for it is the harpooneer that makes the voyage, and if you take the breath out of his body how can you expect to find it there when most wanted!”
+- “The headsman should stay in the bows from first to last; he should both dart the harpoon and the lance, and no rowing whatever should be expected of him, except under circumstances obvious to any fisherman.”
+- “To insure the greatest efficiency in the dart, the harpooneers of this world must start to their feet from out of idleness, and not from out of toil.”
+
+## ch. 63
+- “Consider, now, how it must be in the case of four boats all engaging one unusually strong, active, and knowing whale; when owing to these qualities in him, as well as to the thousand concurring accidents of such an audacious enterprise, eight or ten loose second irons may be simultaneously dangling about him.”
+
+## ch. 64
+- “though these wild fishermen do not, as a general thing, and according to the great military maxim, make the enemy defray the current expenses of the war (at least before realizing the proceeds of the voyage), yet now and then you find some of these Nantucketers who have a genuine relish for that particular part of the Sperm Whale designated by Stubb; comprising the tapering extremity of the body.”
+- “sharks will be seen longingly gazing up to the ship’s decks, like hungry dogs round a table where red meat is being carved, ready to bolt down every killed man that is tossed to them; and though, while the valiant butchers over the deck-table are thus cannibally carving each others’ live meat with carving-knives all gilded and tasselled, the sharks, also, with their jewel-hilted mouths, are quarrelsomely carving away under the table at the dead meat; and though, were you to turn the whole affair upside down, it would still be pretty much the same thing, that is to say, a shocking sharkish business enough for all parties;”
+- “it’s too tender. Don’t I always say that to be good, a whale-steak must be tough?”
+
+- “Well done, old Fleece!’ cried Stubb, ‘that’s Christianity; go on.’
+  ‘No use goin’ on; de dam willains will keep a scrougin’ and slappin’ each oder, Massa Stubb; dey don’t hear one word; no use a-preaching to such dam g’uttons as you call ‘em, till dare bellies is full, and dare bellies is bottomless; and when dey do get ‘em full, dey wont hear you den; for den dey sink in de sea, go fast to sleep on de coral, and can’t hear not’ing at all, no more, for eber and eber.’
+  ‘Upon my soul, I am about of the same opinion; so give the benediction, Fleece, and I’ll away to my supper.”
+
+- * Interactions with slaves
+
+## ch. 65
