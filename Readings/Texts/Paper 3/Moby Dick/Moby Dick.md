@@ -506,3 +506,24 @@
 - “Thou shalt see my back parts, my tail, he seems to say, but my face shall not be seen. But I cannot completely make out his back parts; and hint what he will about his face, I say again he has no face.”
 
 ## ch. 87
+- “Best, therefore, withhold any amazement at the strangely gallied whales before us, for there is no folly of the beast of the earth which is not infinitely outdone by the madness of men.”
+- “the innermost heart of the shoal, as if from some mountain torrent we had slid into a serene valley lake. Here the storms in the roaring glens between the outermost whales, were heard but not felt. In this central expanse the sea presented that smooth satin-like surface, called a sleek, produced by the subtle moisture thrown off by the whale in his more quiet moods. Yes, we were now in that enchanted calm which they say lurks at the heart of every commotion. And still in the distracted distance we beheld the tumults of the outer concentric circles, and saw successive pods of whales, eight or ten in each, swiftly going round and round, like multiplied spans of horses in a ring”
+- “We must watch for a breach in the living wall that hemmed us in; the wall that had only admitted us in order to shut us up. Keeping at the centre of the lake, we were occasionally visited by small tame cows and calves; the women and children of this routed host.”
+
+- “as if the cows and calves had been purposely locked up in this innermost fold; and as if the wide extent of the herd had hitherto prevented them from learning the precise cause of its stopping; or, possibly, being so young, unsophisticated, and every way innocent and inexperienced; however it may have been, these smaller whales—now and then visiting our becalmed boat from the margin of the lake—evinced a wondrous fearlessness and confidence, or else a still becharmed panic which it was impossible not to marvel at. Like household dogs they came snuffing round us, right up to our gunwales, and touching them; till it almost seemed that some spell had suddenly domesticated them. ”
+
+- “human infants while suckling will calmly and fixedly gaze away from the breast, as if leading two different lives at the time; and while yet drawing mortal nourishment, be still spiritually feasting upon some unearthly reminiscence;—even so did the young of these whales seem looking up towards us, but not at us, as if we were but a bit of Gulf-weed in their new-born sight.”
+
+- “As when the stricken whale, that from the tub has reeled out hundreds of fathoms of rope; as, after deep sounding, he floats up again, and shows the slackened curling line buoyantly rising and spiralling towards the air; so now, Starbuck saw long coils of the umbilical cord of Madame Leviathan, by which the young cub seemed still tethered to its dam. Not seldom in the rapid vicissitudes of the chase, this natural line, with the maternal end loose, becomes entangled with the hempen one, so that the cub is thereby trapped. Some of the subtlest secrets of the seas seemed divulged to us in this enchanted pond. We saw young Leviathan amours in the deep.”
+
+- “So that tormented to madness, he was now churning through the water, violently flailing with his flexible tail, and tossing the keen spade about him, wounding and murdering his own comrades.”
+
+- “Of all the drugged whales only one was captured. The rest contrived to escape for the time, but only to be taken, as will hereafter be seen, by some other craft than the Pequod.”
+
+## ch. 88
+- “Almost universally, a lone whale—as a solitary Leviathan is called—proves an ancient one. Like venerable mossbearded Daniel Boone,* he will have no one near him but Nature herself; and her he takes to wife in the wilderness of waters, and the best of wives she is, though she keeps so many moody secrets.”
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
