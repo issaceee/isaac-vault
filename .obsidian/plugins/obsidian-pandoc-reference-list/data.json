@@ -5,7 +5,7 @@
     {
       "id": 1,
       "name": "My Library",
-      "lastUpdate": 1757163478329
+      "lastUpdate": 1757163834124
     }
   ],
   "renderCitations": true,
@@ -13,7 +13,7 @@
   "renderLinkCitations": true,
   "pullFromZotero": true,
   "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/modern-humanities-research-association-author-date.csl",
-  "cslStylePath": "/Users/isaacrafinyi/Downloads/modern-humanities-research-association-notes.csl",
+  "cslStylePath": "",
   "enableCiteKeyCompletion": true,
   "showCitekeyTooltips": true
 }

@@ -36,8 +36,9 @@
               "type": "markdown",
               "state": {
                 "file": "To Dos/narrative authority.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": true,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "narrative authority"
@@ -171,9 +172,19 @@
               "icon": "lucide-list",
               "title": "Outline of narrative authority"
             }
+          },
+          {
+            "id": "3cb4ac05dae0d0ec",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,15 +205,15 @@
   "active": "455451e1ec706a42",
   "lastOpenFiles": [
     "To Dos/gothic violence.md",
+    "To Dos/source_notes/@stonemanFeministCriticismWuthering2025.md",
+    "To Dos/narrative authority.md",
     "To Dos/Life of Charlotte Brontë.md",
     "z. Assets/Templates/source-notes.md",
     "To Dos/source_notes/@wattFirstParagraphAmbassadors1960.md",
-    "To Dos/narrative authority.md",
     "To Dos/natural supernaturalism.md",
     "To Dos/narratorial frames.md",
     "To Dos/narratorial failure.md",
     "To Dos/domestic.md",
-    "To Dos/source_notes/@stonemanFeministCriticismWuthering2025.md",
     "To Dos/source_notes",
     "Test.md",
     "z. Assets/Templates",

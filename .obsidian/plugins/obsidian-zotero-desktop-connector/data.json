@@ -6,8 +6,9 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "APA",
-      "format": "pandoc"
+      "name": "Pandoc",
+      "format": "pandoc",
+      "brackets": true
     }
   ],
   "exportFormats": [
