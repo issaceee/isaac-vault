@@ -733,3 +733,164 @@
 - “air for death and doom,— that’s fair for Moby Dick. It’s a fair wind that’s only fair for that accursed fish”
 
 ## ch. 124
+- “the two compasses pointed East, and the Pequod was as infallibly going West.”
+- “But in either case, the needle never again, of itself, recovers the original virtue thus marred or lost; and if the binnacle compasses be affected, the same fate reaches all the others that may be in the ship; even were the lowermost one inserted into the kelson.”
+- “Pequod thrust her undaunted bows into the opposing wind, for the supposed fair one had only been juggling her.”
+- “Abashed glances of servile wonder were exchanged by the sailors, as this was said; and with fascinated eyes they awaited whatever magic might follow. But Starbuck looked away”
+
+## ch. 125
+- “I crush the quadrant, the thunder turns the needles, and now the mad sea parts the log-line. But Ahab can mend all. Haul in here, Tahitian; reel up, Manxman. And look ye, let the carpenter make another log, and mend thou the line. See to it”
+- “Here, boy; Ahab’s cabin shall be Pip’s home henceforth, while Ahab lives. Thou touchest my inmost centre, boy; thou art tied to me by cords woven of my heartstrings. Come, let’s down.”
+- "Lo! ye believers in gods all goodness, and in man all ill, lo you! see the omniscient gods oblivious of suffering man; and man, though idiotic, and knowing not what he does, yet full of the sweet things of love and gratitude. Come! I feel prouder leading thee by thy black hand, than though I grasped an Emperor’s!"
+- "There go two daft ones now,” muttered the old Manxman. “One daft with strength, the other daft with weakness."
+
+## ch. 126
+- “And thus the first man of the Pequod that mounted the mast to look out for the White Whale, on the White Whale’s own peculiar ground; that man was swallowed up in the deep”
+- “they were not grieved at this event, at least as a portent; for they regarded it, not as a foreshadowing of evil in the future, but as the fulfilment of an evil already presaged. They declared that now they knew the reason of those wild shrieks they had heard the night before. But again the old Manxman said nay.”
+
+- “Make a life-buoy of the coffin, and no more”
+- “Then, if the hull go down, there’ll be thirty lively fellows all fighting for one coffin, a sight not seen very often beneath the sun! Come hammer, caulking-iron, pitch-pot, and marling-spike! Let’s to it.”
+
+## ch. 127
+- “Thou art as unprincipled as the gods, and as much of a jack-of-all-trades.’
+  ‘But I do not mean anything, sir. I do as I do.”
+- “So far gone am I in the dark side of earth, that its other side, the theoretic bright one, seems but uncertain twilight to me.”
+
+## ch. 128
+- “My boy, my own boy is among them.”
+- "Do to me as you would have me do to you in the like case. For _you_ too have a boy, Captain Ahab—though but a child, and nestling safely at home now—a child of your old age too—Yes, yes, you relent;"
+- “Captain Gardiner, I will not do it. Even now I lose time. Good bye, good bye. God bless ye, man, and may I forgive myself, but I must go”
+- “She was Rachel, weeping for her children,* because they were not.”
+
+## ch. 129
+- "There is that in thee, poor lad, which I feel too curing to my malady. Like cures like; and for this hunt, my malady becomes my most desired health."
+
+## ch. 130
+- “As the unsetting polar star, which through the livelong, arctic, six months’ night sustains its piercing, steady, central gaze; so Ahab’s purpose now fixedly gleamed down upon the constant midnight of the gloomy crew.”
+- "Such an added, gliding strangeness began to invest the thin Fedallah now; such ceaseless shudderings shook him; that the men looked dubious at him; half uncertain, as it seemed, whether indeed he were a mortal substance, or else a tremulous shadow cast upon the deck by some unseen being’s body."
+- “like, joy and sorrow, hope and fear, seemed ground to finest dust, and powdered, for the time, in the clamped mortar of Ahab’s iron soul. Like machines, they dumbly moved about the deck, ever conscious that the old man’s despot eye was on them.”
+- “he went no more beneath the planks; whatever he wanted from the cabin that thing he sent for.”
+- "—it was strange, that this was the very man he should select for his watchman; freely giving his whole life into such an otherwise distrusted person’s hands."
+- “An eagle flew thrice round Tarquin’s head, removing his cap to replace it, and thereupon Tanaquil, his wife, declared that Tarquin would be king of Rome. But only by the replacing of the cap was that omen accounted good. Ahab’s hat was never restored; the wild hawk flew on and on with it; far in advance of the prow: and at last disappeared; while from the point of that disappearance, a minute black spot was dimly discerned, falling from that vast height into the sea.”
+
+## ch. 131
+- "Upon the stranger’s shears were beheld the shattered, white ribs, and some few splintered planks, of what had once been a whale-boat; but you now saw through this wreck, as plainly as you see through the peeled, half-unhinged, and bleaching skeleton of a horse."
+- “I bury but one of five stout men, who were alive only yesterday; but were dead ere night. Only that one I bury; the rest were buried before they died; you sail upon their tomb.”
+- “not so quick, indeed, but that some of the flying bubbles might have sprinkled her hull with their ghostly baptism.”
+
+## ch. 132
+- “The firmaments of air and sea were hardly separable in that all-pervading azure; only, the pensive air was transparently pure and soft, with a woman’s look, and the robust and man-like sea heaved with long, strong, lingering swells, as Samson’s chest in his sleep”
+- “Hither, and thither, on high, glided the snow-white wings of small, unspeckled birds; these were the gentle thoughts of the feminine air; but to and fro in the deeps, far down in the bottomless blue, rushed mighty leviathans, sword-fish, and sharks; and these were the strong, troubled, murderous thinkings of the masculine sea.”
+- “But though thus contrasting within, the contrast was only in shades and shadows without; those two seemed one; it was only the sex, as it were, that distinguished them”
+
+- “the lovely aromas in that enchanted air did at last seem to dispel, for a moment, the cankerous thing in his soul. That glad, happy air, that winsome sky, did at last stroke and caress him; the step-mother world, so long cruel—forbidding—now threw affectionate arms round his stubborn neck, and did seem to joyously sob over him, as if over one, that however wilful and erring, she could yet find it in her heart to save and to bless. From beneath his slouched hat Ahab dropped a tear into the sea; nor did all the Pacific contain such wealth as that one wee drop.”
+
+- “ widowed that poor girl when I married her, Starbuck; and then, the madness, the frenzy, the boiling blood and the smoking brow, with which, for a thousand lowerings old Ahab has furiously, foamingly chased his prey—more a demon than a man!—aye, aye! what a forty years’ fool—fool—old fool, has old Ahab been!”
+
+- “let me look into a human eye; it is better than to gaze into sea or sky; better than to gaze upon God. By the green land; by the bright hearth-stone! this is the magic glass, man; I see my wife and my child in thine eye.”
+
+- “Is Ahab, Ahab? Is it I, God, or who, that lifts this arm? But if the great sun move not of himself; but is as an errand-boy in heaven; nor one single star can revolve, but by some invisible power; how then can this one small heart beat; this one small brain think thoughts; unless God does that beating, does that thinking, does that living, and not I? By heaven, man, we are turned round and round in this world, like yonder windlass, and Fate is the handspike. And all the time, lo!”
+
+- “Ahab crossed the deck to gaze over on the other side; but started at two reflected, fixed eyes in the water there. Fedallah was motionlessly leaning over the same rail.”
+
+## ch. 133
+- “he doubloon is mine, Fate reserved the doubloon for me. I only; none of ye could have raised the White Whale first.”
+- “A pale, death-glimmer lit up Fedallah’s sunken eyes; a hideous motion gnawed his mouth.”
+- “As they neared him, the ocean grew still more smooth; seemed drawing a carpet over its waves; seemed a noon-meadow, so serenely it spread.”
+
+- “A gentle joyousness—a mighty mildness of repose in swiftness, invested the gliding whale”
+	- “his entire dazzling hump was distinctly visible, sliding along the sea as if an isolated thing, and continually set in a revolving ring of finest, fleecy, greenish foam. He saw the vast, involved wrinkles of the slightly projecting head beyond. Before it, far out on the soft Turkish-rugged waters, went the glistening white shadow from his broad, milky forehead, a musical rippling playfully accompanying the shade; and behind, the blue waters interchangeably flowed over into the moving valley of his steady wake; and on either hand bright bubbles arose and danced by his side. But these were broken again by the light toes of hundreds of gay fowls softly feathering the sea, alternate with their fitful flight; and like to some flag-staff rising from the painted hull of an argosy, the tall but shattered pole of a recent lance projected from the white whale’s back; and at intervals one of the cloud of soft-toed fowls hovering, and to and fro skimming like a canopy over the fish, silently perched and rocked on this pole, the long tail feathers streaming like pennons.”
+	
+	- “On each soft side—coincident with the parted swell, that but once laving him, then flowed so wide away—on each bright side, the whale shed off enticings. No wonder there had been some among the hunters who namelessly transported and allured by all this serenity, had ventured to assail it; but had fatally found that quietude but the vesture of tornadoes. Yet calm, enticing calm, oh, whale! thou glidest on, to all who for the first time eye thee, no matter how many in that same way thou may’st have bejuggled and destroyed before.”
+
+- “Ahab, furious with this tantalizing vicinity of his foe, which placed him all alive and helpless in the very jaws he hated; frenzied with all this, he seized the long bone with his naked hands, and wildly strove to wrench it from its gripe.”
+
+- “But this intensity of his physical prostration did but so much the more abbreviate it. In an instant’s compass, great hearts sometimes condense to one deep pang, the sum total of those shallow pains kindly diffused through feebler men’s whole lives. And so, such hearts, though summary in each one suffering; still, if the gods decree it, in their life-time aggregate a whole age of woe, wholly made up of instantaneous intensities; for even in their pointless centres, those noble natures contain the entire circumferences of inferior souls.”
+
+- “Starbuck is Stubb reversed, and Stubb is Starbuck; and ye two are all mankind; and Ahab stands alone among the millions of the peopled earth, nor gods nor men his neighbors!”
+
+## ch. 134
+- “Whatever pale fears and forebodings some of them might have felt before; these were not only now kept out of sight through the growing awe of Ahab, but they were broken up, and on all sides routed, as timid prairie hares that scatter before the bounding bison. The hand of Fate had snatched all their souls; and by the stirring perils of the previous day; the rack of the past night’s suspense; the fixed, unfearing, blind, reckless way in which their wild craft went plunging towards its flying mark; by all these things, their hearts were bowled along.”
+- “They were one man, not thirty. For as the one ship that held them all; though it was put together of all contrasting things—oak, and maple, and pine wood; iron, and pitch, and hemp—yet all these ran into each other in the one concrete hull, which shot on its way, both balanced and directed by the long central keel; even so, all the individualities of the crew, this man’s valor, that man’s fear; guilt and guiltiness, all varieties were welded into oneness, and were all directed to that fatal goal which Ahab their one lord and keel did point to.”
+- “but by the far more wondrous phenomenon of breaching. Rising with his utmost velocity from the furthest depths, the Sperm Whale thus booms his entire bulk into the pure element of air, and piling up a mountain of dazzling foam”
+	- “In those moments, the torn, enraged waves he shakes off, seem his mane; in some cases, this breaching is his act of defiance.”
+- “instead of standing by himself he still half-hung upon the shoulder of Starbuck, who had thus far been the foremost to assist him. His ivory leg had been snapped off, leaving but one short sharp splinter.”
+- “Aye, sir,’ said Stubb—’caught among the tangles of your line—I thought I saw him dragging under.”
+
+- “But in this matter of the whale, be the front of thy face to me as the palm of this hand—a lipless, unfeatured blank. Ahab is for ever Ahab, man. This whole act’s immutably decreed. ‘Twas rehearsed by thee and me a billion years before this ocean rolled. Fool! I am the Fates’ lieutenant; I act under orders. Look thou, underling! that thou obeyest mine.—Stand round me, men. Ye see an old man cut down to the stump; leaning on a shivered lance; propped up on a lonely foot. ‘Tis Ahab—his body’s part; but Ahab’s soul’s a centipede, that moves upon a hundred legs. I feel strained, half-stranded, as ropes that tow dismasted frigates in a gale; and I may look so. But ere I break, ye’ll hear me crack; and till ye hear that, know that Ahab’s hawser tows his purpose yet.”
+
+## ch. 135
+- “Ahab never thinks; he only feels, feels, feels; that’s tingling enough for mortal man! to think’s audacity. God only has that right and privilege. Thinking is, or ought to be, a coolness and a calmness; and our poor hearts throb, and our poor brains beat too much for that.”
+- “Against the wind he now steers for the open jaw,’ murmured Starbuck to himself, as he coiled the new-hauled main-brace upon the rail. ‘God keep us, but already my bones feel damp within me, and from the inside wet my flesh. I misdoubt me that I disobey my God in obeying him!”
+- “instantly from the three mast-heads three shrieks went up as if the tongues of fire had voiced it.”
+
+- “But let me have one more good round look aloft here at the sea; there’s time for that. An old, old sight, and yet somehow so young; aye, and not changed a wink since I first saw it, a boy, from the sand-hills of Nantucket! The same!—the same!—the same to Noah as to me... Good-bye, mast-head—keep a good eye upon the whale, the while I’m gone. We’ll talk to-morrow, nay, to-night, when the white whale lies down there, tied by head and tail.”
+
+- “Some men die at ebb tide; some at low water; some at the full of the flood;—and I feel now like a billow that’s all one crested comb, Starbuck. I am old;—shake hands with me, man.”
+- “numbers of sharks, seemingly rising from out the dark waters beneath the hull, maliciously snapped at the blades of the oars, every time they dipped in the water; and in this way accompanied the boat with their bites...they seemed to follow that one boat without molesting the others.”
+
+- “For when three days flow together in one continuous intense pursuit; be sure the first is the morning, the second the noon, and the third the evening and the end of that thing—be that end what it may.”
+- “Future things swim before me, as in empty outlines and skeletons; all the past is somehow grown dim. Mary, girl! thou fadest in pale glories behind me; boy! I seem to see but thy eyes grown wondrous blue. Strangest problems of life seem clearing; but clouds sweep between—Is my journey’s end coming? ”
+
+- “maddened by yesterday’s fresh irons that corroded in him, Moby Dick seemed combinedly possessed by all the angels that fell from heaven. The wide tiers of welded tendons overspreading his broad white forehead, beneath the transparent skin, looked knitted together;”
+- “the whale had reeled the involutions of the lines around him, the half torn body of the Parsee was seen; his sable raiment frayed to shreds; his distended eyes turned full upon old Ahab.”
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
+
+Excerpt From
+Moby Dick (Oxford World's Classics)
+Herman Melville
+This material may be protected by copyright.
