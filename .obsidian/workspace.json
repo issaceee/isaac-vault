@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Dos/domestic.md",
+                "file": "z. Assets/Intro.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "domestic"
+              "title": "Intro"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5de73303b1554d22",
@@ -165,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +183,11 @@
   },
   "active": "455451e1ec706a42",
   "lastOpenFiles": [
+    "To Dos/domestic.md",
+    "z. Assets/Intro.md",
     "To Dos/source_notes/@wattFirstParagraphAmbassadors1960.md",
     "z. Assets/Templates/source-notes.md",
     "z. Assets/Images/Pasted image 20250905195013.png",
-    "To Dos/domestic.md",
     "To Dos/narrative authority.md",
     "To Dos/source_notes/@shapiroWUTHERINGHEIGHTSVICTORIAN.md",
     "To Dos/source_notes/@stonemanFeministCriticismWuthering2025.md",
