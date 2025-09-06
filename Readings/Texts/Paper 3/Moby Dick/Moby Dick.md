@@ -727,3 +727,9 @@
 ???
 
 ## ch. 123
+- “while the ship is but a tossed shuttlecock to the blast, it is by no means uncommon to see the needles in the compasses, at intervals, go round and round. ”
+- "Starbuck was an honest, upright man; but out of Starbuck’s heart, at that instant when he saw the muskets, there strangely evolved an evil thought; but so blent with its neutral or good accompaniments that for the instant he hardly knew it for itself."
+- “The isolated subterraneousness of the cabin made a certain humming silence to reign there, though it was hooped round by all the roar of the elements.”
+- “air for death and doom,— that’s fair for Moby Dick. It’s a fair wind that’s only fair for that accursed fish”
+
+## ch. 124
