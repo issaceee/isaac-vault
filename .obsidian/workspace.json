@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Dos/source_notes/@wattFirstParagraphAmbassadors1960.md",
+                "file": "To Dos/domestic.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "@wattFirstParagraphAmbassadors1960"
+              "title": "domestic"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Dos/source_notes/@wattFirstParagraphAmbassadors1960.md",
+                "file": "To Dos/domestic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for @wattFirstParagraphAmbassadors1960"
+              "title": "Backlinks for domestic"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Dos/source_notes/@wattFirstParagraphAmbassadors1960.md",
+                "file": "To Dos/domestic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of @wattFirstParagraphAmbassadors1960"
+              "title": "Outline of domestic"
             }
           },
           {
@@ -181,8 +181,8 @@
   },
   "active": "455451e1ec706a42",
   "lastOpenFiles": [
-    "z. Assets/Templates/source-notes.md",
     "To Dos/source_notes/@wattFirstParagraphAmbassadors1960.md",
+    "z. Assets/Templates/source-notes.md",
     "z. Assets/Images/Pasted image 20250905195013.png",
     "To Dos/domestic.md",
     "To Dos/narrative authority.md",
