@@ -6,6 +6,7 @@
       {
         "id": "2fbafa69137b3f5a",
         "type": "tabs",
+        "dimension": 41.17647058823529,
         "children": [
           {
             "id": "e90fd27894096904",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z. Assets/Templates/source-notes.md",
+                "file": "To Dos/source_notes/@wattFirstParagraphAmbassadors1960.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "source-notes"
+              "title": "@wattFirstParagraphAmbassadors1960"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "49aa02462f590d92",
         "type": "tabs",
+        "dimension": 58.82352941176471,
         "children": [
           {
             "id": "455451e1ec706a42",
@@ -33,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z. Assets/Templates/source-notes.md",
-                "mode": "source",
+                "file": "To Dos/narrative authority.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "source-notes"
+              "title": "narrative authority"
             }
           }
         ]
@@ -114,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "To Dos/narrative authority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for narrative authority"
             }
           },
           {
@@ -160,20 +163,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "To Dos/narrative authority.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of narrative authority"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,11 +191,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0edd627bc1badc02",
+  "active": "455451e1ec706a42",
   "lastOpenFiles": [
+    "To Dos/gothic violence.md",
+    "To Dos/Life of Charlotte Brontë.md",
+    "z. Assets/Templates/source-notes.md",
+    "To Dos/source_notes/@wattFirstParagraphAmbassadors1960.md",
+    "To Dos/narrative authority.md",
+    "To Dos/natural supernaturalism.md",
+    "To Dos/narratorial frames.md",
+    "To Dos/narratorial failure.md",
+    "To Dos/domestic.md",
+    "To Dos/source_notes/@stonemanFeministCriticismWuthering2025.md",
     "To Dos/source_notes",
     "Test.md",
-    "z. Assets/Templates/source-notes.md",
     "z. Assets/Templates",
     "z. Assets/Images",
     "z. Assets",
@@ -206,24 +219,16 @@
     "Readings/Texts/Paper 3/North & South",
     "Readings/Texts/Paper 3/North & South haha.md",
     "Readings/Texts/Victorian/Wuthering Heights/Stoneman, Feminist Criticism of “Wuthering Heights.”.md",
-    "To Dos/domestic.md",
     "Readings/Texts/Paper 3",
-    "To Dos/natural supernaturalism.md",
     "To Dos",
     "To Dos/narrative inadequacy.md",
     "To Dos/the gothic.md",
     "To Dos/the domestic.md",
-    "To Dos/narratorial failure.md",
     "To Dos/the rise of the novel.md",
     "Readings/Texts/Victorian/Wuthering Heights/Wuthering Heights.md",
     "Readings/Texts/Victorian/Wuthering Heights/Williams, Natural Supernaturalism in “Wuthering Heights.”.md",
     "Readings/Texts/Victorian/Wuthering Heights/Vargish, REVENGE AND “WUTHERING HEIGHTS.”.md",
     "Readings/Texts/Victorian/Wuthering Heights/Rena-Dozier, “Gothic Criticisms.”.md",
-    "Readings/Texts/Victorian/Wuthering Heights",
-    "To Dos/narratorial frames.md",
-    "To Dos/narrative authority.md",
-    "To Dos/gothic violence.md",
-    "To Dos/Life of Charlotte Brontë.md",
     "Welcome.md"
   ]
 }

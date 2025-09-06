@@ -15,7 +15,9 @@
       "name": "Import #1",
       "outputPathTemplate": "To Dos/source_notes/@{{citekey}}.md",
       "imageOutputPathTemplate": "z. Assets/Images/{{citekey}}/",
-      "imageBaseNameTemplate": "image"
+      "imageBaseNameTemplate": "image",
+      "cslStyle": "modern-humanities-research-association-notes",
+      "templatePath": "z. Assets/Templates/source-notes.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",

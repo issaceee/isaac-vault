@@ -61,26 +61,17 @@ tags: {% if allTags %}{{allTags}}{% endif %}
 
 
 # Annotations
-{%- macro calloutHeader(type, color) -%}  
-{%- if type == "highlight" -%}  
-<mark style="background-color: {{color}}">Quote</mark>  
-{%- endif -%}
-
-{%- if type == "text" -%}  
-Note  
-{%- endif -%}  
-{%- endmacro -%}
-
-{% persist "annotations" %}
-{% set newAnnotations = annotations | filterby("date", "dateafter", lastImportDate) %}
-{% if newAnnotations.length > 0 %}
-
-### Imported: {{importDate | format("YYYY-MM-DD h:mm a")}}
-
-
-{% for a in newAnnotations %}
-{{calloutHeader(a.type, a.color)}}
-> {{a.annotatedText}}
-{% endfor %}
+{% for annotation in annotations -%}
+{%- if annotation.annotatedText -%}
+{% if annotation.color %} <mark class="hltr-{{annotation.colorCategory | lower}}">"{{annotation.annotatedText | safe}}"</mark> {% else %} {{annotation.type | capitalize}} {% endif %}[Page {{annotation.pageLabel}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.pageLabel}}&annotation={{annotation.id}})
+{%- endif %}
+{% if annotation.comment %}
+{{annotation.comment | safe}} [Page {{annotation.pageLabel}}](zotero://open-pdf/library/items/{{annotation.attachment.itemKey}}?page={{annotation.pageLabel}}&annotation={{annotation.id}})
 {% endif %}
-{% endpersist %}
+{%- if annotation.imageRelativePath %} 
+![[{{annotation.imageRelativePath}}]]
+{%- endif %}
+{% if annotation.allTags %}
+{{annotation.allTags}}
+{% endif %}
+{% endfor -%}
