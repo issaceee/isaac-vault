@@ -13,8 +13,8 @@
   "exportFormats": [
     {
       "name": "Import #1",
-      "outputPathTemplate": "{{citekey}}.md",
-      "imageOutputPathTemplate": "Assets/Images",
+      "outputPathTemplate": "To Dos/source_notes/@{{citekey}}.md",
+      "imageOutputPathTemplate": "z. Assets/Images/{{citekey}}/",
       "imageBaseNameTemplate": "image"
     }
   ],

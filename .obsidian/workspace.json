@@ -11,30 +11,37 @@
             "id": "e90fd27894096904",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250905195013.png"
+                "file": "z. Assets/Templates/source-notes.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250905195013"
+              "icon": "lucide-file",
+              "title": "source-notes"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "49aa02462f590d92",
+        "type": "tabs",
+        "children": [
           {
-            "id": "6e531167646d6203",
+            "id": "455451e1ec706a42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "z. Assets/Templates/source-notes.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "source-notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,12 +187,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e531167646d6203",
+  "active": "0edd627bc1badc02",
   "lastOpenFiles": [
+    "To Dos/source_notes",
+    "Test.md",
+    "z. Assets/Templates/source-notes.md",
+    "z. Assets/Templates",
+    "z. Assets/Images",
+    "z. Assets",
     "My Library.json",
     "Untitled.md",
-    "Test.md",
-    "Pasted image 20250905195013.png",
+    "z. Assets/Images/Pasted image 20250905195013.png",
     "Readings/Texts/Paper 1/Watt, “The First Paragraph of The Ambassadors.”.md",
     "Readings/Texts/Paper 3/Moby Dick/Moby Dick - Melville and Blum, Moby-Dick..md",
     "Readings/Texts/Paper 3/North & South/North & South - Gaskell, North and South..md",
@@ -208,10 +220,6 @@
     "Readings/Texts/Victorian/Wuthering Heights/Vargish, REVENGE AND “WUTHERING HEIGHTS.”.md",
     "Readings/Texts/Victorian/Wuthering Heights/Rena-Dozier, “Gothic Criticisms.”.md",
     "Readings/Texts/Victorian/Wuthering Heights",
-    "Readings/Texts/Victorian",
-    "Readings/Texts",
-    "Readings",
-    "ssh_pub_key.txt",
     "To Dos/narratorial frames.md",
     "To Dos/narrative authority.md",
     "To Dos/gothic violence.md",
