@@ -626,3 +626,104 @@
 - “yet, in this present matter of his leg, he took plain practical procedures;—he called the carpenter.”
 
 ## ch. 107
+- "he was moreover unhesitatingly expert in all manner of conflicting aptitudes, both useful and capricious."
+- "Yet, as previously hinted, this omnitooled, open-and-shut carpenter, was, after all, no mere machine of an automaton. If he did not have a common soul in him, he had a subtle something that somehow anomalously did its duty. What that was, whether essence of quicksilver, or a few drops of hartshorn, there is no telling. But there it was; and there it had abided for now some sixty years or more."
+
+## ch. 108
+- drama form
+- “while Prometheus is about it, I’ll order a complete man after a desirable pattern. Imprimis, fifty feet high in his socks; then, chest modelled after the Thames Tunnel; then, legs with roots to ’em, to stay in one place; then, arms three feet through the wrist; no heart at all, brass forehead, and about a quarter of an acre of fine brains; and let me see—shall I order eyes to see outwards? No, but put a skylight on top of his head to illuminate inwards.”
+- “so, now, here is only one distinct leg to the eye, yet two to the soul. ”
+- "Hist, then. How dost thou know that some entire, living, thinking thing may not be invisibly and uninterpenetratingly standing precisely where thou now standest; aye, and standing there in thy spite? In thy most solitary hours, then, dost thou not fear eavesdroppers? Hold, don’t speak! And if I still feel the smart of my crushed leg, though it be now so long dissolved; then, why mayst not thou, carpenter, feel the fiery pains of hell for ever, and without a body? Hah!"
+- "Oh, Life! Here I am, proud as Greek god, and yet standing debtor to this blockhead for a bone to stand on! Cursed be that mortal inter-indebtedness which will not do away with ledgers. I would be free as air; and I’m down in the whole world’s books. I am so rich, I could have given bid for bid with the wealthiest Prætorians at the auction of the Roman empire (which was the world’s); and yet I owe for the flesh in the tongue I brag with. By heavens! I’ll get a crucible, and into it, and dissolve myself down to one small, compendious vertebra. So."
+
+## ch. 109
+- “What we come twenty thousand miles to get is worth saving, sir.’
+  ‘So it is, so it is; if we get it.’
+  ‘I was speaking of the oil in the hold, sir.”
+- “And I was not speaking or thinking of that at all. Begone! Let it leak! I’m all aleak myself. Aye! leaks in leaks! not only full of leaky casks, but those leaky casks are in a leaky ship; and that’s a far worse plight than the Pequod’s, man. Yet I don’t stop to plug my leak; for who can find it in the deep-loaded hull; or how hope to plug it, even if found, in this life’s howling gale
+- “Let the owners stand on Nantucket beach and outyell the Typhoons. What cares Ahab? Owners, owners? Thou art always prating to me, Starbuck, about those miserly owners, as if the owners were my conscience. But look ye, the only real owner of anything is its commander; and hark ye, my conscience is in this ship’s keel.—On deck!”
+- “Thou hast outraged, not insulted me, sir; but for that I ask thee not to beware of Starbuck; thou wouldst but laugh; but let Ahab beware of Ahab; beware of thyself, old man.”
+
+## ch. 110
+- “But as all else in him thinned, and his cheek-bones grew sharper, his eyes, nevertheless, seemed growing fuller and fuller; they became of a strange softness of lustre; and mildly but deeply looked out at you there from his sickness, a wondrous testimony to that immortal health in him which could not die, or be weakened. And like circles on the water, which, as they grow fainter, expand; so his eyes seemed rounding and rounding, like the rings of Eternity.”
+- “So that—let us say it again—no dying Chaldee or Greek had higher and holier thoughts than those, whose mysterious shades you saw creeping over the face of poor Queequeg, as he quietly lay in his swaying hammock, and the rolling sea seemed gently rocking him to his final rest, and the ocean’s invisible flood-tide lifted him higher and higher towards his destined heaven.”
+-  “after embalming a dead warrior, stretched him out in his canoe, and so left him to be floated away to the starry archipelagoes; for not only do they believe that the stars are isles, but that far beyond all visible horizons, their own mild, uncontinented seas, interflow with the blue heavens; and so form the white breakers of the milky way. He added, that he shuddered at the thought of being buried in his hammock, according to the usual sea-custom, tossed like something vile to the death-devouring shark”
+- “there lay Queequeg in his coffin with little but his composed countenance in view. ‘Rarmai’ (it will do; it is easy), he murmured at last, and signed to be replaced in his hammock”
+- “Seek out one Pip, who’s now been missing long: I think he’s in those far Antilles. If ye find him, then comfort him; for he must be very sad; for look! he’s left his tambourine behind;—I found it. Rig-a-dig, dig, dig! Now, Queequeg, die; and I’ll beat ye your dying march.”
+- “that in violent fevers, men, all ignorance, have talked in ancient tongues; and that when the mystery is probed, it turns out always that in their wholly forgotten childhood those ancient tongues had been really spoken in their hearing by some lofty scholars. So, to my fond faith, poor Pip, in this strange sweetness of his lunacy, brings heavenly vouchers of all our heavenly homes.”
+- “They asked him, then, whether to live or die was a matter of his own sovereign will and pleasure. He answered, certainly. In a word, it was Queequeg’s conceit, that if a man made up his mind to live, mere sickness could not kill him: nothing but a whale, or a gale, or some violent, ungovernable, unintelligent destroyer of that sort.”
+- “And this tattooing had been the work of a departed prophet and seer of his island, who, by those hieroglyphic marks, had written out on his body a complete theory of the heavens and the earth, and a mystical treatise on the art of attaining truth; so that Queequeg in his own proper person was a riddle to unfold; a wondrous work in one volume; but whose mysteries not even himself could read, though his own live heart beat against them; and these mysteries were therefore destined in the end to moulder away with the living parchment whereon they were inscribed, and so be unsolved to the last.”
+
+## ch. 111
+- "Fields of all four continents, the waves should rise and fall, and ebb and flow unceasingly; for here, millions of mixed shades and shadows, drowned dreams, somnambulisms, reveries; all that we call lives and souls, lie dreaming, dreaming, still; tossing like slumberers in their beds; the ever-rolling waves but made so by their restlessness."
+- "Thus this mysterious, divine Pacific zones the world’s whole bulk about; makes all coasts one bay to it; seems the tide-beating heart of earth. Lifted by those eternal swells, you needs must own the seductive god, bowing your head to Pan."
+
+## ch. 112
+- “No murmur, no impatience, no petulance did come from him. Silent, slow, and solemn; bowing over still further his chronically broken back, he toiled away, as if toil were life itself, and the heavy beating of his hammer the heavy beating of his heart. And so it was.—Most miserable.”
+- "But one night, under cover of darkness, and further concealed in a most cunning disguisement, a desperate burglar slid into his happy home, and robbed them all of everything. And darker yet to tell, the blacksmith himself did ignorantly conduct this burglar into his family’s heart. It was the Bottle Conjuror! Upon the opening of that fatal cork, forth flew the fiend, and shrivelled up his home."
+- “Death seems the only desirable sequel for a career like this; but Death is only a launching into the region of the strange Untried; it is but the first salutation to the possibilities of the immense Remote, the Wild, the Watery, the Unshored; therefore, to the death-longing eyes of such men, who still have left in them some interior compunctions against suicide, does the all-contributed and all-receptive ocean alluringly spread forth his whole plain of unimaginable, taking terrors, and wonderful, new-life adventures; and from the hearts of infinite Pacifies, the thousand mermaids sing to them—’Come hither, broken-hearted; here is another life without the guilt of intermediate death; here are wonders supernatural, without dying for them. Come hither! bury thyself in a life which, to your now equally abhorred and abhorring, landed world, is more oblivious than death. Come hither! put up thy grave-stone, too, within the churchyard, and come hither, till we marry thee!”
+
+## ch. 113
+- “Because I am scorched all over, Captain Ahab,’ answered Perth, resting for a moment on his hammer; ‘I am past scorching; not easily can’st thou scorch a scar.”
+- “Aye, blacksmith, it is the one; aye, man, it is unsmoothable; for though thou only see’st it here in my flesh, it has worked down into the bone of my skull”
+- “forge me first, twelve rods for its shank; then wind, and twist, and hammer these twelve together like the yarns and strands of a tow-line”
+- “have I been but forging my own branding-iron, then?”
+- “Tashtego, Queequeg, Daggoo! What say ye, pagans! Will ye give me as much blood as will cover this barb?’ holding it high up. A cluster of dark nods replied, Yes. Three punctures were made in the heathen flesh, and the White Whale’s barbs were then tempered.”
+- “Ego non baptizo te in nomine patris, sed in nomine diaboli!”
+	- I baptize you not in the name of the father, but in the name of the devil!
+- “done, pole, iron, and rope—like the Three Fates—remained inseparable, and Ahab moodily stalked away with the weapon; the sound of his ivory leg, and the sound of the hickory pole, both hollowly ringing along every plank”
+
+## ch. 114
+- “These are the times, when in his whale-boat the rover softly feels a certain filial, confident, land-like feeling towards the sea; that he regards it as so much flowery earth; and the distant ship revealing only the tops of her masts, seems struggling forward, not through high rolling waves, but through the tall grass of a rolling prairie: as when the western emigrants’ horses only show their erected ears, while their hidden bodies widely wade through the amazing verdure.”
+- "Oh, grassy glades! oh, ever vernal endless landscapes in the soul; in ye,—though long parched by the dead drought of the earthy life,—in ye, men yet may roll, like young horses in new morning clover; and for some few fleeting moments, feel the cool dew of the life immortal on them"
+- “Loveliness unfathomable, as ever lover saw in his young bride’s eye!—Tell me not of thy teeth-tiered sharks, and thy kidnapping cannibal ways. Let faith oust fact; let fancy oust memory; I look deep down and do believe.’
+- ‘I am Stubb, and Stubb has his history; but here Stubb takes oaths that he has always been jolly!”
+
+## ch. 115
+- “; and as the two ships crossed each other’s wakes—one all jubilations for things passed, the other all forebodings as to things to come—their two captains in themselves impersonated the whole striking contrast of the scene.”
+- “Hast seen the White Whale?’ gritted Ahab in reply.
+  ‘No; only heard of him; but don’t believe in him at all,’ said the other good-humoredly. ‘Come aboard!”
+- “Ahab, leaning over the taffrail, eyed the homeward-bound craft, he took from his pocket a small vial of sand, and then looking from the ship to the vial, seemed thereby bringing two remote associations together, for that vial was filled with Nantucket soundings.”
+
+## ch. 116
+- “He turns and turns him to it,—how slowly, but how steadfastly, his homage-rendering and invoking brow, with his last dying motions. He too worships fire; most faithful, broad, baronial vassal of the sun!”
+- “for long Chinese ages, the billows have still rolled on speechless and unspoken to, as stars that shine upon the Niger’s unknown source; here, too, life dies sunwards full of faith; but see! no sooner dead, than death whirls round the corpse, and it heads some other way. —”
+- "Oh, trebly hooped and welded hip of power! Oh, high aspiring, rainbowed jet!—that one strivest, this one jettest all in vain! In vain, oh whale, dost thou seek intercedings with yon all-quickening sun, that only calls forth life, but gives it not again. Yet dost thou, darker half, rock me with a prouder, if a darker faith. All thy unnamable imminglings float beneath me here; I am buoyed by breaths of once living things, exhaled as air, but water now."
+- “Then hail, for ever hail, O sea, in whose eternal tossings the wild fowl finds his only rest. Born of earth, yet suckled by the sea; though hill and valley mothered me, ye billows are my foster-brothers!”
+
+## ch. 117
+- "Ahab and all his boat’s crew seemed asleep but the Parsee; who crouching in the bow, sat watching the sharks, that spectrally played round the whale, and tapped the light cedar planks with their tails. A sound like the moaning in squadrons over Asphaltites of unforgiven ghosts of Gomorrah, ran shuddering through the air.
+  Started from his slumbers, Ahab, face to face, saw the Parsee; and hooped round by the gloom of the night they seemed the last men in a flooded world."
+- “ two hearses must verily be seen by thee on the sea; the first not made by mortal hands; and the visible wood of the last one must be grown in America....Believe it or not, thou canst not die till it be seen, old man.”
+- “I shall still go before thee thy pilot”
+- “Hemp only can kill thee”
+
+## ch. 118
+
+- “Here some one thrusts these cards into these old hands of mine; swears that I must play them, and no others.” And damn me, Ahab, but thou actest right; live in the game, and die it!”
+
+## ch. 119
+- “WARMEST climes but nurse the cruellest fangs:”
+- “All the yard-arms were tipped with a pallid fire; and touched at each tri-pointed lightning-rod-end with three tapering white flames, each of the three tall masts was silently burning in that sulphurous air, like three gigantic wax tapers before an altar.”
+	- // to the doubloon
+- “To sailors, oaths are household words; they will swear in the trance of the calm, and in the teeth of the tempest; they will imprecate curses from the topsail-yard-arms, when most they teeter over to a seething sea; but in all my voyagings, seldom have I heard a common oath when God’s burning finger has been laid on the ship; when His ‘Mene, Mene, Tekel Upharsin’* has been woven into the shrouds and the cordage.”
+
+- "Oh! thou clear spirit of clear fire, whom on these seas I as Persian once did worship, till in the sacramental act so burned by thee, that to this hour I bear the scar; I now know thee, thou clear spirit, and I now know that thy right worship is defiance."
+- "No fearless fool now fronts thee. I own thy speechless, placeless power; but to the last gasp of my earthquake life will dispute its unconditional, unintegral mastery in me. In the midst of the personified impersonal, a personality stands here."
+- "Oh, thou foundling fire, thou hermit immemorial, thou too hast thy incommunicable riddle, thy unparticipated grief. Here again with haughty agony, I read my sire. Leap! leap up, and lick the sky! I leap with thee; I burn with thee; would fain be welded with thee; defyingly I worship thee!"
+
+- “And that ye may know to what tune this heart beats: look ye here; thus I blow out the last fear!’ And with one blast of his breath he extinguished the flame.”
+
+
+## ch. 120
+
+
+## ch. 121
+- “Don’t you see, you timber-head, that no harm can come to the holder of the rod, unless the mast is first struck”
+- “Tying these two anchors here, Flask, seems like tying a man’s hands behind him. And what big generous hands they are, to be sure. These are your iron fists, hey? What a hold they have, too! I wonder, Flask, whether the world is anchored anywhere; if she is, she swings with an uncommon long cable, though.”
+- “whew! there goes my tarpaulin overboard; Lord, Lord, that the winds that come from heaven should be so unmannerly! ”
+
+## ch. 122
+???
+
+## ch. 123
