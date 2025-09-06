@@ -835,62 +835,17 @@
 - “maddened by yesterday’s fresh irons that corroded in him, Moby Dick seemed combinedly possessed by all the angels that fell from heaven. The wide tiers of welded tendons overspreading his broad white forehead, beneath the transparent skin, looked knitted together;”
 - “the whale had reeled the involutions of the lines around him, the half torn body of the Parsee was seen; his sable raiment frayed to shreds; his distended eyes turned full upon old Ahab.”
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+- "bethinking it—it may be—a larger and nobler foe; of a sudden, he bore down upon its advancing prow, smiting his jaws amid fiery showers of foam."
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
-
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
-
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
-
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
-
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+- “ Retribution, swift vengeance, eternal malice were in his whole aspect, and spite of all that mortal man could do, the solid white buttress of his forehead smote the ship’s starboard bow, till men and timbers reeled”
+- “while fixed by infatuation, or fidelity, or fate, to their once lofty perches, the pagan harpooneers still maintained their sinking lookouts on the sea.”
 
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+- "Up helm again! He turns to meet us! Oh, his unappeasable brow drives on towards one, whose duty tells him he cannot depart. My God, stand by me now!"
+- "I grin at thee, thou grinning whale! Look ye, sun, moon, and stars! I call ye assassins of as good a fellow as ever spouted up his ghost. For all that, I would yet ring glasses with ye, would ye but hand the cup! Oh, oh! oh, oh! thou grinning whale, but there’ll be plenty of gulping soon! Why fly ye not, O Ahab! For me, off shoes and jacket to it; let Stubb die in his drawers!"
+- "Cherries? I only wish that we were where they grow. Oh, Stubb, I hope my poor mother’s drawn my part-pay ere this; if not, few coppers will now come to her, for the voyage is up."
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+- "Now small fowls flew screaming over the yet yawning gulf; a sullen white surf beat against its steep sides; then all collapsed, and the great shroud of the sea rolled on as it rolled five thousand years ago."
 
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
-
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
-
-Excerpt From
-Moby Dick (Oxford World's Classics)
-Herman Melville
-This material may be protected by copyright.
+## epilogue
+- “the coffin lifebuoy shot lengthwise from the sea, fell over, and floated by my side. Buoyed up by that coffin, for almost one whole day and night, I floated on a soft and dirge-like main. The unharming sharks, they glided by as if with padlocks on their mouths; the savage sea-hawks sailed with sheathed beaks. On the second day, a sail drew near, nearer, and picked me up at last. It was the devious-cruising Rachel, that in her retracing search after her missing children, only found another orphan.”
