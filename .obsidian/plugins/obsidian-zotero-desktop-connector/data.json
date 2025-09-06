@@ -14,7 +14,7 @@
     {
       "name": "Import #1",
       "outputPathTemplate": "{{citekey}}.md",
-      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageOutputPathTemplate": "Assets/Images",
       "imageBaseNameTemplate": "image"
     }
   ],
