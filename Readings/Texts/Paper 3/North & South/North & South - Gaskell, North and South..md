@@ -1,4 +1,4 @@
-
+Gaskell, Elizabeth Cleghorn. _North and South_. 2nd ed. With Angus Easson and Sally Shuttleworth. Oxford World’s Classics Ser. Oxford University Press USA - OSO, 2008.
 
 # Introduction
 
