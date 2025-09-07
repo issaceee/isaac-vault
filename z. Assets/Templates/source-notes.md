@@ -54,31 +54,31 @@ Write notes here!
 {% endpersist %}
   
 # Annotations
-{%- macro calloutHeader(type, color) -%}  
-  {%- if type == "highlight" -%}  
-    {%- if color == "#ff6666" -%}  
-      <mark style="background-color: {{color}}">Disagree</mark>  
-    {%- elif color == "#ffd400" -%}  
-      <mark style="background-color: {{color}}">Important / Interesting</mark>  
-    {%- elif color == "#5fb236" -%}  
-      <mark style="background-color: {{color}}">Agree</mark>  
-    {%- elif color == "#a28ae5" -%}  
-      <mark style="background-color: {{color}}">Chapter / Section</mark>  
-    {%- elif color == "#2ea8e5" -%}  
-      <mark style="background-color: {{color}}">Related Sources</mark>  
-    {%- elif color == "#ff8ebf" -%}  
-      <mark style="background-color: {{color}}">?? Confused</mark>  
-    {%- elif color == "#ffb86c" -%}  
-      <mark style="background-color: {{color}}">Definition</mark>  
-    {%- else -%}  
-      <mark style="background-color: {{color}}">Highlight</mark>  
-    {%- endif -%}  
-  {%- endif -%}  
+{%- macro calloutHeader(type, color) -%}
+  {%- if type == "highlight" -%}
+    {%- if color == "#ff6666" -%}
+      <mark style="background-color:#e07a7a">Disagree</mark>
+    {%- elif color == "#ffd400" -%}
+      <mark style="background-color:#f2c94c">Important / Interesting</mark>
+    {%- elif color == "#5fb236" -%}
+      <mark style="background-color:#6abf69">Agree</mark>
+    {%- elif color == "magenta" or color == "#a28ae5" -%}
+      <mark style="background-color:#9b8fe3">Chapter / Section</mark>
+    {%- elif color == "#2ea8e5" -%}
+      <mark style="background-color:#5aaed6">Related Sources</mark>
+    {%- elif color == "#ff8ebf" -%}
+      <mark style="background-color:#e89bbd">?? Confused</mark>
+    {%- elif color == "#ffb86c" -%}
+      <mark style="background-color:#f2a65a">Definition</mark>
+    {%- else -%}
+      <mark style="background-color:#cccccc">Highlight</mark>
+    {%- endif -%}
+  {%- endif -%}
 
-  {%- if type == "text" -%}  
-    Note  
-  {%- endif -%}  
-{%- endmacro -%}  
+  {%- if type == "text" -%}
+    Note
+  {%- endif -%}
+{%- endmacro -%}
 
 {% persist "annotations" %}
 {% set newAnnotations = annotations | filterby("date", "dateafter", lastImportDate) %}
@@ -89,18 +89,13 @@ Write notes here!
 {% for a in newAnnotations %}
 {{calloutHeader(a.type, a.color)}}
 > {{a.annotatedText}}
-
 {% if a.comment %}
->  
-> Comment: {{a.comment | replace("\n", "\n> ") }}
+>> {{a.comment | replace("\n", "\n>> ") }}
 {% endif %}
 
 {% if a.imageRelativePath %}
 ![[{{a.imageRelativePath}}]]
-{% endif %}
-
-<br>
+{% endif %}  
 {% endfor %}
-
 {% endif %}
 {% endpersist %}

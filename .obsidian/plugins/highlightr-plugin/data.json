@@ -9,7 +9,8 @@
     "Green": "#6abf69",
     "Purple": "#9b8fe3",
     "Blue": "#5aaed6",
-    "Pink": "#e89bbd"
+    "Pink": "#e89bbd",
+    "Orange": "#f2a65a"
   },
   "highlighterOrder": [
     "Cyan",
@@ -19,6 +20,7 @@
     "Green",
     "Purple",
     "Blue",
-    "Pink"
+    "Pink",
+    "Orange"
   ]
 }
