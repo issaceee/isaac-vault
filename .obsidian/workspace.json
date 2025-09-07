@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z. Assets/Intro.md",
+                "file": "z. Assets/Templates/source-notes.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "source-notes"
             }
           }
         ]
@@ -182,11 +182,11 @@
   },
   "active": "455451e1ec706a42",
   "lastOpenFiles": [
+    "z. Assets/Images/Pasted image 20250905195013.png",
     "To Dos/source_notes/@wattFirstParagraphAmbassadors1960.md",
+    "z. Assets/Templates/source-notes.md",
     "z. Assets/Intro.md",
     "To Dos/domestic.md",
-    "z. Assets/Templates/source-notes.md",
-    "z. Assets/Images/Pasted image 20250905195013.png",
     "To Dos/narrative authority.md",
     "To Dos/source_notes/@shapiroWUTHERINGHEIGHTSVICTORIAN.md",
     "To Dos/source_notes/@stonemanFeministCriticismWuthering2025.md",
@@ -217,7 +217,6 @@
     "To Dos/the domestic.md",
     "To Dos/the rise of the novel.md",
     "Readings/Texts/Victorian/Wuthering Heights/Wuthering Heights.md",
-    "Readings/Texts/Victorian/Wuthering Heights/Williams, Natural Supernaturalism in “Wuthering Heights.”.md",
-    "Readings/Texts/Victorian/Wuthering Heights/Vargish, REVENGE AND “WUTHERING HEIGHTS.”.md"
+    "Readings/Texts/Victorian/Wuthering Heights/Williams, Natural Supernaturalism in “Wuthering Heights.”.md"
   ]
 }

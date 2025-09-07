@@ -53,34 +53,46 @@ Write notes here!
 {% endif %} 
 {% endpersist %}
   
-# Annotations  
+# Annotations
 {%- macro calloutHeader(type, color) -%}  
-{%- if type == "highlight" -%}  
-<mark style="background-color: {{color}}">Quote</mark>  
-{%- endif -%}  
-  
-{%- if type == "text" -%}  
-Note  
-{%- endif -%}  
-{%- endmacro -%}  
-  
-{% persist "annotations" %}  
-{% set newAnnotations = annotations | filterby("date", "dateafter", lastImportDate) %}  
-{% if newAnnotations.length > 0 %}  
+  {%- if type == "highlight" -%}  
+    {%- if color == "#ff6666" -%}  
+      <mark style="background-color: {{color}}">Disagree</mark>  
+    {%- elif color == "#ffd400" -%}  
+      <mark style="background-color: {{color}}">Important / Interesting</mark>  
+    {%- elif color == "#5fb236" -%}  
+      <mark style="background-color: {{color}}">Agree</mark>  
+    {%- elif color == "#a28ae5" -%}  
+      <mark style="background-color: {{color}}">Chapter / Section</mark>  
+    {%- elif color == "#2ea8e5" -%}  
+      <mark style="background-color: {{color}}">Related Sources</mark>  
+    {%- elif color == "#ff8ebf" -%}  
+      <mark style="background-color: {{color}}">?? Confused</mark>  
+    {%- elif color == "#ffb86c" -%}  
+      <mark style="background-color: {{color}}">Definition</mark>  
+    {%- else -%}  
+      <mark style="background-color: {{color}}">Highlight</mark>  
+    {%- endif -%}  
+  {%- endif -%}  
 
-### Imported: {{importDate | format("YYYY-MM-DD h:mm a")}}  
+  {%- if type == "text" -%}  
+    Note  
+  {%- endif -%}  
+{%- endmacro -%}  
+
+{% persist "annotations" %}
+{% set newAnnotations = annotations | filterby("date", "dateafter", lastImportDate) %}
+{% if newAnnotations.length > 0 %}
+
+### Imported: {{importDate | format("YYYY-MM-DD h:mm a")}}
 
 {% for a in newAnnotations %}
-{% if a.annotatedText %}
-{% if a.color %}
-- <mark class="hltr-{{a.colorCategory | lower}}">"{{a.annotatedText | safe}}" </mark> (p. {{a.page}}) [↗](zotero://open-pdf/library/items/{{a.attachment.itemKey}}?page={{a.page}}&annotation={{a.id}})
-{% else %}
-- "{{a.annotatedText | safe}}" (p. {{a.page}}) [↗](zotero://open-pdf/library/items/{{a.attachment.itemKey}}?page={{a.page}}&annotation={{a.id}})
-{% endif %} 
-{% endif %}
+{{calloutHeader(a.type, a.color)}}
+> {{a.annotatedText}}
 
 {% if a.comment %}
-	- Comment: {{a.comment}}
+>  
+> Comment: {{a.comment | replace("\n", "\n> ") }}
 {% endif %}
 
 {% if a.imageRelativePath %}
@@ -88,7 +100,6 @@ Note
 {% endif %}
 
 <br>
-
 {% endfor %}
 
 {% endif %}
