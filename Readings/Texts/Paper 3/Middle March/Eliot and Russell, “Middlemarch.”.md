@@ -35,3 +35,5 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - "Women were expected to have weak opinions; but the great safeguard of society and of domestic life was, that opinions were not acted on. Sane people did what their neighbours did, so that if any lunatics were at large, one might know and avoid them."
 
 - "Riding was an indulgence which she allowed herself in spite of conscientious qualms; she felt that she enjoyed it in a pagan sensuous way, and always looked forward to renouncing it."
+
+- “but an amiable handsome baronet, who said ‘Exactly’ to her remarks even when she expressed uncertainty,–how could he affect her as a lover? The really delightful marriage must be that where your husband was a sort of father, and could teach you even Hebrew, if you wished it.”
