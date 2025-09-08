@@ -37,3 +37,7 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - "Riding was an indulgence which she allowed herself in spite of conscientious qualms; she felt that she enjoyed it in a pagan sensuous way, and always looked forward to renouncing it."
 
 - “but an amiable handsome baronet, who said ‘Exactly’ to her remarks even when she expressed uncertainty,–how could he affect her as a lover? The really delightful marriage must be that where your husband was a sort of father, and could teach you even Hebrew, if you wished it.”
+
+- “she repeated to herself that Dorothea was inconsistent: either she should have taken her full share of the jewels, or, after what she had said, she should have renounced them altogether.”
+
+### ch. 2
