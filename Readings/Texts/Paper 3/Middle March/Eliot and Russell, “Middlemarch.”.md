@@ -41,3 +41,4 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “she repeated to herself that Dorothea was inconsistent: either she should have taken her full share of the jewels, or, after what she had said, she should have renounced them altogether.”
 
 ### ch. 2
+- 
