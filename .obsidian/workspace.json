@@ -4,21 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "49aa02462f590d92",
+        "id": "95fcb4436759bc26",
         "type": "tabs",
         "children": [
           {
-            "id": "455451e1ec706a42",
+            "id": "e2250b7c8a6b4fcc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readings/Texts/Paper 1/@wattFirstParagraphAmbassadors1960.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "@wattFirstParagraphAmbassadors1960"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8ceac85a1c4f5255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df550ce534c09781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z. Assets/Templates/source-notes.md",
-                "mode": "source",
+                "file": "Readings/Texts/Paper 1/@wattFirstParagraphAmbassadors1960.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "source-notes"
+              "title": "@wattFirstParagraphAmbassadors1960"
             }
           }
         ]
@@ -78,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5de73303b1554d22",
@@ -180,12 +203,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "455451e1ec706a42",
+  "active": "e2250b7c8a6b4fcc",
   "lastOpenFiles": [
-    "To Dos/source_notes/@wattFirstParagraphAmbassadors1960.md",
+    "Readings/Texts/Paper 1/Watt, “The First Paragraph of The Ambassadors.”.md",
+    "Readings/Texts/Paper 1/@wattFirstParagraphAmbassadors1960.md",
+    "To Dos/source_notes/@jamesAmbassadors2016.md",
+    "z. Assets/Intro.md",
     "z. Assets/Templates/source-notes.md",
     "z. Assets/Images/Pasted image 20250905195013.png",
-    "z. Assets/Intro.md",
     "To Dos/domestic.md",
     "To Dos/narrative authority.md",
     "To Dos/source_notes/@shapiroWUTHERINGHEIGHTSVICTORIAN.md",
@@ -202,7 +227,6 @@
     "z. Assets",
     "My Library.json",
     "Untitled.md",
-    "Readings/Texts/Paper 1/Watt, “The First Paragraph of The Ambassadors.”.md",
     "Readings/Texts/Paper 3/Moby Dick/Moby Dick - Melville and Blum, Moby-Dick..md",
     "Readings/Texts/Paper 3/North & South/North & South - Gaskell, North and South..md",
     "Readings/Texts/Paper 1",
