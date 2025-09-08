@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "95fcb4436759bc26",
+        "id": "ed39abf3cb1e4cda",
         "type": "tabs",
         "children": [
           {
             "id": "e2250b7c8a6b4fcc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Readings/Texts/Paper 1/@wattFirstParagraphAmbassadors1960.md",
                 "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "@wattFirstParagraphAmbassadors1960"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8ceac85a1c4f5255",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df550ce534c09781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readings/Texts/Paper 1/@wattFirstParagraphAmbassadors1960.md",
-                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -100,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5de73303b1554d22",

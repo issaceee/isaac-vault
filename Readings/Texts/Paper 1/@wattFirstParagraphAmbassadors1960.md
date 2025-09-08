@@ -40,50 +40,20 @@ dateread:
 
 500-Word Summary:
 
- Watt's introduction highlights the various strengths and weaknesses of literary analyses that have cropped up over the decades from various cultures and regions. Mainly, he highlights the contrast between close reading (Practical Criticism - Anglo-Americans) and context reading (<i>explication de texte - </i>French). In doing so he highlights gaps, mainly that the former misses the mark with understanding historical nuance and mainly applies to rich verses, whereas the latter resembles "a sort of bayonet drill" [@wattFirstParagraphAmbassadors1960: 250] , which highlights the inability of the technique to truly understand the depth of a text. He then highlights various other developments such as the German's attempt at philology which ultimately lead to the technique of stylistics – an attempt at using linguistics to critically analyse a literary text. All in all, Watt expounds that no one technique is truly able to capture the heart of a text, foregrounding that his analysis is a amalgamation of the various techniques raised thus far, looking at the text through both a micro and macro lens. (I - "low as syntax"; II - "high as ideas"; III - "total literary structure") [@wattFirstParagraphAmbassadors1960: 253]
+ Watt's introduction highlights the various strengths and weaknesses of literary analyses techniques over the decades from various cultures and regions. Mainly, he underscores the contrast between close reading (Practical Criticism - Anglo-Americans) and context reading (<i>explication de texte - </i>French). He also highlights gaps, mainly that the former misses the mark with understanding historical nuance and mainly applies to rich verses, whereas the latter resembles "a sort of bayonet drill" [@wattFirstParagraphAmbassadors1960: 250] , which highlights the inability of the technique to truly understand the depth of a text if one merely looks at its external factors. He then highlights various other developments such as the German's attempt at philology which ultimately lead to the technique of stylistics – an attempt at using linguistics to critically analyse a literary text. All in all, Watt expounds that no one technique is truly able to capture the heart of a text, foregrounding that his analysis is a amalgamation of the various techniques raised thus far, looking at the text through both a micro and macro lens. (I - "low as syntax"; II - "high as ideas"; III - "total literary structure") [@wattFirstParagraphAmbassadors1960: 253]
 
 ==
 
 I: "Low as syntax"
  
-In the first section,
-
-1. non transitive verbs,
-
-- copulatives ('Strether's first question <i>was</i> about his friend'; '<i>was</i> apparently not to arrive')
-
-- passive voice ('<i>was</i> not wholly <i>disconcerted</i>'; 'a telegram...<i>was produced</i>' 'his business <i>would be</i> a trifle <i>bungled</i>')
-
-- intransitive verbs ('the understanding ... remained... sound'; 'the... principle... operated to)
-
-Indicative verbs > transitive verbs (more than double)
-- further substantiated by frequent infinitive, participial and gerundial cases of the transitive verbs --> the active nature of the SBO sequence thus is undermined/abate
-
-1. abstract nouns as subjects of clauses ('question'; 'understanding'; 'the same secret principle'; 'the principle'; 'his business'
-
-=(E)=> "Jame's late prose style is characteristically abstract" since the subject nouns used refer to mental ideas, rather than of the concrete and particular subjects and that the use of non-transitive verbs, or if used transitively, in infinitive, participal and gerundial cases, expresses state of being  rather than finite actions affecting objects
-The eventual meaning of this is that James can thus deal w various objects and events
-
-much use of 'that', avoidance of personal pronouns and adjectives, presence of many negatives and near-negatives
-
-the reason that James uses a more general way of writing, is to allow for an undisturbed (?) view of the event. by using direct, reported speech, the event is filtered through the interpretation of a narrator for a presumed audiance, thus positing that the event is past. direct, reported speech, superimposes Strether's character onto the narrative, instead of allowing for analysis by the reader.
---> Watt posits that by writing in this manner, James thus allows for "a community of three minds", that is, the text is filtered through Strether's ("the characters' awareness of events"), James' ("the narrator's seeing of them"), and the reader ("our own trailing perception of the relation between these two").
-
-
-
-"primary location of the narrative in a mental rather than a physical continuum gives the narrative a great freedom from the restrictions of particular time and place"
-- by decentralising the narrative, James is able to jump between time and space more easily ("a 'principle' exists independently of its context")
-use of multiple/many 'thats' further exemplifies this by highlighting the layered relationships between the three levels pointed before.
-reported speech also allows for elegant variation - "underlining the ironic distance and detachment" - "tendency to present characters and actions on a plane of abstract categorisation"
-
-negative forms
-- enacts Strether's tendency to hesitation and qualification
-- puts reader into the right judicial frame of mind
-- subordinates concrete events to their mental reflection
-==> there are no negatives in nature, but only in the human consciousness
-
+In the first section, Watt highlights how James' writing evokes a sense of abstractness, where he refers to "mental ideas" rather than "concrete and particular subjects". In doing so, James is thus able to concurrently handle various objects and events, while also allowing for an undisturbed (?) view of events. Watt posits that by writing in this manner, James thus allows for "a community of three minds", that is, the text is filtered through Strether's ("the characters' awareness of events"), James' ("the narrator's seeing of them"), and the reader's ("our own trailing perception of the relation between these two") perspectives of the events. More curiously, that the events the narrative talks about are consistently shifting between time and space, made possible by James' abstraction and generalisation of time and space. All of these effects (three frames of perspective, consistently shifting narrative within time and space) serve to highlight James' attempt to posit that "there are no negatives in nature but only in the human consciousness". To prove this, Watt raises various examples, looking at the text in a very micro manner. Such examples include Watt's analysis of the quantity and case-form of verbs, nouns, conjunctions, as well as James' avoidance of personal pronouns and adjectives as well as the presence of many negatives and near-negatives. These techniques allow James to avoid the usage of direct-reported speech which would superimpose Strether's "consciousness into the narrative" instead of allowing for analysis by the reader.
 
 ==
+
+II: "high as ideas"
+
+Using his conclusion that James deliberately genaralises the experiences of his characters in the novel, Watt further argues that this "abstraction" idea underscores that James tone in the novel is one of irony, or as Watt argues, "humourous\[ness]"
+
 
 
 
