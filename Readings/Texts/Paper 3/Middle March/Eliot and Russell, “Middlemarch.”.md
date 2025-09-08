@@ -41,4 +41,15 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “she repeated to herself that Dorothea was inconsistent: either she should have taken her full share of the jewels, or, after what she had said, she should have renounced them altogether.”
 
 ### ch. 2
+- “I feed too much on the inward sources; I live too much with the dead. My mind is something like the ghost of an ancient, wandering about the world and trying mentally to construct it as it used to be, in spite of ruin and confusing changes.”
+- “It is so painful in you, Celia, that you will look at human beings as if they were merely animals with a toilette, and never see the great soul in a man’s face.”
+
+- “A man’s mind–what there is of it–has always the advantage of being masculine,—as the smallest birch-tree is of a higher kind than the most soaring palm,—and even his ignorance is of a sounder quality. Sir James might not have originated this estimate; but a kind Providence furnishes the limpest personality with a little gum or starch in the form of tradition.”
+
+- “We must not inquire too curiously into motives,’ he interposed, in his measured way. ‘Miss Brooke knows that they are apt to become feeble in the utterance: the aroma is mixed with the grosser air. We must keep the germinating grain away from the light.”
+
+- “Dorothea’s inferences may seem large; but really life could never have gone on at any period but for this liberal allowance of conclusions, which has facilitated marriage under the difficulties of civilization. Has any one ever pinched into its pilulous smallness the cobweb of pre-matrimonial acquaintanceship?”
+- “ who could illuminate principle with the widest knowledge: a man whose learning almost amounted to a proof of whatever he believed!”
+
+### ch. 3
 - 
