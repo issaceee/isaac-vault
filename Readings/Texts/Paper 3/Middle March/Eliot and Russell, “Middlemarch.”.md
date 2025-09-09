@@ -52,4 +52,20 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “ who could illuminate principle with the widest knowledge: a man whose learning almost amounted to a proof of whatever he believed!”
 
 ### ch. 3
+- “He thinks with me,’ said Dorothea to herself, ‘or rather, he thinks a whole world of which my thought is but a poor twopenny mirror. And his feelings too, his whole experience–what a lake compared with my little pool!”
+- “For a long while she had been oppressed by the indefiniteness which hung in her mind, like a thick summer haze, over all her desire to make her life greatly effective. What could she do, what ought she to do?–she, hardly more than a budding woman, but yet with an active conscience and a great mental need, not to be satisfied by a girlish instruction comparable to the nibblings and judgments of a discursive mouse.”
+- “with a background of prospective marriage to a man who, if less strict than herself, as being involved in affairs religiously inexplicable, might be prayed for and seasonably exhorted. From such contentment poor Dorothea was shut out. The intensity of her religious disposition, the coercion it exercised over her life, was but one aspect of a nature altogether ardent, theoretic, and intellectually consequent: and with such a nature, struggling in the bonds of a narrow teaching, hemmed in by a social life which seemed nothing but a labyrinth of petty courses, a walled-in maze of small paths that led no whither, the outcome was sure to strike others as at once exaggeration and inconsistency. The thing which seemed to her best, she wanted to justify by the completest knowledge; and not to live in a pretended admission of rules which were never acted on. Into this soul-hunger as yet all her youthful passion was poured; the union which attracted her was one that would deliver her from her girlish subjection to her own ignorance, and give her the freedom of voluntary submission to a guide who would take her along the grandest path.”
+
+- “Dorothea, whose opinion was forming itself that very moment (as opinions will) under the heat of irritation.”
+- “Your power of forming an opinion. I can form an opinion of persons. I know when I like people. But about other matters, do you know, I have often a difficulty in deciding. One hears very sensible things said on opposite sides.”
+- “The right conclusion is there all the same, though I am unable to see it.”
+- “Celia was present while the plans were being examined, and observed Sir James’s illusion. ‘He thinks that Dodo cares about him, and she only cares about her plans.”
+
+- “But on safe opportunities, she had an indirect mode of making her negative wisdom tell upon Dorothea, and calling her down from her rhapsodic mood by reminding her that people were staring, not listening. Celia was not impulsive: what she had to say could wait, and came from her always with the same quiet, staccato evenness. When people talked with energy and emphasis she watched their faces and gestures merely. She never could understand how well-bred persons consented to sing and open their mouths in the ridiculous manner requisite for that vocal exercise.”
+
+- “He was all she had at first imagined him to be: almost everything he had said seemed like a specimen from a mine, or the inscription on the door of a museum which might open on the treasures of past ages; and this trust in his mental wealth was all the deeper and more effective on her inclination because it was now obvious that his visits were made for her sake. This accomplished man condescended to think of a young girl, and take the pains to talk to her, not with absurd compliment, but with an appeal to her understanding, and sometimes with instructive correction. What delightful companionship!”
+
+- “Certainly these men who had so few spontaneous ideas might be very useful members of society under good feminine direction, if they were fortunate in choosing their sisters-in-law! It is difficult to say whether there was or was not a little wilfulness in her continuing blind to the possibility that another sort of choice was in question in relation to her.”
+
+### ch. 4
 - 
