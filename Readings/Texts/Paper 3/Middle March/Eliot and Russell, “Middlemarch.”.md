@@ -68,4 +68,14 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “Certainly these men who had so few spontaneous ideas might be very useful members of society under good feminine direction, if they were fortunate in choosing their sisters-in-law! It is difficult to say whether there was or was not a little wilfulness in her continuing blind to the possibility that another sort of choice was in question in relation to her.”
 
 ### ch. 4
+- “I thought it right to tell you, because you went on as you always do, never looking just where you are, and treading in the wrong place. You always see what nobody else sees; it is impossible to satisfy you; yet you never see what is quite plain. That’s your way, Dodo”
+- “No more was said: Dorothea was too much jarred to recover her temper and behave so as to show that she admitted any error in herself. She was disposed rather to accuse the intolerable narrowness, the purblind conscience of the society around her: and Celia was no longer the eternal cherub, but a thorn in her spirit, a pink-and-white nullifidian,* worse than any discouraging presence in the ‘Pilgrim’s Progress.’ The fad of drawing plans! What was life worth–what great faith was possible when the whole effect of one’s actions could be withered up into such parched rubbish as that?”
+
+- “I should wish to have a husband who was above me in judgment and in all knowledge.’
+  
+  Mr Brooke repeated his subdued, ‘Ah?—I thought you had more of your own opinion than most girls. I thought you liked your own opinion–liked it, you know.’
+  
+  ‘I cannot imagine myself living without some opinions, but I should wish to have good reasons for them, and a wise man could help me to see which opinions had the best foundation, and would help me to live according to them.”
+
+### ch. 5
 - 
