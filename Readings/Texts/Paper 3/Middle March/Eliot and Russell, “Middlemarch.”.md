@@ -194,3 +194,26 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “and in being from morning till night her own standard of a perfect lady, having always an audience in her own consciousness, with sometimes the not unwelcome addition of a more variable external audience in the numerous visitors of the house. ”
 
 ### ch. 17
+- “I say, keep hold of a few plain truths, and make everything square with them. When I was young, Mr Lydgate, there never was any question about right and wrong. We knew our catechism, and that was enough; we learned our creed and our duty. Every respectable Church person had the same opinions. But now, if you speak out of the Prayer-book itself, you are liable to be contradicted.”
+- “Ah! you are a happy fellow,’ said Mr Farebrother, turning on his heel and beginning to fill his pipe. ‘You don’t know what it is to want spiritual tobacco”
+- “Lydgate was more surprised at the openness of this talk than at its implied meaning–that the Vicar felt himself not altogether in the right vocation. The neat fitting-up of drawers and shelves, and the bookcase filled with expensive illustrated books on Natural History, made him think again of the winnings at cards and their destination. But he was beginning to wish that the very best construction of everything that Mr Farebrother did should be the true one. The Vicar’s frankness seemed not of the repulsive sort that comes from an uneasy consciousness seeking to forestall the judgment of others, but simply the relief of a desire to do with as little pretence as possible.”
+- “Your scheme is a good deal more difficult to carry out than the Pythagorean community, though. You have not only got the old Adam in yourself against you, but you have got all those descendants of the original Adam who form the society around you”
+- “Not altogether. Of course they make many things more difficult. But a good wife–a good unworldly woman–may really help a man, and keep him more independent. There’s a parishioner of mine–a fine fellow, but who would hardly have pulled through as he has done without his wife. Do you know the Garths?”
+
+- “But we Middlemarchers are not so tame as you take us to be. We have our intrigues and our parties. I am a party man, for example, and Bulstrode is another. If you vote for me you will offend Bulstrode.”
+- “As to his religious notions–why, as Voltaire* said, incantations will destroy a flock of sheep if administered with a certain quantity of arsenic. I look for the man who will bring the arsenic, and don’t mind about his incantations.”
+
+### ch. 18
+- “Very few men could have been as filial and chivalrous as he was to the mother, aunt, and sister, whose dependence on him had in many ways shaped his life rather uneasily for himself; few men who feel the pressure of small needs are so nobly resolute not to dress up their inevitably self-interested desires in a pretext of better motives. In these matters he was conscious that his life would bear the closest scrutiny; and perhaps this consciousness encouraged a little defiance towards the critical strictness of persons whose celestial intimacies seemed not to improve their domestic manners, and whose lofty aims were not needed to account for their actions. ”
+- “But whichever way Lydgate began to incline, there was something to make him wince; and being a proud man, he was a little exasperated at being obliged to wince”
+	- this entire sequence is of Lydgate pondering his decisions
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
