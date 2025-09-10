@@ -246,3 +246,39 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “We are all of us born in moral stupidity, taking the world as an udder to feed our supreme selves: Dorothea had early begun to emerge from that stupidity, but yet it had been easier to her to imagine how she would devote herself to Mr Casaubon, and become wise and strong in his strength and wisdom, than to conceive with that distinctness which is no longer reflection but feeling–an idea wrought back to the directness of sense, like the solidity of objects–that he had an equivalent centre of self, whence the lights and shadows must always fall with a certain difference.”
 
 ### ch. 22
+- “ Dorothea sat down and subsided into calm silence, feeling happier than she had done for a long while before. Every one about her seemed good, and she said to herself that Rome, if she had only been less ignorant, would have been full of beauty: its sadness would have been winged with hope. No nature could be less suspicious than hers: when she was a child she believed in the gratitude of wasps and the honourable susceptibility of sparrows, and was proportionately indignant when their baseness was made manifest.”
+- “I will not dwell on Naumann’s jokes at the expense of Mr Casaubon that evening, or on his dithyrambs* about Dorothea’s charm, in all which Will joined, but with a difference. No sooner did Naumann mention any detail of Dorothea’s beauty, than Will got exasperated at his presumption: there was grossness in his choice of the most ordinary words, and what business had he to talk of her lips? She was not a woman to be spoken of as other women were. Will could not say just what he thought, but he became irritable. ”
+- “(Certainly all Tipton and its neighbourhood, as well as Dorothea herself, would have been surprised at her beauty being made so much of. In that part of the world Miss Brooke had been only a ‘fine young woman.’)”
+- “I suppose I am dull about many things,’ said Dorothea, simply. ‘I should like to make life beautiful–I mean everybody’s life. And then all this immense expense of art, that seems somehow to lie outside life and make it no better for the world, pains one. It spoils my enjoyment of anything when I am made to think that most people are shut out from it.”
+- “ The best piety is to enjoy–when you can. You are doing the most then to save the earth’s character as an agreeable planet. And enjoyment radiates. It is of no use to try and take care of all the world; that is being taken care of when you feel delight–in art or in anything else. Would you turn all the youth of the world into a tragic chorus, wailing and moralizing over misery? I suspect that you have some false belief in the virtues of misery, and want to make your life a martyrdom.”
+- “I have often felt since I have been in Rome that most of our lives would look much uglier and more bungling than the pictures, if they could be put on the wall.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
