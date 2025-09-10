@@ -242,8 +242,7 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 ### ch. 21
 - “I must have said so only because I never could see any beauty in the pictures which my uncle told me all judges thought very fine. And I have gone about with just the same ignorance in Rome. There are comparatively few paintings that I can really enjoy. At first when I enter a room where the walls are covered with frescoes, or with large pictures, I feel a kind of awe–like a child present at great ceremonies where there are grand robes and processions; I feel myself in the presence of some higher life than my own. But when I begin to examine the pictures one by one, the life goes out of them, or else is something violent and strange to me. It must be my own dulness. I am seeing so much all at once, and not understanding half of it. That always makes one feel stupid. It is painful to be told that anything is very fine and not be able to feel that it is fine–something like being blind, while people talk of the sky.”
+- “As Dorothea’s eyes were turned anxiously on her husband she was perhaps not insensible to the contrast, but it was only mingled with other causes in making her more conscious of that new alarm on his behalf which was the first stirring of a pitying tenderness fed by the realities of his lot and not by her own dreams. Yet it was a source of greater freedom to her that Will was there; his young equality was agreeable, and also perhaps his openness to correction. She felt an immense need of some one to speak to, and she had never before seen any one who seemed so quick and pliable, so likely to understand everything.”
+- “We are all of us born in moral stupidity, taking the world as an udder to feed our supreme selves: Dorothea had early begun to emerge from that stupidity, but yet it had been easier to her to imagine how she would devote herself to Mr Casaubon, and become wise and strong in his strength and wisdom, than to conceive with that distinctness which is no longer reflection but feeling–an idea wrought back to the directness of sense, like the solidity of objects–that he had an equivalent centre of self, whence the lights and shadows must always fall with a certain difference.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 22
