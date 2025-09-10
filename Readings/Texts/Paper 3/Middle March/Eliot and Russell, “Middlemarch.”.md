@@ -172,6 +172,19 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “There was fascination in the hope that the two purposes would illuminate each other: the careful observation and inference which was his daily work, the use of the lens to further his judgment in special cases, would further his thought as an instrument of larger inquiry.”
 - “... Of this sequence to Bichat’s work,”
 	- the entire text prior to this highlights medical advancements in Britain's history
+- “Where then lay the spots of commonness? says a young lady enamoured of that careless grace. How could there be any commonness in a man so well-bred, so ambitious of social distinction, so generous and unusual in his views of social duty? As easily as there may be stupidity in a man of genius if you take him unawares on the wrong subject, or as many a man who has the best will to advance the social millenium might be ill-inspired in imagining its lighter pleasures;”
+
+- “For those who want to be acquainted with Lydgate it will be good to know what was that case of impetuous folly, for it may stand as an example of the fitful swerving of passion to which he was prone, together with the chivalrous kindness which helped to make him morally lovable.”
+- “He had two selves within him apparently, and they must learn to accommodate each other and bear reciprocal impediments. Strange, that some of us, with quick alternate vision, see beyond our infatuations, and even while we rave on the heights, behold the wide plain where our persistent self pauses and awaits us.”
+- “Again Laure paused a little and then said, slowly, *‘I meant to do it.*”
+
+### ch. 16
+- “Lydgate heard it discussed in a way that threw much light on the power exercised in the town by Mr Bulstrode. The banker was evidently a ruler, but there was an opposition party, and even among his supporters there were some who allowed it to be seen that their support was a compromise, and who frankly stated their impression that the general scheme of things, and especially the casualties of trade, required you to hold a candle to the devil.”“n this way a man gathers a domain in his neighbours’ hope and fear as well as gratitude; and power, when once it has got into that subtle region, propagates itself, spreading out of all proportion to its external means. It was a principle with Mr Bulstrode to gain as much power as possible, that he might use it for the glory of God. He went through a great deal of spiritual conflict and inward argument in order to adjust his motives, and make clear to himself what God’s glory required. But, as we have seen, his motives were not always rightly appreciated. There were many crass minds in Middlemarch whose reflective scales could only weigh things in the lump; and they had a strong suspicion that since Mr Bulstrode could not enjoy life in their fashion, eating and drinking so little as he did, and worreting himself about everything, he must have a sort of vampire’s feast in the sense of mastery.”
+
+- “Whatever was not problematical and suspected about this young man–for example, a certain showiness as to foreign ideas, and a disposition to unsettle what had been settled and forgotten by his elders–was positively unwelcome to a physician whose standing had been fixed thirty years before by a treatise on Meningitis, of which at least one copy marked ‘own’ was bound in calf. For my part I have some fellow-feeling with Dr Sprague: one’s self-satisfaction is an untaxed kind of property which it is very unpleasant to find depreciated.
+- “This was one of the difficulties of moving in good Middlemarch society: it was dangerous to insist on knowledge as a qualification for any salaried office.”
+- “Since he had had the memory of Laure, Lydgate had lost all taste for large-eyed silence: the divine cow no longer attracted him, and Rosamond was her very opposite. But he recalled himself.”
+- “A hidden soul seemed to be flowing forth from Rosamond’s fingers; and so indeed it was, since souls live on in perpetual echoes, and to all fine expression there goes somewhere an originating activity, if it be only that of an interprete”
 
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
@@ -187,11 +200,7 @@ Excerpt From
 Middlemarch (Oxford Worlds Classics)
 George Eliot
 This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.”
+”
 
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
