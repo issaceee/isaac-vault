@@ -78,4 +78,15 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
   ‘I cannot imagine myself living without some opinions, but I should wish to have good reasons for them, and a wise man could help me to see which opinions had the best foundation, and would help me to live according to them.”
 
 ### ch. 5
-- 
+- “She wrote it over three times, not because she wished to change the wording, but because her hand was unusually uncertain, and she could not bear that Mr Casaubon should think her handwriting bad and illegible.”
+- “It had been her nature when a child never to quarrel with any one–only to observe with wonder that they quarrelled with her, and looked like turkeycocks; whereupon she was ready to play at cat’s cradle* with them whenever they recovered themselves. And as to Dorothea, it had always been her way to find something wrong in her sister’s words, though Celia inwardly protested that she always said just how things were, and nothing else: she never did and never could put words together out of her own head. ”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
