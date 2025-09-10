@@ -109,3 +109,10 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 ### ch. 9
 - "MY CASAUBON’S" - lol i think the narrator is Miss Brooke...
+- “The betrothed bride must see her future home, and dictate any changes that she would like to have made there. A woman dictates before marriage in order that she may have an appetite for submission afterwards. And certainly, the mistakes that we male and female mortals make when we have our own way might fairly raise some wonder that we are so fond of it.”
+- 
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
