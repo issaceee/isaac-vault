@@ -253,32 +253,7 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “ The best piety is to enjoy–when you can. You are doing the most then to save the earth’s character as an agreeable planet. And enjoyment radiates. It is of no use to try and take care of all the world; that is being taken care of when you feel delight–in art or in anything else. Would you turn all the youth of the world into a tragic chorus, wailing and moralizing over misery? I suspect that you have some false belief in the virtues of misery, and want to make your life a martyrdom.”
 - “I have often felt since I have been in Rome that most of our lives would look much uglier and more bungling than the pictures, if they could be put on the wall.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+## Book 3: Waiting for Death
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 23
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
