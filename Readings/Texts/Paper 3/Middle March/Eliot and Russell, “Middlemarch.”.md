@@ -8,8 +8,9 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 # Thoughts
 
-
-
+- a lot of characterisation
+- who is the narrator?
+	- nm i think it is dorothea - "MY CASAUBON’S" in Ch. 10 
 
 # Key Notes
 
@@ -87,9 +88,24 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 ### ch. 6
 - “Your sex are not thinkers, you know—varium et mutabile semper*—that kind of thing. You don’t know Virgil. I knew’—Mr Brooke reflected in time that he had not the personal acquaintance of the Augustan poet—‘I was going to say, poor Stoddart,* you know. That was what he said. You ladies are always against an independent attitude–a man’s caring for nothing but truth, and that sort of thing. And there is no part of the county where opinion is narrower than it is here–I don’t mean to throw stones, you know, but somebody is wanted to take the independent line; and if I don’t take it, who will?”
-- 
+- “Even with a microscope directed on a water-drop we find ourselves making interpretations which turn out to be rather coarse; for whereas under a weak lens you may seem to see a creature exhibiting an active voracity into which other smaller creatures actively play as if they were so many animated tax-pennies,* a stronger lens reveals to you certain tiniest hairlets which make vortices for these victims while the swallower waits passively at his receipt of custom. In this way, metaphorically speaking, a strong lens applied to Mrs Cadwallader’s match-making will show a play of minute causes producing what may be called thought and speech vortices to bring her the sort of food she needed.”
+- “ I fear his aristocratic vices would not have horrified her.”
+	- who is the narrator??
+- “Let any lady who is inclined to be hard on Mrs Cadwallader inquire into the comprehensiveness of her own beautiful views, and be quite sure that they afford accommodation for all the lives which have the honour to coexist with hers.”
+- “She was the diplomatist of Tipton and Freshitt, and for anything to happen in spite of her was an offensive irregularity. As to freaks like this of Miss Brooke’s, Mrs Cadwallader had no patience with them, and now saw that her opinion of this girl had been infected with some of her husband’s weak charitableness: those Methodistical whims, that air of being more religious than the rector and curate together, came from a deeper and more constitutional disease than she had been willing to believe.”
+- “We mortals, men and women, devour many a disappointment between breakfast and dinner-time; keep back the tears and look a little pale about the lips, and in answer to inquiries say, ‘Oh, nothing!’ Pride helps us; and pride is not a bad thing when it only urges us to hide our own hurts–not to hurt others.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 7
+- “naturally made him look forward the more eagerly to the happy termination of courtship. But he had deliberately incurred the hindrance, having made up his mind that it was now time for him to adorn his life with the graces of female companionship, to irradiate the gloom which fatigue was apt to hang over the intervals of studious labour with the play of female fancy, and to secure in this, his culminating age, the solace of female tendance for his declining years. Hence he determined to abandon himself to the stream of feeling, and perhaps was surprised to find what an exceedingly shallow rill it was.”
+- “And she had not reached that point of renunciation at which she would have been satisfied with having a wise husband: she wished, poor child, to be wise herself. Miss Brooke was certainly very naïve, with all her alleged cleverness. Celia, whose mind had never been thought too powerful, saw the emptiness of other people’s pretensions much more readily. To have in general but little feeling, seems to be the only security against feeling too much on any particular occasion.”
+- “nd here I must vindicate a claim to philosophical reflectiveness, by remarking that Mr Brooke on this occasion little thought of the Radical speech which, at a later period, he was led to make on the incomes of the bishops. What elegant historian would neglect a striking opportunity for pointing out that his heroes did not foresee the history of the world, or even their own actions? ... “Here is a mine of truth, which, however vigorously it may be worked, is likely to outlast our coal.”
+- “But of Mr Brooke I make a further remark, perhaps less warranted by precedent–namely, that if he had foreknown his speech, it might not have made any great difference. To think with pleasure of his niece’s husband having a large ecclesiastical income was one thing–to make a Liberal speech was another thing; and it is a narrow mind which cannot look at a subject from various points of view...”
+
+### ch. 8
+- “His mother’s sister made a bad match–a Pole, I think–lost herself–at any rate was disowned by her family. If it had not been for that, Casaubon would not have had so much money by half. I believe he went himself to find out his cousins, and see what he could do for them. Every man would not ring so well as that, if you tried his metal. You would, Chettam; but not every man.”
+- “That was a right thing for Casaubon to do. But a man may wish to do what is right, and yet be a sort of parchment code. A woman may not be happy with him. And I think when a girl is so young as Miss Brooke is, her friends ought to interfere a little to hinder her from doing anything foolish. ”
+- “Brooke is a very good fellow, but pulpy; he will run into any mould, but he won’t keep shape”
+- “but pride only helps us to be generous; it never makes us so, any more than vanity makes us witty.”
+
+### ch. 9
+- "MY CASAUBON’S" - lol i think the narrator is Miss Brooke...
