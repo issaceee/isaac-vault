@@ -207,6 +207,24 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “Very few men could have been as filial and chivalrous as he was to the mother, aunt, and sister, whose dependence on him had in many ways shaped his life rather uneasily for himself; few men who feel the pressure of small needs are so nobly resolute not to dress up their inevitably self-interested desires in a pretext of better motives. In these matters he was conscious that his life would bear the closest scrutiny; and perhaps this consciousness encouraged a little defiance towards the critical strictness of persons whose celestial intimacies seemed not to improve their domestic manners, and whose lofty aims were not needed to account for their actions. ”
 - “But whichever way Lydgate began to incline, there was something to make him wince; and being a proud man, he was a little exasperated at being obliged to wince”
 	- this entire sequence is of Lydgate pondering his decisions
+	- “ For the first time Lydgate was feeling the hampering threadlike pressure of small social conditions, and their frustrating complexity”
+	- “It would have seemed beforehand like a ridiculous piece of bad logic that he, with his unmixed resolutions of independence and his select purposes, would find himself at the very outset in the grasp of petty alternatives, each of which was repugnant to him. In his student’s chambers, he had prearranged his social action quite differently.”
+- “At all events, it is certain that if any medical man had come to Middle-march with the reputation of having very definite religious views, of being given to prayer, and of otherwise showing an active piety, there would have been a general presumption against his medical skill.”
+- “They enjoyed about equally the mysterious privilege of medical reputation, and concealed with much etiquette their contempt for each other’s skill. Regarding themselves as Middlemarch institutions, they were ready to combine against all innovators, and against non-professionals given to interference”
+
+- “t was clear that Lydgate, by not dispensing drugs, intended to cast imputations on his equals, and also to obscure the limit between his own rank as a general practitioner and that of the physicians, who, in the interests of the profession, felt bound to maintain its various grades. Especially against a man who had not been to either of the English universities and enjoyed the absence of anatomical and bedside study there, but came with a libellous pretension to experience in Edinburgh and Paris, where observation might be abundant indeed, but hardly sound.”
+- “Oh, damn the divisions!’ burst in Mr Frank Hawley, lawyer and town-clerk, who rarely presented himself at the board, but now looked in hurriedly, whip in hand. ‘We have nothing to do with them here.”
+
+ - “It may be offensive to others. But I shall not desist from voting with him on that account.’
+   Lydgate immediately wrote down ‘Tyke.”
+ - “The affair of the chaplaincy remained a sore point in his memory as a case in which this petty medium of Middlemarch had been too strong for him. How could a man be satisfied with a decision between such alternatives and under such circumstances? No more than he can be satisfied with his hat, which he has chosen from among such shapes as the resources of the age offer him, wearing it at best with a resignation which is chiefly supported by comparison.”
+ - “But Mr Farebrother met him with the same friendliness as before. The character of the publican and sinner is not always practically incompatible with that of the (modern) Pharisee, for the majority of us scarcely see more distinctly the faultiness of our own conduct than the faultiness of our own arguments, or the dulness of our own jokes. But the Vicar of St Botolph’s had certainly escaped the slightest tincture of the Pharisee, and by dint of admitting to himself that he was too much as other men were,* he had become remarkably unlike them in this–that he could excuse others for thinking slightly of him, and could judge impartially of their conduct even when it told against him.”
+
+### ch. 18
+- “In those days the world in general was more ignorant of good and evil by forty years than it is at present.”
+	- hint of the narrators temporal location
+	- “Romanticism, which has helped to fill some dull blanks with love and knowledge, had not yet penetrated the times with its leaven and entered into everybody’s food; it was fermenting still as a distinguishable vigorous enthusiasm in certain long-haired German artists* at Rome, and the youth of other nations who worked or idled near them were sometimes caught in the spreading movement.”
+- 
 
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
