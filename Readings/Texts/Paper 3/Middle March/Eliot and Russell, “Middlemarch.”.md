@@ -139,4 +139,21 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 
 ### ch. 12
--
+- “Notwithstanding her jealousy of the Vincys and of Mary Garth, there remained as the nethermost sediment in her mental shallows a persuasion that her brother Peter Featherstone could never leave his chief property away from his blood-relations:—else, why had the Almighty carried off his two wives both childless, after he had gained so much by manganese and things, turning up when nobody expected it?—and why was there a Lowick parish church, and the Waules and Powderells all sitting in the same pew for generations, and the Featherstone pew next to them, if, the Sunday after her brother Peter’s death, everybody was to know that the property was gone out of the family? The human mind has at no period accepted a moral chaos; and so preposterous a result was not strictly conceivable. But we are frightened at much that is not strictly conceivable.”
+- “Plainness has its peculiar temptations and vices quite as much as beauty; it is apt either to feign amiability, or, not feigning it, to show all the repulsiveness of discontent: at any rate to be called an ugly thing in contrast with that lovely creature your companion, is apt to produce some effects beyond a sense of fine veracity and fitness in the phrase. ”
+- “For honesty, truth-telling fairness, was Mary’s reigning virtue: she neither tried to create illusions, nor indulged in them for her own behoof, and when she was in a good mood she had humour enough in her to laugh at herself. When she and Rosamond happened both to be reflected in the glass, she said, laughingly—”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
