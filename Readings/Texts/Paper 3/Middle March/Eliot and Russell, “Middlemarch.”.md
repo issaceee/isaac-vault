@@ -137,17 +137,6 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “Old provincial society had its share of this subtle movement: had not only its striking downfalls, its brilliant young professional dandies who ended by living up an entry with a drab and six children for their establishment, but also those less marked vicissitudes which are constantly shifting the boundaries of social intercourse, and begetting new consciousness of interdependence. Some slipped a little downward, some got higher footing: people denied aspirates, gained wealth, and fastidious gentlemen stood for boroughs; some were caught in political currents, some in ecclesiastical, and perhaps found themselves surprisingly grouped in consequence; while a few personages or families that stood with rocky firmness amid all this fluctuation, were slowly presenting new aspects in spite of solidity, and altering with the double change of self and beholder. ”
 - “Only the wrong sort. All choice of words is slang. It marks a class.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 12
+-
