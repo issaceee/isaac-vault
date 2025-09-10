@@ -142,18 +142,26 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “Notwithstanding her jealousy of the Vincys and of Mary Garth, there remained as the nethermost sediment in her mental shallows a persuasion that her brother Peter Featherstone could never leave his chief property away from his blood-relations:—else, why had the Almighty carried off his two wives both childless, after he had gained so much by manganese and things, turning up when nobody expected it?—and why was there a Lowick parish church, and the Waules and Powderells all sitting in the same pew for generations, and the Featherstone pew next to them, if, the Sunday after her brother Peter’s death, everybody was to know that the property was gone out of the family? The human mind has at no period accepted a moral chaos; and so preposterous a result was not strictly conceivable. But we are frightened at much that is not strictly conceivable.”
 - “Plainness has its peculiar temptations and vices quite as much as beauty; it is apt either to feign amiability, or, not feigning it, to show all the repulsiveness of discontent: at any rate to be called an ugly thing in contrast with that lovely creature your companion, is apt to produce some effects beyond a sense of fine veracity and fitness in the phrase. ”
 - “For honesty, truth-telling fairness, was Mary’s reigning virtue: she neither tried to create illusions, nor indulged in them for her own behoof, and when she was in a good mood she had humour enough in her to laugh at herself. When she and Rosamond happened both to be reflected in the glass, she said, laughingly—”
+- “(Every nerve and muscle in Rosamond was adjusted to the consciousness that she was being looked at. She was by nature an actress of parts that entered into her physique: she even acted her own character, and so well, that she did not know it to be precisely her own.)”
+- “I think Lydgate turned a little paler than usual, but Rosamond blushed deeply and felt a certain astonishment.”
+- “Strangers, whether wrecked and clinging to a raft, or duly escorted and accompanied by portmanteaus, have always had a circumstantial fascination for the virgin mind, against which native merit has urged itself in vain.”
+- “Mr Lydgate suddenly corresponding to her ideal, being altogether foreign to Middlemarch, carrying a certain air of distinction congruous with good family, and possessing connexions which offered vistas of that middle-class heaven, rank: a man of talent, also, whom it would be especially delightful to enslave: in fact, a man who had touched her nature quite newly, and brought a vivid interest into her life which was better than any thought-woven ‘might-be’ such as she was in the habit of opposing to the actual.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+## Book 2: Old and Young
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 13
+- “One of Lydgate’s gifts was a voice habitually deep and sonorous, yet capable of becoming very low and gentle at the right moments. About his ordinary bearing there was a certain fling, a fearless expectation of success, a confidence in his own powers and integrity much fortified by contempt for petty obstacles or seductions of which he had had no experience. But this proud openness was made lovable by an expression of unaffected good-will.”
+- “he certainly liked him the better, as Rosamond did, for being a stranger in Middlemarch. One can begin so many things with a new person!—even begin to be a better man.”
+- “I have consulted eminent men in the metropolis, and I am painfully aware of the backwardness under which medical treatment labours in our provincial districts.”
+- “Vincy, I must repeat, that you will not get any concurrence from me as to the course you have pursued with your eldest son. It was entirely from worldly vanity that you destined him for the Church: with a family of three sons and four daughters, you were not warranted in devoting money to an expensive education which has succeeded in nothing but in giving him extravagant idle habits. You are now reaping the consequences.”
+- “When a man has the immediate prospect of being mayor, and is ready, in the interests of commerce, to take up a firm attitude on politics generally, he has naturally a sense of his importance to the framework of things which seems to throw questions of private conduct into the background.”
+- “I do not expect you to understand my grounds of action–it is not an easy thing even to thread a path for principles in the intricacies of the world–still less to make the thread clear for the careless and the scoffing.”
+- “I consider it very unhandsome of you to refuse it. Such doings may be lined with religion, but outside they have a nasty, dog-in-the-manger look. You might as well slander Fred: it comes pretty near to it when you refuse to say you didn’t set a slander going. It’s this sort of thing–this tyrannical spirit, wanting to play bishop and banker everywhere–it’s this sort of thing makes a man’s name stink.”
+- “his was not the first time that Mr Bulstrode had begun by admonishing Mr Vincy, and had ended by seeing a very unsatisfactory reflection of himself in the coarse unflattering mirror which that manufacturer’s mind presented to the subtler lights and shadows of his fellow-men; and perhaps his experience ought to have warned him how the scene would end. But a full-fed fountain will be generous with its waters even in the rain, when they are worse than useless; and a fine fount of admonition is apt to be equally irrepressible.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 14
+- “When Fred got into debt, it always seemed to him highly probable that something or other–he did not necessarily conceive what–would come to pass enabling him to pay in due time. And now that the providential occurrence was apparently close at hand, it would have been sheer absurdity to think that the supply would be short of the need: as absurd as a faith that believed in half a miracle for want of strength to believe in a whole one”
+- “it is one of the most odious things in a girl’s life, that there must always be some supposition of falling in love coming between her and any man who is kind to her, and to whom she is grateful. I should have thought that I, at least, might have been safe from all that. I have no ground for the nonsensical vanity of fancying everybody who comes near me is in love with me.”
+
+
+### ch. 15
