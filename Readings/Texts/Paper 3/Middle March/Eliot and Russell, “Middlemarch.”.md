@@ -165,3 +165,45 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 
 ### ch. 15
+- <mark style="background: #f2c94c;"> “ I at least have so much to do in unravelling certain human lots, and seeing how they were woven and interwoven, that all the light I can command must be concentrated on this particular web, and not dispersed over that tempting range of relevancies called the universe.”</mark>
+- “It was said of him, that Lydgate could do anything he liked, but he had certainly not yet liked to do anything remarkable. He was a vigorous animal, with a ready understanding, but no spark had yet kindled in him an intellectual passion; knowledge seemed to him a very superficial affair, easily mastered: judging from the conversation of his elders, he had apparently got already more than was necessary for mature life.”
+- “We are not afraid of telling over and over again how a man comes to fall in love with a woman and be wedded to her, or else be fatally parted from her. Is it due to excess of poetry or of stupidity that we are never weary of describing what King James called a woman’s ‘makdom and her fairnesse,’* never weary of listening to the twanging of the old Troubadour strings, and are comparatively uninterested in that other kind of ‘makdom and fairnesse’ which must be wooed with industrious thought and patient renunciation of small desires? In the story of this passion, too, the development varies: sometimes it is the glorious marriage, sometimes frustration and final parting. And not seldom the catastrophe is bound up with the other passion, sung by the Troubadours. For in the multitude of middle-aged men who go about their vocations in a daily course determined for them much in the same way as the tie of their cravats, there is always a good number who once meant to shape their own deeds and alter the world a little. The story of their coming to be shapen after the average and fit to be packed by the gross, is hardly ever told even in their consciousness; for perhaps their ardour in generous unpaid toil cooled as imperceptibly as the ardour of other youthful loves, till one day their earlier self walked like a ghost in its old home and made the new furniture ghastly. Nothing in the world more subtle than the process of their gradual change! In the beginning they inhaled it unknowingly: you and I may have sent some of our breath towards infecting them, when we uttered our conforming falsities or drew our silly conclusions: or perhaps it came with the vibrations from a woman’s glance.”
+- “Lydgate’s nature demanded this combination: he was an emotional creature, with a flesh-and-blood sense of fellowship which withstood all the abstractions of special study. He cared not only for ‘cases,’ but for John and Elizabeth, especially Elizabeth."
+- “There was fascination in the hope that the two purposes would illuminate each other: the careful observation and inference which was his daily work, the use of the lens to further his judgment in special cases, would further his thought as an instrument of larger inquiry.”
+- “... Of this sequence to Bichat’s work,”
+	- the entire text prior to this highlights medical advancements in Britain's history
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
