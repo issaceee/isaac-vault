@@ -80,11 +80,14 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ### ch. 5
 - “She wrote it over three times, not because she wished to change the wording, but because her hand was unusually uncertain, and she could not bear that Mr Casaubon should think her handwriting bad and illegible.”
 - “It had been her nature when a child never to quarrel with any one–only to observe with wonder that they quarrelled with her, and looked like turkeycocks; whereupon she was ready to play at cat’s cradle* with them whenever they recovered themselves. And as to Dorothea, it had always been her way to find something wrong in her sister’s words, though Celia inwardly protested that she always said just how things were, and nothing else: she never did and never could put words together out of her own head. ”
+- “Oh Dodo, I hope you will be happy.’ Her sisterly tenderness could not but surmount other feelings at this moment, and her fears were the fears of affection.”
+- “The great charm of your sex is its capability of an ardent self-sacrificing affection, and herein we see its fitness to round and complete the existence of our own”
+- “Dorothea’s faith supplied all that Mr Casaubon’s words seemed to leave unsaid: what believer sees a disturbing omission or infelicity? The text, whether of prophet or of poet, expands for whatever we can put into it, and even his bad grammar is sublime.”
+- “e was being unconsciously wrought upon by the charms of a nature which was entirely without hidden calculations either for immediate effects or for remoter ends. It was this which made Dorothea so childlike, and, according to some judges, so stupid, with all her reputed cleverness; as, for example, in the present case of throwing herself, metaphorically speaking, at Mr Casaubon’s feet, and kissing his unfashionable shoe-ties as if he were a Protestant Pope.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 6
+- “Your sex are not thinkers, you know—varium et mutabile semper*—that kind of thing. You don’t know Virgil. I knew’—Mr Brooke reflected in time that he had not the personal acquaintance of the Augustan poet—‘I was going to say, poor Stoddart,* you know. That was what he said. You ladies are always against an independent attitude–a man’s caring for nothing but truth, and that sort of thing. And there is no part of the county where opinion is narrower than it is here–I don’t mean to throw stones, you know, but somebody is wanted to take the independent line; and if I don’t take it, who will?”
+- 
 
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
