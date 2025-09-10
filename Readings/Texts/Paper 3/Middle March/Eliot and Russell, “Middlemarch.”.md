@@ -185,34 +185,12 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “This was one of the difficulties of moving in good Middlemarch society: it was dangerous to insist on knowledge as a qualification for any salaried office.”
 - “Since he had had the memory of Laure, Lydgate had lost all taste for large-eyed silence: the divine cow no longer attracted him, and Rosamond was her very opposite. But he recalled himself.”
 - “A hidden soul seemed to be flowing forth from Rosamond’s fingers; and so indeed it was, since souls live on in perpetual echoes, and to all fine expression there goes somewhere an originating activity, if it be only that of an interprete”
+- “You will not like us at Middlemarch, I feel sure,’ she said, when the whist-players were settled. ‘We are very stupid, and you have been used to something quite different.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+- “ imagination that reveals subtle actions inaccessible by any sort of lens, but tracked in that outer darkness through long pathways of necessary sequence by the inward light which is the last refinement of Energy, capable of bathing even the ethereal atoms in its ideally illuminated space. He for his part had tossed away all cheap inventions where ignorance finds itself able and at ease: he was enamoured of that arduous invention which is the very eye of research, provisionally framing its object and correcting it to more and more exactness of relation; he wanted to pierce the obscurity of those minute processes which prepare human misery and joy, those invisible thoroughfares which are the first lurking-places of anguish, mania, and crime, that delicate poise and transition which determine the growth of happy or unhappy consciousness.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+- “but the piquant fact about Lydgate was his good birth, which distinguished him from all Middlemarch admirers, and presented marriage as a prospect of rising in rank and getting a little nearer to that celestial condition on earth in which she would have nothing to do with vulgar people, and perhaps at last associate with relatives quite equal to the county people who looked down on the Middlemarchers. It was part of Rosamond’s cleverness to discern very subtly the faintest aroma of rank, and once when she had seen the Miss Brookes accompanying their uncle at the county assizes, and seated among the aristocracy, she had envied them, notwithstanding their plain dress.”
+- “Our passions do not live apart in locked chambers, but, dressed in their small wardrobe of notions, bring their provisions to a common table and mess together, feeding out of the common store according to their appetite.”
+- “and in being from morning till night her own standard of a perfect lady, having always an audience in her own consciousness, with sometimes the not unwelcome addition of a more variable external audience in the numerous visitors of the house. ”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-”
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 17
