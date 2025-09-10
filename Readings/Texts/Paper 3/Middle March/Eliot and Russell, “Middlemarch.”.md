@@ -110,7 +110,18 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ### ch. 9
 - "MY CASAUBON’S" - lol i think the narrator is Miss Brooke...
 - “The betrothed bride must see her future home, and dictate any changes that she would like to have made there. A woman dictates before marriage in order that she may have an appetite for submission afterwards. And certainly, the mistakes that we male and female mortals make when we have our own way might fairly raise some wonder that we are so fond of it.”
-- 
+- “but happily Mr Casaubon’s bias had been different, for he would have had no chance with Celia.”
+- “She filled up all blanks with unmanifested perfections, interpreting him as she interpreted the works of Providence, and accounting for seeming discords by her own deafness to the higher harmonies. And there are many blanks left in the weeks of courtship, which a loving faith fills with happy assurance.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
 
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
