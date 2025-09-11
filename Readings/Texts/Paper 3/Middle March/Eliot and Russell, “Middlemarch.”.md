@@ -340,6 +340,12 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 ### ch. 36
 - “And I call it a robbery: it was like giving him the land, to promise it; and what is promising, if making everybody believe is not promising”
+- “We may handle even extreme opinions with impunity while our furniture, our dinner-giving, and preference for armorial bearings in our own case, link us indissolubly with the established order.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
 
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
