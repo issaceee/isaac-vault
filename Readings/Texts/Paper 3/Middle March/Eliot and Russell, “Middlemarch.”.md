@@ -305,3 +305,10 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “For years after Lydgate remembered the impression produced in him by this involuntary appeal–this cry from soul to soul, without other consciousness than their moving with kindred natures in the same embroiled medium, the same troublous fitfully-illuminated life”
 
 ### ch. 31
+- “Not that marrying is everything. I would have you seek first the kingdom of God. But a girl should keep her heart within her own power.”
+- 
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
