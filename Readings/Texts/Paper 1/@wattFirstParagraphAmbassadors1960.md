@@ -52,7 +52,11 @@ In the first section, Watt highlights how James' writing evokes a sense of abstr
 
 II: "high as ideas"
 
-Using his conclusion that James deliberately genaralises the experiences of his characters in the novel, Watt further argues that this "abstraction" idea underscores that James tone in the novel is one of irony, or as Watt argues, "humourous\[ness]"
+ Further, by generalising, Watt argues that even in small and minor individual experiences, James highlights the interconnectedness of "general moral, social and historical relations" (TO CITE) and thus, James is able to "relate every \[...] moment of life to the full complexity of its circumambient conditions". (TO CITE) Watt argues that James' diction and style are purposeful and clearely bringsup his messaging. Watt brings up various examples of diction in clauses/sentences where they appear to be mistakes or grammatically confusing, positing specific effects of James' writing he wishes to evoke, such as resonance/emphasis on a certain word or idea.
+
+Watt further argues that this "abstraction" idea underscores that James tone in the novel is one of irony, or as Watt argues, "humourous\[ness]" (TO CITE). Here, Watt interestingly highlights the 
+
+
 
 
 
@@ -326,7 +330,7 @@ Using his conclusion that James deliberately genaralises the experiences of his 
   
 
 <mark style="background-color:#f2c94c">Important / Interesting</mark>
-> o generalise to the limit the particulars of experience', and with it the characteristic way in which both his perceptions of the world itself, and his perceptions of the logic of the world . . . happen simultaneously, are part of a single comprehensive experience
+> to generalise to the limit the particulars of experience', and with it the characteristic way in which both his perceptions of the world itself, and his perceptions of the logic of the world . . . happen simultaneously, are part of a single comprehensive experience
 
 >> meaning #1: make abstract the subtleties of 'experience', and in doing so, highlight the convergence between how one <i>experiences</i> the world, as well as how the world works
 
