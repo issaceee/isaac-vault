@@ -270,4 +270,9 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “but scepticism, as we know, can never be thoroughly applied, else life would come to a standstill: something we must believe in and do, and whatever that something may be called, it is virtually our own judgment, even when it seems like the most slavish reliance on another”
 
 ### ch. 24
-- 
+- “Also, it must be admitted that Mrs Garth was a trifle too emphatic in her resistance to what she held to be follies: the passage from governess into housewife had wrought itself a little too strongly into her consciousness, and she rarely forgot that while her grammar and accent were above the town standard, she wore a plain cap, cooked the family dinner, and darned all the stockings. She had sometimes taken pupils in a peripatetic fashion, making them follow her about in the kitchen with their book or slate. She thought it good for them to see that she could make an excellent lather while she corrected their blunders ‘without looking,’—that a woman with her sleeves tucked up above her elbows might know all about the Subjunctive Mood or the Torrid Zone–that, in short, she might possess ‘education’ and other good things ending in ‘tion,’ and worthy to be pronounced emphatically, without being a useless doll. ”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
