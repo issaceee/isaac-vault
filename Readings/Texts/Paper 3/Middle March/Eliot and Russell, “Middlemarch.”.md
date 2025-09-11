@@ -270,3 +270,4 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “but scepticism, as we know, can never be thoroughly applied, else life would come to a standstill: something we must believe in and do, and whatever that something may be called, it is virtually our own judgment, even when it seems like the most slavish reliance on another”
 
 ### ch. 24
+- 
