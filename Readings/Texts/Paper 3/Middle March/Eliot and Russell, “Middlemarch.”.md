@@ -256,4 +256,54 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ## Book 3: Waiting for Death
 
 ### ch. 23
+- “Even when Caleb Garth was prosperous, the Vincys were on condescending terms with him and his wife, for there were nice distinctions of rank in Middlemarch; and though old manufacturers could not any more than dukes be connected with none but equals, they were conscious of an inherent social superiority which was defined with great nicety in practice, though hardly expressible theoretically. ”
+- “Mrs Vincy had never been at her ease with Mrs Garth, and frequently spoke of her as a woman who had had to work for her bread–meaning that Mrs Garth had been a teacher before her marriage; in which case an intimacy with Lindley Murray and Mangnall’s ‘Questions’* was something like a draper’s discrimination of calico trade-marks, or a courier’s acquaintance with foreign countries: no woman who was better off needed that sort of thing.”
+- “Mrs Vincy’s want of liking for the Garths had been converted into something more positive, by alarm lest Fred should engage himself to this plain girl, whose parents ‘lived in such a small way”
 
+- “He was one of those rare men who are rigid to themselves and indulgent to others. He had a certain shame about his neighbours’ errors, and never spoke of them willingly; hence he was not likely to divert his mind from the best mode of hardening timber and other ingenious devices in order to preconceive those errors.”
+- “just as when a youthful nobleman steals jewellery we call the act kleptomania, speak of it with a philosophical smile, and never think of his being sent to the house of correction as if he were a ragged boy who had stolen turnips. In fact, tacit expectations of what would be done for him by uncle Featherstone determined the angle at which most people viewed Fred Vincy in Middlemarch; and in his own consciousness, what uncle Featherstone would do for him in an emergency, or what he would do simply as an incorporated luck, formed always an immeasurable depth of aërial perspective.”
+- “He had gone to his father and told him one vexatious affair, and he had left another untold: in such cases the complete revelation always produces the impression of a previous duplicity.”
+
+- “Hopefulness has a pleasure in making a throw of any kind, because the prospect of success is certain; and only a more generous pleasure in offering as many as possible a share in the stake.”
+
+- “Considering that Fred was not at all coarse, that he rather looked down on the manners and speech of young men who had not been to the university, and that he had written stanzas as pastoral and unvoluptuous as his flute-playing, his attraction towards Bambridge and Horrock was an interesting fact which even the love of horse-flesh would not wholly account for without that mysterious influence of Naming which determinates so much of mortal choice. ”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
