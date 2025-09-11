@@ -298,7 +298,12 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 ### ch. 29
 - “Dorothea–but why always Dorothea? Was her point of view the only possible one with regard to this marriage? I protest against all our interest, all our effort at understanding being given to the young skins that look blooming in spite of trouble; for these too will get faded, and will know the older and more eating griefs which we are helping to neglect.”
-- 
+- “ in return, he should receive family pleasures and leave behind him that copy of himself which seemed so urgently required of a man–to the sonneteers of the sixteenth century. Times had altered since then, and no sonneteer had insisted on Mr Casaubon’s leaving a copy of himself; moreover, he had not yet succeeded in issuing copies of his mythological key; but he had always intended to acquit himself by marriage, and the sense that he was fast leaving the years behind him, that the world was getting dimmer and that he felt lonely, was a reason to him for losing no more time in overtaking domestic delights before they too were left behind by the years.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
 
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
