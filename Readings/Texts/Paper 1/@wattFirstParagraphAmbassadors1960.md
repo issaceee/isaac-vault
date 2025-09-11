@@ -54,7 +54,7 @@ II: "high as ideas"
 
  Further, by generalising, Watt argues that even in small and minor individual experiences, James highlights the interconnectedness of "general moral, social and historical relations" (TO CITE) and thus, James is able to "relate every \[...] moment of life to the full complexity of its circumambient conditions". (TO CITE) Watt argues that James' diction and style are purposeful and clearely bringsup his messaging. Watt brings up various examples of diction in clauses/sentences where they appear to be mistakes or grammatically confusing, positing specific effects of James' writing he wishes to evoke, such as resonance/emphasis on a certain word or idea.
 
-Watt further argues that this "abstraction" idea underscores that James tone in the novel is one of irony, or as Watt argues, "humourous\[ness]" (TO CITE). Here, Watt interestingly highlights the 
+Watt further argues that this "abstraction" idea underscores that James tone in the novel is one of irony, or as Watt argues, "humourous\[ness]" (TO CITE). Here, Wa
 
 
 

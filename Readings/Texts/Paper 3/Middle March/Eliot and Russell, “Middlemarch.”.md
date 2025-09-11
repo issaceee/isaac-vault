@@ -334,7 +334,8 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ### ch. 35
 - “WHEN the animals entered the Ark in pairs, one may imagine that allied species made much private remark on each other, and were tempted to think that so many forms feeding on the same store of fodder were eminently superfluous, as tending to diminish the rations. (I fear the part played by the vultures on that occasion would be too painful for art to represent, those birds being disadvantageously naked about the gullet, and apparently without rites and ceremonies.)”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+- “And here I am naturally led to reflect on the means of elevating a low subject. Historical parallels are remarkably efficient in this way. The chief objection to them is, that the diligent narrator may lack space, or (what is often the same thing) may not be able to think of them with any degree of particularity, though he may have a philosophical confidence that if known they would be illustrative. It seems an easier and shorter way to dignity, to observe that–since there never was a true story which could not be told in parables where you might put a monkey for a margrave,* and vice versa—whatever has been or is to be narrated by me about low people, may be ennobled by being considered a parable; so that if any bad habits and ugly consequences are brought into view, the reader may have the relief of regarding them as not more than figuratively ungenteel, and may feel himself virtually in company with persons of some style. Thus while I tell the truth about loobies,* my reader’s imagination need not be entirely excluded from an occupation with lords; and the petty sums which any bankrupt of high standing would be sorry to retire upon, may be lifted to the level of high commercial transactions by the inexpensive addition of proportional ciphers.
+  
+  As to any provincial history in which the agents are all of high moral rank, that must be of a date long posterior to the first Reform Bill, and Peter Featherstone, you perceive, was dead and buried some months before Lord Grey came into office.*”
+
+### ch. 36
