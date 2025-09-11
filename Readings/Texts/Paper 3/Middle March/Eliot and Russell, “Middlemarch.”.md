@@ -313,3 +313,15 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “The felicitous word ‘demise,’ which had seasonably occurred to him, had raised his spirits even above their usual evening pitch. The right word is always a power, and communicates its definiteness to our action. Considered as a demise, old Featherstone’s death assumed a merely legal aspect, so that Mr Vincy could tap his snuff-box over it and be jovial, without even an intermittent affectation of solemnity; and Mr Vincy hated both solemnity and affectation. Who was ever awe-struck about a testator, or sang a hymn on the title to real property? Mr Vincy was inclined to take a jovial view of all things that evening: he even observed to Lydgate that Fred had got the family constitution after all, and would soon be as fine a fellow as ever again; and when his approbation of Rosamond’s engagement was asked for, he gave it with astonishing facility, passing at once to general remarks on the desirableness of matrimony for young men and maidens, and apparently deducing from the whole the appropriateness of a little more punch.”
 
 ### ch. 32
+- “THE triumphant confidence of the Mayor founded on Mr Feather-stone’s insistent demand that Fred and his mother should not leave him, was a feeble emotion compared with all that was agitating the breasts of the old man’s blood-relations, who naturally manifested more their sense of the family tie and were more visibly numerous now that he had become bedridden.”
+- “Probabilities are as various as the faces to be seen at will in fretwork or paper-hangings: every form is there, from Jupiter to Judy, if you only look with creative inclination. To the poorer and least favoured it seemed likely that since Peter had done nothing for them in his life, he would remember them at the last.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
