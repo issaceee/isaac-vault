@@ -302,3 +302,6 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “For my part I am very sorry for him. It is an uneasy lot at best, to be what we call highly taught and yet not to enjoy: to be present at this great spectacle of life and never to be liberated from a small hungry shivering self–never to be fully possessed by the glory we behold, never to have our consciousness rapturously transformed into the vividness of a thought, the ardour of a passion, the energy of an action, but always to be scholarly and uninspired, ambitious and timid, scrupulous and dim-sighted. Becoming a dean or even a bishop would make little difference, I fear, to Mr Casaubon’s uneasiness. Doubtless some ancient Greek has observed that behind the big mask and the speaking-trumpet,* there must always be our poor little eyes peeping as usual and our timorous lips more or less under anxious control.”
 
 ### ch. 30
+- “For years after Lydgate remembered the impression produced in him by this involuntary appeal–this cry from soul to soul, without other consciousness than their moving with kindred natures in the same embroiled medium, the same troublous fitfully-illuminated life”
+
+### ch. 31
