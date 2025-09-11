@@ -331,6 +331,9 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ### ch. 34
 - “ If any one will here contend that there must have been traits of goodness in old Featherstone, I will not presume to deny this; but I must observe that goodness is of a modest nature, easily discouraged, and when much elbowed in early life by unabashed vices, is apt to retire into extreme privacy, so that it is more easily believed in by those who construct a selfish old gentleman theoretically, than by those who form the narrower judgments based on his personal acquaintance.”
 
+### ch. 35
+- “WHEN the animals entered the Ark in pairs, one may imagine that allied species made much private remark on each other, and were tempted to think that so many forms feeding on the same store of fodder were eminently superfluous, as tending to diminish the rations. (I fear the part played by the vultures on that occasion would be too painful for art to represent, those birds being disadvantageously naked about the gullet, and apparently without rites and ceremonies.)”
+
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
 George Eliot
