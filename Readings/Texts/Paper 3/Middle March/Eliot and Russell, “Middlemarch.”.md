@@ -339,3 +339,9 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
   As to any provincial history in which the agents are all of high moral rank, that must be of a date long posterior to the first Reform Bill, and Peter Featherstone, you perceive, was dead and buried some months before Lord Grey came into office.*”
 
 ### ch. 36
+- “And I call it a robbery: it was like giving him the land, to promise it; and what is promising, if making everybody believe is not promising”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
