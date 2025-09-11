@@ -329,4 +329,9 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ## Boook 4: Three Love Problems
 
 ### ch. 34
-- 
+- “ If any one will here contend that there must have been traits of goodness in old Featherstone, I will not presume to deny this; but I must observe that goodness is of a modest nature, easily discouraged, and when much elbowed in early life by unabashed vices, is apt to retire into extreme privacy, so that it is more easily believed in by those who construct a selfish old gentleman theoretically, than by those who form the narrower judgments based on his personal acquaintance.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
