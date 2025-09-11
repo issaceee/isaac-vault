@@ -314,14 +314,19 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 ### ch. 32
 - “THE triumphant confidence of the Mayor founded on Mr Feather-stone’s insistent demand that Fred and his mother should not leave him, was a feeble emotion compared with all that was agitating the breasts of the old man’s blood-relations, who naturally manifested more their sense of the family tie and were more visibly numerous now that he had become bedridden.”
+- “also it was not to be thought but that an own brother ‘lying there’ with dropsy in his legs must come to feel that blood was thicker than water, and if he didn’t alter his will, he might have money by him. At any rate some blood-relations should be on the premises and on the watch against those who were hardly relations at all. Such things had been known as forged wills and disputed wills, which seemed to have the golden-hazy advantage of somehow enabling non-legatees to live out of them. Again, those who were no blood-relations might be caught making away with things–and poor Peter ‘lying there’ helpless! Somebody should be on the watch. But in this conclusion they were at one with Solomon and Jane; also, some nephews, nieces, and cousins, arguing with still greater subtlety as to what might be done by a man able to ‘will away’ his property and give himself large treats of oddity, felt in a handsome sort of way that there was a family interest to be attended to, and thought of Stone Court as a place which it would be nothing but right for them[…]”
 - “Probabilities are as various as the faces to be seen at will in fretwork or paper-hangings: every form is there, from Jupiter to Judy, if you only look with creative inclination. To the poorer and least favoured it seemed likely that since Peter had done nothing for them in his life, he would remember them at the last.”
+- “Some people would be ashamed to fill up a place belonging by rights to others,’ said Mrs Waule, turning her narrow eyes in the same direction.
+  ‘Oh, sister,’ said Solomon, with ironical softness, ‘you and me are not fine, and handsome, and clever enough: we must be humble and let the smart people push themselves before us.”
+- “I have observed her when she has been mixing medicine in drops. She minds what she is doing, sir. That is a great point in a woman, and a great point for our friend up-stairs, poor dear old soul. A man whose life is of any value should think of his wife as a nurse: that is what I should do, if I married; and I believe I have lived single long enough not to make a mistake in that line. Some men must marry to elevate themselves a little, but when I am in need of that, I hope some one will tell me so–I hope some individual will apprise me of the fact. I wish you good morning, Mrs Waule. Good morning, Mr Solomon. I trust we shall meet under less melancholy auspices”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 23
+- “people were so ridiculous with their illusions, carrying their fool’s caps unawares, thinking their own lies opaque while everybody else’s were transparent, making themselves exceptions to everything, as if when all the world looked yellow under a lamp they alone were rosy.”
+- "‘It is of no use, sir. I will not do it. Put up your money. I will not touch your money. I will do anything else I can to comfort you; but I will not touch your keys or your money.’
+  
+  ‘Anything else–anything else!’ said old Featherstone, with hoarse rage, which, as if in a nightmare, tried to be loud, and yet was only just audible. ‘I want nothing else. You come here–you come here”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+## Boook 4: Three Love Problems
+
+### ch. 34
+- 
