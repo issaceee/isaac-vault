@@ -283,4 +283,9 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 	- “Why, mother,’ said Mr Farebrother, after an explosive laugh, ‘you know very well that Lydgate is of a good family in the North. He never heard of Bulstrode before he came here.’”
 
 ### ch. 27
-- 
+- “AN eminent philosopher among my friends, who can dignify even your ugly furniture by lifting it into the serene light of science, has shown me this pregnant little fact. Your pier-glass or extensive surface of polished steel made to be rubbed by a housemaid, will be minutely and multitudinously scratched in all directions; but place now against it a lighted candle as a centre of illumination, and lo! the scratches will seem to arrange themselves in a fine series of concentric circles round that little sun. It is demonstrable that the scratches are going everywhere impartially, and it is only your candle which produces the flattering illusion of a concentric arrangement, its light falling with an exclusive optical selection. These things are a parable. The scratches are events, and the candle is the egoism of any person now absent–of Miss Vincy, for example. Rosamond had a Providence of her own who had kindly made her more charming than other girls, and who seemed to have arranged Fred’s illness and Mr Wrench’s mistake in order to bring her and Lydgate within effective proximity”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
