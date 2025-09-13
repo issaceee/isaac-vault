@@ -352,6 +352,18 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 ### ch. 37
 - “It was a time, according to a noticeable article in the ‘Pioneer,’ when the crying needs of the country might well counteract a reluctance to public action on the part of men whose minds had from long experience acquired breadth as well as concentration, decision of judgment as well as tolerance, dispassionateness as well as energy–in fact, all those qualities which in the melancholy experience of mankind have been the least disposed to share lodgings.”
+- “It is enough for me to point out to yourself that there are certain social fitnesses and proprieties which should hinder a somewhat near relative of mine from becoming in anywise conspicuous in this vicinity in a status not only much beneath my own, but associated at best with the sciolism* of literary or political adventurers.”
+- “Dorothea, early troubling her elders with questions about the facts around her, had wrought herself into some independent clearness as to the historical, political reasons why eldest sons had superior rights, and why land should be entailed: those reasons, impressing her with a certain awe, might be weightier than she knew, but here was a question of ties which left them uninfringed. Here was a daughter whose child–even according to the ordinary aping of aristocratic institutions by people who are no more aristocratic than retired grocers, and who have no more land to ‘keep together’ than a lawn and a paddock–would have a prior claim. Was inheritance a question of liking, or of responsibility? All the energy of Dorothea’s nature went on the side of responsibility–the fulfilment of claims founded on our own deeds, such as marriage and parentage.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
 
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
