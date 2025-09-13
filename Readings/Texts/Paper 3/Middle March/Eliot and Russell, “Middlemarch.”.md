@@ -340,5 +340,20 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 ### ch. 36
 - “And I call it a robbery: it was like giving him the land, to promise it; and what is promising, if making everybody believe is not promising”
-- “We may handle even extreme opinions with impunity while our furniture, our dinner-giving, and preference for armorial bearings in our own case, link us indissolubly with the established order.”
+- “ But it had never occurred to him that he should live in any other than what he would have called an ordinary way, with green glasses for hock, and excellent waiting at table. In warming himself at French social theories he had brought away no smell of scorching. We may handle even extreme opinions with impunity while our furniture, our dinner-giving, and preference for armorial bearings in our own case, link us indissolubly with the established order. And Lydgate’s tendency was not towards extreme opinions: he would have liked no barefooted doctrines, being particular about his boots: he was no radical in relation to anything but medical reform and the prosecution of discovery. In the rest of practical life he walked by hereditary habit; half from that personal pride and unreflecting egoism which I have already called commonness, and half from that naïveté which belonged to preoccupation with favourite ideas.”
+- “She was thinking of her evening dresses for the visit to Sir Godwin Lydgate’s, which she had long been secretly hoping for as a delightful employment of at least one quarter of the honeymoon,”
+- “he had found perfect womanhood–felt as if already breathed upon by exquisite wedded affection such as would be bestowed by an accomplished creature who venerated his high musings and momentous labours and would never interfere with them; who would create order in the home and accounts with still magic, yet keep her fingers ready to touch the lute and transform life into romance at any moment; who was instructed to the true womanly limit and not a hair’s-breadth beyond–docile, therefore, and ready to carry out behests which came from beyond that limit. It was plainer now than ever that his notion of remaining much longer a bachelor had been a mistake: marriage would not be an obstruction but a furtherance. ”
 
+- “One must hire servants who will not break things,’ said Lydgate. (Certainly, this was reasoning with an imperfect vision of sequences. But at that period there was no sort of reasoning which was not more or less sanctioned by men of science.)”
+- “but he could not imagine himself pursuing them in such a home as Wrench had–the doors all open, the oil-cloth worn, the children in soiled pinafores, and lunch lingering in the form of bones, black-handled knives, and willow-pattern. But Wrench had a wretched lymphatic wife who made a mummy of herself indoors in a large shawl; and he must have altogether begun with an ill-chosen domestic apparatus.”
+- “ Lydgate, you perceive, had talked fervidly to Rosamond of his hopes as to the highest uses of his life, and had found it delightful to be listened to by a creature who would bring him the sweet furtherance of satisfying affection–beauty—repose–such help as our thoughts get from the summer sky and the flower-fringed meadows.
+  
+  Lydgate relied much on the psychological difference between what for the sake of variety I will call goose and gander: especially on the innate submissiveness of the goose as beautifully corresponding to the strength of the gander.”
+
+### ch. 37
+- “It was a time, according to a noticeable article in the ‘Pioneer,’ when the crying needs of the country might well counteract a reluctance to public action on the part of men whose minds had from long experience acquired breadth as well as concentration, decision of judgment as well as tolerance, dispassionateness as well as energy–in fact, all those qualities which in the melancholy experience of mankind have been the least disposed to share lodgings.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
