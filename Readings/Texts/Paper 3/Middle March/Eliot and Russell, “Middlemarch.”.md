@@ -11,6 +11,7 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - a lot of characterisation
 - who is the narrator?
 	- nm i think it is dorothea - "MY CASAUBON’S" in Ch. 10 
+	- "Poor Mr Casaubon" ch. 42
 
 # Key Notes
 
@@ -405,3 +406,10 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “Having made this rather lofty comparison I am less uneasy in calling attention to the existence of low people by whose interference, however little we may like it, the course of the world is very much determined”
 
 ### ch. 42
+- “This is a very bare and therefore a very incomplete way of putting the case. The human soul moves in many channels, and Mr Casaubon, we know, had a sense of rectitude and an honourable pride in satisfying the requirements of honour, which compelled him to find other reasons for his conduct than those of jealousy and vindictiveness. The way in which Mr Casaubon put the case was this:–”
+- 
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
