@@ -327,7 +327,7 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
   
   ‘Anything else–anything else!’ said old Featherstone, with hoarse rage, which, as if in a nightmare, tried to be loud, and yet was only just audible. ‘I want nothing else. You come here–you come here”
 
-## Boook 4: Three Love Problems
+## Book 4: Three Love Problems
 
 ### ch. 34
 - “ If any one will here contend that there must have been traits of goodness in old Featherstone, I will not presume to deny this; but I must observe that goodness is of a modest nature, easily discouraged, and when much elbowed in early life by unabashed vices, is apt to retire into extreme privacy, so that it is more easily believed in by those who construct a selfish old gentleman theoretically, than by those who form the narrower judgments based on his personal acquaintance.”
@@ -407,7 +407,19 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 ### ch. 42
 - “This is a very bare and therefore a very incomplete way of putting the case. The human soul moves in many channels, and Mr Casaubon, we know, had a sense of rectitude and an honourable pride in satisfying the requirements of honour, which compelled him to find other reasons for his conduct than those of jealousy and vindictiveness. The way in which Mr Casaubon put the case was this:–”
-- 
+- “Here was a man who now for the first time found himself looking into the eyes of death–who was passing through one of those rare moments of experience when we feel the truth of a commonplace, which is as different from what we call knowing it, as the vision of waters upon the earth is different from the delirious vision of the water which cannot be had to cool the burning tongue. When the commonplace ‘We must all die’ trans-forms itself suddenly into the acute consciousness ‘I must die*—and soon,’ then death grapples us, and his fingers are cruel; afterwards, he may come to fold us in his arms as our mother did, and our last moment of dim earthly discerning may be like the first.”
+- “In such an hour the mind does not change its lifelong bias, but carries it onward in imagination to the other side of death, gazing backward–perhaps with the divine calm of beneficence, perhaps with the petty anxieties of self-assertion. What was Mr Casaubon’s bias his acts will give us a clue to. He held himself to be, with some private scholarly reservations, a believing Christian, as to estimates of the present and hopes of the future. But what we strive to gratify, though we may call it a distant hope, is an immediate desire: the future estate for which men drudge up city alleys exists already in their imagination and love. And Mr Casaubon’s immediate desire was not for divine communion and light divested of earthly conditions; his passionate longings, poor man, clung low and mist-like in very shady places.”
+
+## Book 5: The Dead Hand
+
+### ch. 43
+- “To Rosamond she was one of those county divinities not mixing with Middlemarch mortality, whose slightest marks of manner or appearance were worthy of her study; moreover, Rosamond was not without satisfaction that Mrs Casaubon should have an opportunity of studying her. What is the use of being exquisite if you are not seen by the best judges?”
+- “but prejudices, like odorous bodies, have a double existence both solid and subtle–solid as the pyramids, subtle as the twentieth echo of an echo, or as the memory of hyacinths which once scented the darkness.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
 
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
