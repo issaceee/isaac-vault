@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "97e3e91bf43cb7c8",
+    "id": "f7b39f1e305c536d",
     "type": "split",
     "children": [
       {
-        "id": "71f36decdc8b8447",
+        "id": "a6f0cd1978e52a15",
         "type": "tabs",
         "children": [
           {
-            "id": "f62de47d80922402",
+            "id": "867fa351be4cb222",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b83f9daa36228a7e",
+    "id": "b521d9d4bb6523f9",
     "type": "split",
     "children": [
       {
-        "id": "f62d3b6f1066a7a5",
+        "id": "d001e1302154f648",
         "type": "tabs",
         "children": [
           {
-            "id": "0edd627bc1badc02",
+            "id": "6971defc41656b43",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "98cf7c36171cdc44",
+            "id": "a0f2d7c47a528e27",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "6b6b88ff3698d88e",
+            "id": "eebd6a153f6c3cbb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.50247192382812,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "5de73303b1554d22",
+    "id": "3a628997d923a822",
     "type": "split",
     "children": [
       {
-        "id": "3cab01ecde052e68",
+        "id": "c66d178de5f6f4e0",
         "type": "tabs",
         "children": [
           {
-            "id": "1addf0d64e640c1d",
+            "id": "9758c1650531740a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Dos/domestic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,11 +104,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for domestic"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "bd67030bde28e477",
+            "id": "6790403c1ce9a8da",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +121,7 @@
             }
           },
           {
-            "id": "cde7018883ebf7bc",
+            "id": "4264f41fbab6cb6d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,32 +136,21 @@
             }
           },
           {
-            "id": "afc050a93af495eb",
+            "id": "ecfdc7ae91743726",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Dos/domestic.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of domestic"
-            }
-          },
-          {
-            "id": "3cb4ac05dae0d0ec",
-            "type": "leaf",
-            "state": {
-              "type": "ReferenceListView",
-              "state": {},
-              "icon": "quote-glyph",
-              "title": "References"
+              "title": "Outline of Welcome"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,44 +169,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f62de47d80922402",
+  "active": "867fa351be4cb222",
   "lastOpenFiles": [
-    "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas",
-    "Readings/Texts/Paper 1/@wattFirstParagraphAmbassadors1960.md",
-    "Untitled.base",
-    "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).md",
-    "Untitled",
-    "Readings/Texts/Paper 3/Middle March/Eliot and Russell, “Middlemarch.”.md",
-    "Readings/Texts/Paper 3/North & South/Gaskell, North and South..md",
-    "To Dos/source_notes/@jamesAmbassadors2016.md",
-    "Readings/Texts/Paper 3/Moby Dick/Melville and Blum, Moby-Dick..md",
-    "Readings/Texts/Paper 3/Middle March",
-    "Readings/Texts/Paper 1/Watt, “The First Paragraph of The Ambassadors.”.md",
-    "z. Assets/Intro.md",
     "z. Assets/Templates/source-notes.md",
     "z. Assets/Images/Pasted image 20250905195013.png",
-    "To Dos/domestic.md",
-    "To Dos/narrative authority.md",
-    "To Dos/source_notes/@shapiroWUTHERINGHEIGHTSVICTORIAN.md",
-    "To Dos/source_notes/@stonemanFeministCriticismWuthering2025.md",
-    "To Dos/gothic violence.md",
-    "To Dos/Life of Charlotte Brontë.md",
+    "z. Assets/Templates",
+    "z. Assets/Intro.md",
+    "z. Assets/Images",
+    "z. Assets",
+    "ssh_pub_key.txt",
+    "To Dos/the rise of the novel.md",
+    "To Dos/the gothic.md",
+    "To Dos/the domestic.md",
     "To Dos/natural supernaturalism.md",
     "To Dos/narratorial frames.md",
     "To Dos/narratorial failure.md",
-    "To Dos/source_notes",
-    "Test.md",
-    "z. Assets/Templates",
-    "z. Assets/Images",
-    "z. Assets",
-    "My Library.json",
-    "Readings/Texts/Paper 1",
-    "Readings/Texts/Paper 3/Moby Dick",
-    "Readings/Texts/Paper 3/North & South haha.md",
-    "Readings/Texts/Victorian/Wuthering Heights/Stoneman, Feminist Criticism of “Wuthering Heights.”.md",
     "To Dos/narrative inadequacy.md",
-    "To Dos/the gothic.md",
-    "To Dos/the domestic.md",
-    "To Dos/the rise of the novel.md"
+    "To Dos/narrative authority.md",
+    "To Dos/gothic violence.md",
+    "To Dos/domestic.md",
+    "To Dos/Life of Charlotte Brontë.md",
+    "To Dos",
+    "Readings/Texts/Victorian/Wuthering Heights/Wuthering Heights.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Williams, Natural Supernaturalism in “Wuthering Heights.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Vargish, REVENGE AND “WUTHERING HEIGHTS.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Stoneman, Feminist Criticism of “Wuthering Heights.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Rena-Dozier, “Gothic Criticisms.”.md",
+    "Readings/Texts/Paper 3/Moby Dick/Melville and Blum, Moby-Dick..md",
+    "Readings/Texts/Paper 3/North & South/Gaskell, North and South..md",
+    "Readings/Texts/Paper 3/Middle March/Eliot and Russell, “Middlemarch.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights",
+    "Readings/Texts/Paper 3/North & South",
+    "Readings/Texts/Paper 3/Moby Dick",
+    "Readings/Texts/Paper 3/Middle March",
+    "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas",
+    "Readings/Texts/Paper 1/@wattFirstParagraphAmbassadors1960.md",
+    "Readings/Texts/Victorian",
+    "Welcome.md"
   ]
 }
