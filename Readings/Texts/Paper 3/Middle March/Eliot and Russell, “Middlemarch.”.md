@@ -421,6 +421,24 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “but there were differences which represented every social shade between the polished moderation of Dr Minchin and the trenchant assertion of Mrs Dollop, the landlady of the Tankard in Slaughter Lane.”
 - “But these were people of minor importance. Good Middlemarch families were of course not going to change their doctor without reason shown; and everybody who had employed Mr Peacock did not feel obliged to accept a new man merely in the character of his successor, objecting that he was ‘not likely to be equal to Peacock.”
 - “But Lydgate had not been long in the town before there were particulars enough reported of him to breed much more specific expectations and to intensify differences into partisanship; some of the particulars being of that impressive order of which the significance is entirely hidden, like a statistical amount without a standard of comparison, but with a note of exclamation at the end. The cubic feet of oxygen yearly swallowed by a full-grown man–what a shudder they might have created in some Middlemarch circles! ‘Oxygen! nobody knows what that may be–is it any wonder the cholera has got to Dantzic? And yet there are people who say quarantine is no good!”
+- “I say, the most ungentlemanly trick a man can be guilty of is to come among the members of his profession with innovations which are a libel on their time-honoured procedure. That is my opinion, and I am ready to maintain it against any one who contradicts me.’ Mr Wrench’s voice had become exceedingly sharp.”
+- “The trash talked on such occasions was the more vexatious to Lydgate, because it gave precisely the sort of prestige which an incompetent and unscrupulous man would desire, and was sure to be imputed to him by the simmering dislike of the other medical men as an encouragement on his own part of ignorant puffing. But even his proud outspokenness was checked by the discernment that it was as useless to fight against the interpretations of ignorance as to whip the fog; and ‘good fortune’ insisted on using those interpretations.”
+- “till much prejudice against Lydgate’s method as to drugs was overcome by the proof of his marvellous skill in the speedy restoration of Nancy Nash after she had been rolling and rolling in agonies from the presence of a tumour both hard and obstinate, but nevertheless compelled to yield.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
 
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
