@@ -415,6 +415,17 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ### ch. 43
 - “To Rosamond she was one of those county divinities not mixing with Middlemarch mortality, whose slightest marks of manner or appearance were worthy of her study; moreover, Rosamond was not without satisfaction that Mrs Casaubon should have an opportunity of studying her. What is the use of being exquisite if you are not seen by the best judges?”
 - “but prejudices, like odorous bodies, have a double existence both solid and subtle–solid as the pyramids, subtle as the twentieth echo of an echo, or as the memory of hyacinths which once scented the darkness.”
+- “He distrusted her affection; and what loneliness is more lonely than distrust?”
+
+### ch. 44
+- “but there were differences which represented every social shade between the polished moderation of Dr Minchin and the trenchant assertion of Mrs Dollop, the landlady of the Tankard in Slaughter Lane.”
+- “But these were people of minor importance. Good Middlemarch families were of course not going to change their doctor without reason shown; and everybody who had employed Mr Peacock did not feel obliged to accept a new man merely in the character of his successor, objecting that he was ‘not likely to be equal to Peacock.”
+- “But Lydgate had not been long in the town before there were particulars enough reported of him to breed much more specific expectations and to intensify differences into partisanship; some of the particulars being of that impressive order of which the significance is entirely hidden, like a statistical amount without a standard of comparison, but with a note of exclamation at the end. The cubic feet of oxygen yearly swallowed by a full-grown man–what a shudder they might have created in some Middlemarch circles! ‘Oxygen! nobody knows what that may be–is it any wonder the cholera has got to Dantzic? And yet there are people who say quarantine is no good!”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
 
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
