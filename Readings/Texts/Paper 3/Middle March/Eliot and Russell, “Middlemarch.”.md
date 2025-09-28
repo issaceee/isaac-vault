@@ -366,20 +366,20 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - ‘Oh, he’s a dangerous young sprig, that Mr Ladislaw,’ said Mrs Cadwallader, ‘with his opera songs and his ready tongue. A sort of Byronic hero–an amorous conspirator, it strikes me. And Thomas Aquinas is not fond of him. I could see that, the day the picture was brought.”
 - “In the right of it too,’ said the Rector. ‘Garth is an independent fellow: an original, simple-minded fellow. One day, when he was doing some valuation for me, he told me point-blank that clergymen seldom understood anything about business, and did mischief when they meddled; but he said it as quietly and respectfully as if he had been talking to me about sailors. He would make a different parish of Tipton, if Brooke would let him manage. I wish, by the help of the “Trumpet,” you could bring that round.”
 - “Look here! all this is about a landlord not a hundred miles from Middlemarch, who receives his own rents. They say he is the most retrogressive man in the county. I think you must have taught them that word in the “Pioneer.””
-- *“If we had to describe a man who is retrogressive in the most evil sense of the word–we should say, he is one who would dub himself a reformer of our constitution, while every interest for which he is immediately responsible is going to decay: a philanthropist who cannot bear one rogue to be hanged, but does not mind five honest tenants being half-starved: a man who shrieks at corruption, and keeps his farms at rack-rent:who roars himself red at rotten boroughs, and does not mind if every field on his farms has a rotten gate: a man very open-hearted to Leeds and Manchester, no doubt; he would give any number of representatives who will pay for their seats out of their “own pockets: what he objects to giving, is a little return on rent-days to help a tenant to buy stock, or an outlay on repairs to keep the weather out at a tenant’s barn-door or make his house look a little less like an Irish cottier’s.*But we all know the wag’s definition of a philanthropist: a man whose charity increases directly as the square of the distance.”*
+- *“If we had to describe a man who is retrogressive in the most evil sense of the word–we should say, he is one who would dub himself a reformer of our constitution, while every interest for which he is immediately responsible is going to decay: a philanthropist who cannot bear one rogue to be hanged, but does not mind five honest tenants being half-starved: a man who shrieks at corruption, and keeps his farms at rack-rent:who roars himself red at rotten boroughs, and does not mind if every field on his farms has a rotten gate: a man very open-hearted to Leeds and Manchester, no doubt; he would give any number of representatives who will pay for their seats out of their “own pockets: what he objects to giving, is a little return on rent-days to help a tenant to buy stock, or an outlay on repairs to keep the weather out at a tenant’s barn-door or make his house look a little less like an Irish cottier’s.But we all know the wag’s definition of a philanthropist: a man whose charity increases directly as the square of the distance.”*
 
 - “They said the last unsuccessful candidate at Middlemarch–Giles, wasn’t his name?—spent ten thousand pounds and failed because he did not bribe enough. What a bitter reflection for a man!’
-‘Somebody was saying,’ said the Rector, laughingly, ‘that East Retford* was nothing to Middlemarch, for bribery.’
-‘Nothing of the kind,’ said Mr Brooke. ‘The Tories bribe, you know: Hawley and his set bribe with treating, hot codlings,* and that sort of thing; and they bring the voters drunk to the poll. But they are not going to have it their own way in future–not in future, you know. Middlemarch is a little backward, I admit–the freemen are a little backward. But we shall educate them–we shall bring them on, you know. The best people there are on our side.”
+  ‘Somebody was saying,’ said the Rector, laughingly, ‘that East Retford* was nothing to Middlemarch, for bribery.’
+  ‘Nothing of the kind,’ said Mr Brooke. ‘The Tories bribe, you know: Hawley and his set bribe with treating, hot codlings,* and that sort of thing; and they bring the voters drunk to the poll. But they are not going to have it their own way in future–not in future, you know. Middlemarch is a little backward, I admit–the freemen are a little backward. But we shall educate them–we shall bring them on, you know. The best people there are on our side.”
 
 - “Better let him try to be popular and see that his character as a landlord stands in his way. I don’t think it signifies two straws about the “Pioneer,” or Ladislaw, or Brooke’s speechifying to the Middlemarchers. But it does signify about the parishioners in Tipton being comfortable.”
 
-### ch. 34
+### ch. 39
 - “A man is seldom ashamed of feeling that he cannot love a woman so well when he sees a certain greatness in her: nature having intended greatness for men. But nature has sometimes made sad oversights in carrying out her intention; as in the case of good Mr Brooke, whose masculine consciousness was at this moment in rather a stammering condition under the eloquence of his niece. He could not immediately find any other mode of expressing himself than that of rising, fixing his eye-glass, and fingering the papers before him.”
 
 - “But——eh, what?’
-These interrogatives were addressed to the footman who had come in to say that the keeper had found one of Dagley’s boys with a leveret in his hand just killed.
-‘I’ll come, I’ll come. I shall let him off easily, you know,’ said Mr Brooke aside to Dorothea, shuffling away very cheerfully.”
+  These interrogatives were addressed to the footman who had come in to say that the keeper had found one of Dagley’s boys with a leveret in his hand just killed.
+  ‘I’ll come, I’ll come. I shall let him off easily, you know,’ said Mr Brooke aside to Dorothea, shuffling away very cheerfully.”
 
 - “It is wonderful how much uglier things will look when we only suspect that we are blamed for them. Even our own persons in the glass are apt to change their aspect for us after we have heard some frank remark on their less admirable points; and on the other hand it is astonishing how pleasantly conscience takes our encroachments on those who never complain or have nobody to complain for them.”
 - “all these objects under the quiet light of a sky marbled with high clouds would have made a sort of picture which we have all paused over as a ‘charming bit,’ touching other sensibilities than those which are stirred by the depression of the agricultural interest and the sad lack of farming capital, as seen constantly in the newspapers of that time. But these troublesome associations were just now strongly present to Mr Brooke, and spoiled the scene for him”
@@ -392,5 +392,16 @@ These interrogatives were addressed to the footman who had come in to say that t
 
 - “Poor Dagley read a few verses sometimes on a Sunday evening, and the world was at least not darker to him than it had been before. Some things he knew thoroughly, namely, the slovenly habits of farming, and the awkwardnesses of weather, stock and crops, at Freeman’s End–so called apparently by way of sarcasm, to imply that a man was free to quit it if he chose, but that there was no earthly ‘beyond’ open to him.”
 
-### ch. 35
+### ch. 40
+- “Wise in his daily work was he: / To fruits of diligence, / And not to faiths or polity, / He plied his utmost sense. / These perfect in their little parts, / Whose work is all their prize— / Without them how could laws, or arts, / Or towered cities rise?” 
+- “IN watching effects, if only of an electric battery, it is often necessary to change our place and examine a particular mixture or group at some distance from the point where the movement we are interested in was set up.”
 
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
