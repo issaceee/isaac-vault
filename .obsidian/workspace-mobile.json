@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "3655c7a125d68f33",
+    "id": "daed850fc2ca6c55",
     "type": "split",
     "children": [
       {
-        "id": "cc58eedc270a3435",
+        "id": "bdeb17f6d53f85ad",
         "type": "tabs",
         "children": [
           {
-            "id": "58fa128df3165654",
+            "id": "324278bff7da1df4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Texts/Paper 3/North & South.md",
+                "file": "Readings/Texts/Paper 3/Middle March/Eliot and Russell, “Middlemarch.”.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "North & South"
+              "title": "Eliot and Russell, “Middlemarch.”"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "48c3947cb97cfcf0",
+    "id": "85682be6d49fe3fa",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c70ceb1646fb8512",
+        "id": "fbf9d2a12cf335cd",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "6f9667ebdcaf9e9a",
+        "id": "7e4dfd5e7a59c04a",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "be825b48f7dfd928",
+        "id": "4be8dfedcf645702",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,7 @@
         }
       },
       {
-        "id": "5661c4ff55ae7e4f",
+        "id": "e1777abd88c36696",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -89,16 +89,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "155039c0bcbff062",
+    "id": "54acfe0a63a5368e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "fa07b1b38d640c6f",
+        "id": "30650289fab35b2f",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Readings/Texts/Paper 3/North & South.md",
+            "file": "Readings/Texts/Paper 3/Middle March/Eliot and Russell, “Middlemarch.”.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         }
       },
       {
-        "id": "9eb262cb6a5d4dd8",
+        "id": "f5b94ebcb2d43610",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -125,7 +125,7 @@
         }
       },
       {
-        "id": "5741108ace6b58b3",
+        "id": "f26a114d760e4fd4",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -153,26 +153,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58fa128df3165654",
+  "active": "324278bff7da1df4",
   "lastOpenFiles": [
-    "/Readings/Texts/Paper 3/North & South.md",
-    "/Readings/Texts/Paper 3",
-    "/Readings/Texts",
-    "/Readings",
-    "Readings/Texts/Victorian/Wuthering Heights/Rena-Dozier, “Gothic Criticisms.”.md",
-    "Readings/Texts/Victorian/Wuthering Heights/Wuthering Heights.md",
-    "Readings/Texts/Paper 3/North & South.md",
-    "/Readings/Texts/Paper 3/North & South haha.md",
     "ssh_pub_key.txt",
-    "Readings/Texts/Victorian/Wuthering Heights/Stoneman, Feminist Criticism of “Wuthering Heights.”.md",
-    "Readings/Texts/Victorian/Wuthering Heights/Vargish, REVENGE AND “WUTHERING HEIGHTS.”.md",
-    "Readings/Texts/Victorian/Wuthering Heights/Williams, Natural Supernaturalism in “Wuthering Heights.”.md",
-    "Readings/Texts/Victorian/Wuthering Heights",
-    "Readings/Texts/Paper 3/North & South.md",
-    "Readings/Texts/Victorian",
-    "Readings/Texts/Paper 3",
-    "Readings/Texts",
-    "Readings",
+    "My Library.json",
     "To Dos/the gothic.md",
     "To Dos/narrative inadequacy.md",
     "To Dos/natural supernaturalism.md",
@@ -184,6 +168,27 @@
     "To Dos/gothic violence.md",
     "To Dos/Life of Charlotte Brontë.md",
     "To Dos/narratorial failure.md",
-    "To Dos"
+    "To Dos",
+    "z. Assets/Images/Pasted image 20250905195013.png",
+    "z. Assets/Templates/source-notes.md",
+    "z. Assets/Images",
+    "z. Assets/Templates",
+    "z. Assets/Intro.md",
+    "z. Assets",
+    "Readings/Texts/Victorian/Wuthering Heights/Rena-Dozier, “Gothic Criticisms.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Stoneman, Feminist Criticism of “Wuthering Heights.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Vargish, REVENGE AND “WUTHERING HEIGHTS.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Williams, Natural Supernaturalism in “Wuthering Heights.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Wuthering Heights.md",
+    "Readings/Texts/Paper 3/Moby Dick/Melville and Blum, Moby-Dick..md",
+    "Readings/Texts/Paper 3/North & South/Gaskell, North and South..md",
+    "Readings/Texts/Paper 3/Middle March/Eliot and Russell, “Middlemarch.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights",
+    "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas",
+    "Readings/Texts/Paper 1/@wattFirstParagraphAmbassadors1960.md",
+    "Readings/Texts/Paper 3/Moby Dick",
+    "Readings/Texts/Paper 3/North & South",
+    "Readings/Texts/Paper 3/Middle March",
+    "Readings/Texts/Victorian"
   ]
 }
