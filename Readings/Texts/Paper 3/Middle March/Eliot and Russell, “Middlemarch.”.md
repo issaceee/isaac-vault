@@ -395,13 +395,13 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ### ch. 40
 - “Wise in his daily work was he: / To fruits of diligence, / And not to faiths or polity, / He plied his utmost sense. / These perfect in their little parts, / Whose work is all their prize— / Without them how could laws, or arts, / Or towered cities rise?” 
 - “IN watching effects, if only of an electric battery, it is often necessary to change our place and examine a particular mixture or group at some distance from the point where the movement we are interested in was set up.”
+- “If you want to know more particularly how Mary looked, ten to one you will see a face like hers in the crowded street to-morrow, if you are there on the watch: she will not be among those daughters of Zion who are haughty, and walk with stretched-out necks and wanton eyes, mincing as they go: let all those pass, and fix your eyes on some small plump brownish person of firm but quiet carriage, who looks about her, but does not suppose that anybody is looking at her.”
+- “Yes, but there is a certain pride which is proper, Caleb.’
+  ‘I call it improper pride to let fools’ notions hinder you from doing a good action.”
+- “the soul of man, when it gets fairly rotten, will bear you all sorts of poisonous toad-stools, and no eye can see whence came the seed thereof.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 41
+- “Who shall tell what may be the effect of writing? If it happens to have been cut in stone, though it lie face downmost for ages on a forsaken beach, or ‘rest quietly under the drums and tramplings of many conquests,’* it may end by letting us into the secret of usurpations and other scandals gossiped about long empires ago:—this world being apparently a huge whispering-gallery”
+- “Having made this rather lofty comparison I am less uneasy in calling attention to the existence of low people by whose interference, however little we may like it, the course of the world is very much determined”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 42
