@@ -459,25 +459,12 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “ Few men have less need to cry for change than I have, personally speaking–that is, for self and family. I am not one of those who have nothing to lose: I mean as to respectability both in parish and private business, and noways in respect of your honourable self and custom, which you was good enough to say you would not withdraw from me, vote or no vote, while the article sent in was satisfactory”
 - “ Parliament, like the rest of our lives, even to our eating and apparel, could hardly go on if our imaginations were too active about processes. There were plenty of dirty-handed men in the world to do dirty business; and Will protested to himself that his share in bringing Mr Brooke through would be quite innocent.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 52
+- “No; though perhaps wisdom is not his strong point, but rather affection and sincerity. However, wisdom lies more in those two qualities than people are apt to imagine.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 53
+- “Enough. We are concerned with looking at Joshua Rigg’s sale of his land from Mr Bulstrode’s point of view, ”
+- 
 
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
