@@ -494,5 +494,12 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 ## Book 7: Two Temptations
 
-### ch. 68
- 
+### ch. 63
+### ch. 64
+- “Lydgate’s anger rose: he was prepared to be indulgent towards feminine weakness, but not towards feminine dictation. The shallowness of a waternixie’s* soul may have a charm until she becomes didactic”
+- 
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
