@@ -480,10 +480,11 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “No one quicker than Rosamond to see causes and effects which lay within the track of her own tastes and interests: she had seen clearly Lydgate’s pre-eminence in Middle-march society, and could go on imaginatively tracing still more agreeable social effects when his talent should have advanced him; but for her, his professional and scientific ambition had no other relation to these desirable effects than if they had been the fortunate discovery of an ill-smelling oil. And that oil apart, with which she had nothing to do, of course she believed in her own opinion more than she did in his. ”
 - “Opinions may be divided as to his wisdom in making this present: some may think that it was a graceful attention to be expected from a man like Lydgate, and that the fault of any troublesome consequences lay in the pinched narrowness of provincial life at that time, which offered no conveniences for professional people whose fortune was not proportioned to their tastes; also, in Lydgate’s ridiculous fastidiousness about asking his friends for money.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 59
+- “NEWS is often dispersed as thoughtlessly and effectively as that pollen which the bees carry off (having no idea how powdery they are) when they are buzzing in search of their particular nectar. This fine comparison has reference to Fred Vincy, who on that evening at Lowick Parsonage heard a lively discussion among the ladies on the news which their old servant had got from Tantripp concerning Mr Casaubon’s strange mention of Mr Ladislaw in a codicil to his will made not long before his death.”
+
+### ch. 60
+- “But indefinite visions of ambition are weak against the ease of doing what is habitual or beguilingly agreeable; and we all know the difficulty of carrying out a resolve when we secretly long that it may turn out to be unnecessary. In such states of mind the most incredulous person has a private leaning towards miracle: impossible to conceive how our wish could be fulfilled, still–very wonderful things have happened!”
 
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
