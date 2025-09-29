@@ -486,6 +486,9 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ### ch. 60
 - “But indefinite visions of ambition are weak against the ease of doing what is habitual or beguilingly agreeable; and we all know the difficulty of carrying out a resolve when we secretly long that it may turn out to be unnecessary. In such states of mind the most incredulous person has a private leaning towards miracle: impossible to conceive how our wish could be fulfilled, still–very wonderful things have happened!”
 
+### ch. 61
+- “It was not that he was in danger of legal punishment or of beggary: he was in danger only of seeing disclosed to the judgment of his neighbours and the mournful perception of his wife certain facts of his past life which would render him an object of scorn and an opprobrium of the religion with which he had diligently associated himself. The terror of being judged sharpens the memory: it sends an inevitable glare over that long-unvisited past which has been habitually recalled only in general phrases. Even without memory, the life is bound into one by a zone of dependence in growth and decay; but intense memory forces a man to own his blameworthy past. With memory set smarting like a reopened wound, a man’s past is not simply a dead history, an outworn preparation of the present: it is not a repented error shaken loose from the life: it is a still quivering part of himself, bringing shudders and bitter flavours and the tinglings of a merited shame.”
+
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
 George Eliot
