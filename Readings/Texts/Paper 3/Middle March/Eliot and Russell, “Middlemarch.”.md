@@ -441,3 +441,13 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “This was what a man got by worshipping the sight of a woman! The clerk observed with surprise that Mr Ladislaw did not join in the tune of Hanover, and reflected that he might have a cold”
 
 ### ch. 47
+- “Still, there was a deep difference between that devotion to the living and that indefinite promise of devotion to the dead. While he lived, he could claim nothing that she would not”
+
+
+### ch. 48
+- “But the silence in her husband’s ear was never more to be broken.”
+
+### ch. 49
+
+### ch. 50
+- 
