@@ -510,4 +510,5 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “It is always a trial,’ said Mr Bulstrode; ‘but trial, my dear sir, is our portion here, and is a needed corrective. I recommend you to weigh the advice I have given.”
 
 ### ch. 68
-- 
+
+### ch. 69
