@@ -565,3 +565,24 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “Until that wretched yesterday–except the moment of vexation long ago in the very same room and in the very same presence–all their vision, all their thought of each other, had been as in a world apart, where the sunshine fell on tall white lilies, where no evil lurked, and no other soul entered. But now–would Dorothea meet him in that world again?”
 
 ### ch. 83
+
+### ch. 84
+- “My dear fellow, we are rather apt to consider an act wrong because it is unpleasant to us,’ said the Rector, quietly. Like many men who take life easily, he had the knack of saying a home truth occasionally to those who felt themselves virtuously out of temper”
+
+### ch. 85
+
+### ch. 86
+
+### FINALE
+- “Marriage, which has been the bourne of so many narratives, is still a great beginning, as it was to Adam and Eve, who kept their honeymoon in Eden, but had their first little one among the thorns and thistles of the wilderness. It is still the beginning of the home epic–the gradual conquest or irremediable loss of that complete union which makes the advancing years a climax, and age the harvest of sweet memories in common.”
+- “In this way it was made clear that Middlemarch had never been deceived, and that there was no need to praise anybody for writing a book, since it was always done by somebody else.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
