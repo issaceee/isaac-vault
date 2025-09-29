@@ -495,3 +495,4 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ## Book 7: Two Temptations
 
 ### ch. 68
+ 
