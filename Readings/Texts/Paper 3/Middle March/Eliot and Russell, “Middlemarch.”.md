@@ -477,4 +477,9 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ### ch. 57
 
 ### ch. 58
-- 
+- “No one quicker than Rosamond to see causes and effects which lay within the track of her own tastes and interests: she had seen clearly Lydgate’s pre-eminence in Middle-march society, and could go on imaginatively tracing still more agreeable social effects when his talent should have advanced him; but for her, his professional and scientific ambition had no other relation to these desirable effects than if they had been the fortunate discovery of an ill-smelling oil. And that oil apart, with which she had nothing to do, of course she believed in her own opinion more than she did in his. ”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
