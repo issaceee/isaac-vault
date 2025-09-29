@@ -520,12 +520,5 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “The statement was passed on until it had quite lost the stamp of an inference, and was taken as information coming straight from Garth, so that even a diligent historian might have concluded Caleb to be the chief publisher of Bulstrode’s misdemeanours.”
 - “The business was felt to be so public and important that it required dinners to feed it, and many invitations were just then issued and accepted on the strength of this scandal concerning Bulstrode and Lydgate; wives, widows, and single ladies took their work and went out to tea oftener than usual; and all public conviviality, from the Green Dragon to Dollop’s, gathered a zest which could not be won from the question whether the Lords would throw out the Reform Bill.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+## Book 8: Sunset and Sunrise
+### ch. 72
