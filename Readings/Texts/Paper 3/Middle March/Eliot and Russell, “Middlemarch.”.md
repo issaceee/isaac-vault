@@ -489,6 +489,9 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ### ch. 61
 - “It was not that he was in danger of legal punishment or of beggary: he was in danger only of seeing disclosed to the judgment of his neighbours and the mournful perception of his wife certain facts of his past life which would render him an object of scorn and an opprobrium of the religion with which he had diligently associated himself. The terror of being judged sharpens the memory: it sends an inevitable glare over that long-unvisited past which has been habitually recalled only in general phrases. Even without memory, the life is bound into one by a zone of dependence in growth and decay; but intense memory forces a man to own his blameworthy past. With memory set smarting like a reopened wound, a man’s past is not simply a dead history, an outworn preparation of the present: it is not a repented error shaken loose from the life: it is a still quivering part of himself, bringing shudders and bitter flavours and the tinglings of a merited shame.”
 
+### ch. 62
+- “Unwonted circumstances may make us all rather unlike ourselves: there are conditions under which the most majestic person is obliged to sneeze, and our emotions are liable to be acted on in the same incongruous manner”
+
 Excerpt From
 Middlemarch (Oxford Worlds Classics)
 George Eliot
