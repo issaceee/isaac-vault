@@ -504,3 +504,10 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - 
 
 ### ch. 66
+
+### ch. 67
+- “A philosopher fallen to betting is hardly distinguishable from a Philistine* under the same circumstances: the difference will chiefly be found in his subsequent reflections, and Lydgate chewed a very disagreeable cud in that way.”
+- “It is always a trial,’ said Mr Bulstrode; ‘but trial, my dear sir, is our portion here, and is a needed corrective. I recommend you to weigh the advice I have given.”
+
+### ch. 68
+- 
