@@ -532,4 +532,27 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “He preferred waiting for the incidental disclosure which events must soon bring about.”
 
 ### ch. 74
+- “But truth is truth. The men tried at the assizes* are not all over-religious, I suppose”
+- “The sharp little woman’s conscience was somewhat troubled in the adjustment of these opposing ‘bests,’ and of her griefs and satisfactions under late events, which were likely to humble those who needed humbling, but also to fall heavily on her old friend whose faults she would have preferred seeing on a background of prosperity.”
+- “People will talk,’ he said. ‘Even if a man has been acquitted by a jury, they’ll talk, and nod and wink–and as far as the world goes, a man might often as well be guilty as not. It’s a breakdown blow, and it damages Lydgate as much as Bulstrode. I don’t pretend to say what is the truth. I only wish we had never heard the name of either Bulstrode or Lydgate. You’d better have been a Vincy all your life, and so had Rosamond.”
+- “he could not say, ‘How much is only slander and false suspicion?’ and he did not say, ‘I am innocent.”
+
+### ch. 75
+- “No notion could have been falser than this, for Rosamond’s discontent in her marriage was due to the conditions of marriage itself, to its demand for self-suppression and tolerance, and not to the nature of her husband; but the easy conception of an unreal Better had a sentimental charm which diverted her ennui”
+
+### ch. 76
+- “The presence of a noble nature, generous in its wishes, ardent in its charity, changes the lights for us: we begin to see things again in their larger, quieter masses, and to believe that we too can be seen and judged in the wholeness of our character. ”
+	- reference to narrator?
+- “But all that has nothing to do with the public belief. It is one of those cases in which a man is condemned on the ground of his character–it is believed that he has committed a crime in some undefined way, because he had the motive for doing it; and Bulstrode’s character has enveloped me, because I took his money. I am simply blighted–like a damaged ear of corn–the business is done and can’t be undone.”
+
+### ch. 77
+- “There are natures in which, if they love us, we are conscious of having a sort of baptism and consecration: they bind us over to rectitude and purity by their pure belief about us; and our sins become that worst kind of sacrilege which tears down the invisible altar of trust. ‘If you are not good, none is good’—those little words may give a terrific meaning to responsibility, may hold a vitriolic intensity for remorse.”
+
+### ch. 78
+- “Shallow natures dream of an easy sway over the emotions of others, trusting implicitly in their own petty magic to turn the deepest streams, and confident, by pretty gestures and remarks, of making the thing that is not as though it were. She knew that Will had received a severe blow, but she had been little used to imagining other people’s states of mind except as a material cut into shape by her own wishes; and she believed in her own power to soothe or subdue. Even Tertius, that most perverse of men, was always subdued in the long-run: events had been obstinate, but still Rosamond would have said now, as she did before her marriage, that she never gave up what she had set her mind on.”
+
+### ch. 79
+- “We are on a perilous margin when we begin to look passively at our future selves, and see our own figures led with”
+
+### ch. 80
 - 
