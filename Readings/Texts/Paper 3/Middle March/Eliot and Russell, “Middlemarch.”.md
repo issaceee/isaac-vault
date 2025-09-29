@@ -425,32 +425,7 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “The trash talked on such occasions was the more vexatious to Lydgate, because it gave precisely the sort of prestige which an incompetent and unscrupulous man would desire, and was sure to be imputed to him by the simmering dislike of the other medical men as an encouragement on his own part of ignorant puffing. But even his proud outspokenness was checked by the discernment that it was as useless to fight against the interpretations of ignorance as to whip the fog; and ‘good fortune’ insisted on using those interpretations.”
 - “till much prejudice against Lydgate’s method as to drugs was overcome by the proof of his marvellous skill in the speedy restoration of Nancy Nash after she had been rolling and rolling in agonies from the presence of a tumour both hard and obstinate, but nevertheless compelled to yield.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 45
+- “THAT opposition to the New Fever Hospital which Lydgate had sketched to Dorothea was, like other oppositions, to be viewed in many different lights. He regarded it as a mixture of jealousy and dunder-headed prejudice. Mr Bulstrode saw in it not only medical jealousy but a determination to thwart himself, prompted mainly by hatred of that vital religion of which he had striven to be an effectual lay representative–a hatred which certainly found pretexts apart from religion such as were only too easy to find in the entanglements of human action. These might be called the ministerial views. But oppositions have the illimitable range of objections at command, which need never stop short at the boundary of knowledge, but can draw for ever on the vasts of ignorance.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
-
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 46
