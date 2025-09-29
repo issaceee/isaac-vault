@@ -514,4 +514,18 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ### ch. 69
 
 ### ch. 70
-- 
+- “A man vows, and yet will not cast away the means of breaking his vow. Is it that he distinctly means to break it? Not at all; but the desires which tend to break it are at work in him dimly, and make their way into his imagination, and relax his muscles in the very moments when he is telling himself over again the reasons for his vow.”
+
+### ch. 71
+- “The statement was passed on until it had quite lost the stamp of an inference, and was taken as information coming straight from Garth, so that even a diligent historian might have concluded Caleb to be the chief publisher of Bulstrode’s misdemeanours.”
+- “The business was felt to be so public and important that it required dinners to feed it, and many invitations were just then issued and accepted on the strength of this scandal concerning Bulstrode and Lydgate; wives, widows, and single ladies took their work and went out to tea oftener than usual; and all public conviviality, from the Green Dragon to Dollop’s, gathered a zest which could not be won from the question whether the Lords would throw out the Reform Bill.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
