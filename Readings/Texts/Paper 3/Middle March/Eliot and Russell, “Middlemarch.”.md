@@ -492,7 +492,6 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ### ch. 62
 - “Unwonted circumstances may make us all rather unlike ourselves: there are conditions under which the most majestic person is obliged to sneeze, and our emotions are liable to be acted on in the same incongruous manner”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+## Book 7: Two Temptations
+
+### ch. 68
