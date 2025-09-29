@@ -464,9 +464,7 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 ### ch. 53
 - “Enough. We are concerned with looking at Joshua Rigg’s sale of his land from Mr Bulstrode’s point of view, ”
-- 
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+## Book 6: The Widow and The Wife
+### ch. 54
+- 
