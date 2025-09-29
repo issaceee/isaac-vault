@@ -497,9 +497,10 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ### ch. 63
 ### ch. 64
 - “Lydgate’s anger rose: he was prepared to be indulgent towards feminine weakness, but not towards feminine dictation. The shallowness of a waternixie’s* soul may have a charm until she becomes didactic”
+- “Lydgate sat paralysed by opposing impulses: since no reasoning he could apply to Rosamond seemed likely to conquer her assent, he wanted to smash and grind some object on which he could at least produce an impression, or else to tell her brutally that he was master, and she must obey. But he not only dreaded the effect of such extremities on their mutual life–he had a growing dread of Rosaxmond’s quiet elusive obstinacy, which would not allow any assertion of power to be final; and again, she had touched him in a spot of keenest feeling by implying that she had been deluded with a false vision of happiness in marrying him. As to saying that he was master, it was not the fact. The very resolution to which he had wrought himself by dint of logic and honourable pride was beginning to relax under her torpedo-contact.* He swallowed half his cup of coffee, and then rose to go.”
+- “The Lydgate with whom she had been in love had been a group of airy conditions for her, most of which had disappeared, while their place had been taken by everyday details which must be lived through slowly from hour to hour, not floated through with a rapid selection of favourable aspects.”
+
+### ch. 65
 - 
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
+### ch. 66
