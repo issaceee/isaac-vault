@@ -558,3 +558,10 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “She was a part of that involuntary, palpitating life, and could neither look out on it from her luxurious shelter as a mere spectator, nor hide her eyes in selfish complaining.”
 
 ### ch. 81
+- “Marriage is so unlike everything else. There is something even awful in the nearness it brings. Even if we loved some one else better than–than those we were married to, it would be no use’—poor Dorothea, in her palpitating anxiety, could only seize her language brokenly—‘I mean, marriage drinks up all our power of giving or getting any blessedness in that sort of love. I know it may be very dear–but it murders our marriage–and then the marriage stays with us like a murder–and everything else is gone. And then our husband–if he loved and trusted us, and we have not helped him, but made a curse in his life . .”
+
+### ch. 82
+- “The Rubicon,* we know, was a very insignificant stream to look at; its significance lay entirely in certain invisible conditions”
+- “Until that wretched yesterday–except the moment of vexation long ago in the very same room and in the very same presence–all their vision, all their thought of each other, had been as in a world apart, where the sunshine fell on tall white lilies, where no evil lurked, and no other soul entered. But now–would Dorothea meet him in that world again?”
+
+### ch. 83
