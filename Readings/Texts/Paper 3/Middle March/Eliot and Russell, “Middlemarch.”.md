@@ -555,4 +555,6 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “We are on a perilous margin when we begin to look passively at our future selves, and see our own figures led with”
 
 ### ch. 80
-- 
+- “She was a part of that involuntary, palpitating life, and could neither look out on it from her luxurious shelter as a mere spectator, nor hide her eyes in selfish complaining.”
+
+### ch. 81
