@@ -522,3 +522,14 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 ## Book 8: Sunset and Sunrise
 ### ch. 72
+- “character is not cut in marble–it is not something solid and unalterable. It is something living and changing, and may become diseased as our bodies do”
+
+### ch. 73
+- “There are episodes in most men’s lives in which their highest qualities can only cast a deterring shadow over the objects that fill their inward vision: Lydgate’s tender-heartedness was present just then only as a dread lest he should offend against it, not as an emotion that swayed him to tenderness. For he was very miserable. Only those who know the supremacy of the intellectual life–the life which has a seed of ennobling thought and purpose within it–can understand the grief of one who falls from that serene activity into the absorbing soul-wasting struggle with worldly annoyances.”
+- “What we call the “just possible” is sometimes true and the thing we find it easier to believe is grossly false.”
+- “It would be playing the part of a fool to offer his own testimony on behalf of himself, and say, ‘I did not take the money as a bribe.’ The circumstances would always be stronger than his assertion. And besides, to come forward and tell everything about himself must include declarations about Bulstrode which would darken the suspicions of others against him.”
+- “Science is properly more scrupulous than dogma. Dogma gives a charter to mistake, but the very breath of science is a contest with mistake, and must keep the conscience alive.”
+- “He preferred waiting for the incidental disclosure which events must soon bring about.”
+
+### ch. 74
+- 
