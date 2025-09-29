@@ -453,4 +453,33 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “True,’ said Dorothea. ‘It is hard to imagine what sort of notions our farmers and labourers get from their teaching. I have been looking into a volume of sermons by Mr Tyke: such sermons would be of no use at Lowick–I mean, about imputed righteousness* and the prophecies in the Apocalypse. I have always been thinking of the different ways in which Christianity is taught, and whenever I find one way that makes it a wider blessing than any other, I cling to that as the truest–I mean that which takes in the most good of all kinds, and brings in the most people as sharers in it. It is surely better to pardon too much, than to condemn too much”
 
 ### ch. 51
-- 
+- “This prospect of converting votes was a dangerous distraction to Mr Brooke: his impression that waverers were likely to be allured by wavering statements, and also the liability of his mind to stick afresh at opposing arguments as they turned up in his memory, gave Will Ladislaw much trouble.”
+- “Very well, sir. I ask you what, as a husband and a father, I am to do when gentlemen come to me and say, “Do as you like, Mawmsey; but if you vote against us, I shall get my groceries elsewhere: when I sugar my liquor I like to feel that I am benefiting the country by maintaining tradesmen of the right colour.”
+- “ This Reform will touch everybody by-and-by–a thoroughly popular measure–a sort of A, B, C, you know, that must come first before the rest can follow. I quite agree with you that you’ve got to look at the thing in a family light: but public spirit, now. We’re all one family, you know–it’s all one cupboard. Such a thing as a vote, now: why, it may help to make men’s fortunes at the Cape–there’s no knowing what may be the effect of a vote,”
+- “ Few men have less need to cry for change than I have, personally speaking–that is, for self and family. I am not one of those who have nothing to lose: I mean as to respectability both in parish and private business, and noways in respect of your honourable self and custom, which you was good enough to say you would not withdraw from me, vote or no vote, while the article sent in was satisfactory”
+- “ Parliament, like the rest of our lives, even to our eating and apparel, could hardly go on if our imaginations were too active about processes. There were plenty of dirty-handed men in the world to do dirty business; and Will protested to himself that his share in bringing Mr Brooke through would be quite innocent.”
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
+
+Excerpt From
+Middlemarch (Oxford Worlds Classics)
+George Eliot
+This material may be protected by copyright.
