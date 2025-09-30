@@ -576,13 +576,7 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 ### FINALE
 - “Marriage, which has been the bourne of so many narratives, is still a great beginning, as it was to Adam and Eve, who kept their honeymoon in Eden, but had their first little one among the thorns and thistles of the wilderness. It is still the beginning of the home epic–the gradual conquest or irremediable loss of that complete union which makes the advancing years a climax, and age the harvest of sweet memories in common.”
 - “In this way it was made clear that Middlemarch had never been deceived, and that there was no need to praise anybody for writing a book, since it was always done by somebody else.”
+- “Certainly those determining acts of her life were not ideally beautiful. They were the mixed result of young and noble impulse struggling amidst the conditions of an imperfect social state,* in which great feelings will often take the aspect of error, and great faith the aspect of illusion. For there is no creature whose inward being is so strong that it is not greatly determined by what lies outside it.”
+- “But the effect of her being on those around her was incalculably diffusive: for the growing good of the world is partly dependent on unhistoric acts; and that things are not so ill with you and me as they might have been, is half owing to the number who lived faithfully a hidden life, and rest in unvisited tombs.”
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
 
-Excerpt From
-Middlemarch (Oxford Worlds Classics)
-George Eliot
-This material may be protected by copyright.
