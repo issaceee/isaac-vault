@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Texts/Paper 3/Arnold, Arnold..md",
+                "file": "Readings/Texts/Paper 3/@arnoldArnoldCultureAnarchy1993.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arnold, Arnold."
+              "title": "@arnoldArnoldCultureAnarchy1993"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3a628997d923a822",
@@ -171,8 +170,10 @@
   },
   "active": "867fa351be4cb222",
   "lastOpenFiles": [
-    "Readings/Texts/Paper 3/Gaskell, North and South..md",
     "Readings/Texts/Paper 3/Arnold, Arnold..md",
+    "Readings/Texts/Paper 3/@arnoldArnoldCultureAnarchy1993.md",
+    "To Dos/source_notes",
+    "Readings/Texts/Paper 3/Gaskell, North and South..md",
     "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
     "Readings/Texts/Paper 1/@wattFirstParagraphAmbassadors1960.md",
     "Readings/Texts/Paper 1/Untitled",
@@ -206,7 +207,6 @@
     "Readings/Texts/Paper 3/Melville and Blum, Moby-Dick..md",
     "Readings/Texts/Victorian/Wuthering Heights",
     "Readings/Texts/Paper 3/North & South",
-    "Readings/Texts/Paper 3/Moby Dick",
     "Welcome.md"
   ]
 }
