@@ -160,7 +160,35 @@ in this new parradigm, our previous rules and routines are broken done, allowing
   
 
 
+### Imported: 2025-10-12 9:44 pm
+
+
+<mark style="background-color:#f2c94c">Important / Interesting</mark>
+> It is of use because, like religion,—that other effort after perfection,—it testifies that, where bitter envying and strife are, there is confusion and every evil work
+
+
+  
+
+<mark style="background-color:#f2c94c">Important / Interesting</mark>
+> Again and again I have insisted how those are the happy moments of humanity, how those are the marking epochs of a people's life, how those are the flowering times for literature and art and all the creative power of genius, when there is a national glow of life and thought, when the whole of society is in the fullest measure permeated by thought, sensible to beauty, intelligent and alive.
+
+
+  
+
+<mark style="background-color:#f2c94c">Important / Interesting</mark>
+> It does not try to teach down to the level of inferior classes; it does not try to win them for this or that sect of its own, with ready-made judgments and watchwords. It seeks to do away with classes; to make the best that has been thought and known in the world current everywhere; to make all men live in an atmosphere of sweetness and light, where they may use ideas, as it uses them itself, freely,—nourished, and not bound by them.
+
+
+  
+
+<mark style="background-color:#f2c94c">Important / Interesting</mark>
+> passion for diffusing, for making prevail, for carrying from one end of society to the other, the best knowledge, the best ideas of their time; who have laboured to divest knowledge of all that was harsh, uncouth, difficult, abstract, professional, exclusive; to humanise it, to make it efficient outside the clique of the cultivated and learned, yet still remaining the best knowledge and thought of the time, and a true source, therefore, of sweetness and light.
+
+
+  
+
+
 %% end annotations %%
 
 
-%% Import Date: 2025-10-12T20:56:13.027+01:00 %%
+%% Import Date: 2025-10-12T21:44:08.054+01:00 %%
