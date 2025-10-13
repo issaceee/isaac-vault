@@ -31,11 +31,7 @@ dateread:
 >  
 > [Arnold: Culture and Anarchy and Other Writings](file:///Users/isaacrafinyi/Zotero/storage/D488EVRF/ilovepdf_merged.pdf).  
   
-> [!Abstract]  
->  
-> Cover -- Title -- Copyright -- Dedication -- Contents -- List of figures -- Preface -- List of symbols -- Introduction -- 1.1 Semantics and semantic theory -- 1.2 Interpretation and representation -- 1.3 Beyond truth-conditions -- 1.4 A note on method -- 1.5 Further reading -- Predicates and arguments -- 2.1 Translating English into a logical language -- 2.2 Interpreting L. -- 2.3 Further reading -- Negation and Co-ordination -- 3.1 Compound sentences -- 3.2 Complex formulae -- 3.3 Interpretation -- 3.4 Formal interpretation -- 3.5 Further reading -- Type of Theory -- 4.1 Verb phrases and other constituents -- 4.2 A typed logical language -- 4.3 More set theory -- 4.4 Interpreting L_type -- 4.5 Adverbs -- 4.6 Further reading -- The Lambda Operator -- 5.1 The passive -- 5.2 Introducing the lambda operator -- 5.3 Generalising lambda expressions -- 5.4 Reviewing co-ordination -- 5.5 Further reading -- Quanatification -- 6.1 The variety of noun phrases -- 6.2 Introducing the logical quantifiers -- 6.3 A compositional approach -- 6.4 Proper names and definite descriptions -- 6.5 Two problems -- 6.6 Generalised quantifiers -- 6.7 Further Reading -- Inference -- 7.1 Making inferences -- 7.2 Logical deduction -- 7.3 Lexical meaning -- 7.4 Non-truth-conditional aspects of the connectives -- 7.5 Further Reading -- Time, Tense and Aspect -- 8.1 Temporal contingency -- 8.2 Time -- 8.3 Tense -- 8.4 Simple aspect -- 8.5 Scope ambiguities -- 8.6 Further reading -- Possible Worlds -- 9.1 Where entailments fail -- 9.2 Intension and extension -- 9.3 Introducing other world -- 9.4 Further reading -- Intensional Semantics -- 10.1 Modelling intensions -- 10.2 The intensional language LIL -- 10.3 Interpreting opaque contexts -- 10.4 Two problems -- 10.5 Postscript -- 10.6 Further reading -- Answers to selected exercises -- References -- Index  
->.  
->
+
 # Notes  
 %% begin notes %%
 > Also — for our reference during class — this is Arnold's definition of culture in the Preface to the 1869 edition of _Culture and Anarchy_:

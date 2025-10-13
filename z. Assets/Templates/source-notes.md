@@ -41,18 +41,23 @@ dateread:
 > [!LINK]  
 > {%- for attachment in attachments | filterby("path", "endswith", ".pdf") %}  
 > [{{attachment.title}}](file://{{attachment.path | replace(" ", "%20")}}) {%- endfor -%}.  
-  
-> [!Abstract]  
-> {%- if abstractNote %}  
-> {{abstractNote}}  
-> {%- endif -%}.  
->
+
 # Notes  
 {% persist "notes" %}{% if isFirstImport %}
 Write notes here!
 {% endif %} 
 {% endpersist %}
-  
+
+
+
+
+
+
+
+
+
+
+---
 # Annotations
 {%- macro calloutHeader(type, color) -%}
   {%- if type == "highlight" -%}
