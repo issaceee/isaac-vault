@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Texts/Paper 3/@williamsCultureSociety178019501960.md",
+                "file": "Readings/Lecture Notes/S1W1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@williamsCultureSociety178019501960"
+              "title": "S1W1"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a628997d923a822",
@@ -170,18 +171,19 @@
   },
   "active": "867fa351be4cb222",
   "lastOpenFiles": [
-    "z. Assets/Intro.md",
-    "Readings/Texts/Paper 3/@williamsCultureSociety178019501960.md",
+    "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
+    "Readings/Lecture Notes/S1W1.md",
     "Readings/Texts/Paper 3/@duboisSoulsBlackFolk1994.md",
-    "Readings/Lecture Notes/P3W1 Practising Criticism.md",
+    "Readings/Texts/Paper 3/@arnoldArnoldCultureAnarchy1993.md",
     "Readings/Texts/Paper 1/@wattFirstParagraphAmbassadors1960.md",
+    "Readings/Texts/Paper 3/@williamsCultureSociety178019501960.md",
+    "z. Assets/Intro.md",
+    "Readings/Lecture Notes/P3W1 Practising Criticism.md",
     "Readings/Lecture Notes",
     "z. Assets/Templates/source-notes.md",
-    "Readings/Texts/Paper 3/@arnoldArnoldCultureAnarchy1993.md",
     "Readings/Texts/Paper 3/Arnold, Arnold..md",
     "To Dos/source_notes",
     "Readings/Texts/Paper 3/Gaskell, North and South..md",
-    "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
     "Readings/Texts/Paper 1/Untitled",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas",
     "Readings/Texts/Paper 2/Liuzza, _Beowulf_..md",
@@ -206,7 +208,6 @@
     "Readings/Texts/Victorian/Wuthering Heights/Wuthering Heights.md",
     "Readings/Texts/Victorian/Wuthering Heights/Williams, Natural Supernaturalism in “Wuthering Heights.”.md",
     "Readings/Texts/Victorian/Wuthering Heights/Vargish, REVENGE AND “WUTHERING HEIGHTS.”.md",
-    "Readings/Texts/Victorian/Wuthering Heights/Stoneman, Feminist Criticism of “Wuthering Heights.”.md",
     "Readings/Texts/Victorian/Wuthering Heights"
   ]
 }
