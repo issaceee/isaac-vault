@@ -8,7 +8,7 @@ victorian novel
 
 devt of victorian fiction
 - is there a story/plot? who are the heroes/heroine
-- while it might be tempting to read it at first as a romance, ----- to become sophisticated (james/conrad) --> victorian literature is a bridge between romanticism and romanticism, an awkard phase needed to get thorugh in order to produce masterpieces like 
+- while it might be tempting to read it at first as a romance, ----- to become sophisticated (james/conrad) --> victorian literature is a bridge between romanticism and modernism, an awkard phase needed to get thorugh in order to produce masterpieces like ulysses
 
 
 - victorian novelists saw themselves as pioneers, novels were thought experiments, absolute truths became relative ones, where there can be so many perspectives that one can take, so many private worlds that can be hidden inside our shared world
