@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a628997d923a822",
@@ -185,8 +186,8 @@
   },
   "active": "db0bc1003485035b",
   "lastOpenFiles": [
-    "P3W1 What is Literature?.md",
     "Readings/Lecture Notes/P3W1 Many Voices.md",
+    "P3W1 What is Literature?.md",
     "Readings/Lecture Notes/P3W1 Telling Stories.md",
     "Readings/Texts/Paper 3/@arnoldArnoldCultureAnarchy1993.md",
     "Readings/Lecture Notes/S1W1.md",
