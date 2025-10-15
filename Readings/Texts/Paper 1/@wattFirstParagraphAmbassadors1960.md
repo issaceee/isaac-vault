@@ -44,6 +44,11 @@ dateread:
 What does Watt notice about the passage? How does he build out from local observations about the passage to some larger point? What is this larger point? Why does Watt think this passage is so significant? Why does he pick the passage that he does? Could he do the same analysis on any passage in James's novel? How many times did Watt need to read this passage before he could understand its larger significance?
 
 
+Instead of descriptive prose, Watt posits that James uses precise diction and grammatical/syntactical functions in order to draw the reader's attention towards themes and ideas in the passage that hint at the conflict throughout the novel, as well as also reflect James' outlook towards life. Some examples are James' use of non-transitive verbs to generalise Strether's thinking, and in abstracting and universalising the language and context of the first passage, Watt argues that it allows for these small textual details to be free from a particular temporal and physical realm, and therefore "[exist] independently of its context", thereby being able to "relate every event and every moment of life to the full complexity of its circumambient conditions."
+
+I personally found Watt's argument regarding James' tone being humorous rather than ironic most interesting as it highlights various issues/considerations when reading the text, that being the sensitivity and precision of James' writing in crafting such a nuanced reading, the balancing of "his hero's supreme qualities and of his associated limitations", and to me what is most interesting, the reception of the novel by the audience. In his analysis, Watt argues that the narrative is 'multidimensional', continually implicating "a community of three minds–Strether's,James's, and the reader's".
+
+Watt ends his analysis by comparing this passage to other opening passages by renowned authors. 
 
 
 500-Word Summary:
