@@ -38,6 +38,14 @@ dateread:
 # Notes  
 %% begin notes %%
 
+
+250 word summary:
+
+What does Watt notice about the passage? How does he build out from local observations about the passage to some larger point? What is this larger point? Why does Watt think this passage is so significant? Why does he pick the passage that he does? Could he do the same analysis on any passage in James's novel? How many times did Watt need to read this passage before he could understand its larger significance?
+
+
+
+
 500-Word Summary:
 
  Watt's introduction highlights the various strengths and weaknesses of literary analyses techniques over the decades from various cultures and regions. Mainly, he underscores the contrast between close reading (Practical Criticism - Anglo-Americans) and context reading (<i>explication de texte - </i>French). He also highlights gaps, mainly that the former misses the mark with understanding historical nuance and mainly applies to rich verses, whereas the latter resembles "a sort of bayonet drill" [@wattFirstParagraphAmbassadors1960: 250] , which highlights the inability of the technique to truly understand the depth of a text if one merely looks at its external factors. He then highlights various other developments such as the German's attempt at philology which ultimately lead to the technique of stylistics – an attempt at using linguistics to critically analyse a literary text. All in all, Watt expounds that no one technique is truly able to capture the heart of a text, foregrounding that his analysis is a amalgamation of the various techniques raised thus far, looking at the text through both a micro and macro lens. (I - "low as syntax"; II - "high as ideas"; III - "total literary structure") [@wattFirstParagraphAmbassadors1960: 253]
