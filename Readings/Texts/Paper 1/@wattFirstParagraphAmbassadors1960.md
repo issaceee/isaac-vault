@@ -48,7 +48,7 @@ Instead of descriptive prose, Watt posits that James uses precise diction and gr
 
 I personally found Watt's argument regarding James' tone being humorous rather than ironic most interesting as it highlights various considerations when reading the text, with the most interesting to me being the reception of the novel by the audience. In his analysis, Watt argues that the narrative is 'multidimensional', continually implicating "a community of three minds–Strether's,James's, and the reader's". Particularly, Watt highlights a deliberate "balance of intention", in which "we feel for him even more than we smile at him".
 
-Watt ends his analysis by comparing this passage to other opening passages by renowned authors. It is in this comparison that Watt clearly highlights James's mastery in keeping "so many levels of meaning and impliction [...] in continuous operation" in the particular passage, a mastery that is reflective of James' unique narrative texture, and thus I believe could possibly be seen in other passages in this specific novel, whereas other novels would reflect the beliefs of James' at the time of writing.
+Watt ends his analysis by comparing this passage to other opening passages by renowned authors. It is in this comparison that Watt clearly highlights James's mastery in keeping "so many levels of meaning and impliction [...] in continuous operation" in the particular passage, a mastery that is reflective of James' unique narrative texture, and thus I believe could possibly be seen in other passages in this specific novel, whereas other novels would reflect the beliefs/state of James at the time of writing.
 
 
 500-Word Summary:
