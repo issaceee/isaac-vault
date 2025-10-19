@@ -45,7 +45,7 @@ Gaskell: "I dare say I shall like my story, when I am a little further from itl 
 **QUESTIONS**
 - What is the problem with industrialization, according to Gaskell? How is it represented in the novel? What does Margaret learn from her relationship with the Higgins's? What values are associated with the "north" of England and the "south"? How does the novel reconcile these conflicting values?  
 - How does the novel coordinate its romance plot with its social commentary? Why does Margaret reject Thornton at first? Why does she come around to him later?
-	- 
+	- Gaskell holds the romance genre and the condition-of-England genre at a balance, with each of the genres informing the plot and actions of its various characters. The novel seems to revolve mainly around the stereotypical romance "enemies-to-lovers" plot, one that is very familar to *Austen's Pride and Prejudice*
 - What is the significance of the strike scene in Chapter 22? What does it suggest about the problems of industrial society? Is the book in favor of the union or against it?  
 - The book is preoccupied with matters of conscience: Mr. Hale leaves the church for this reason; Frederick’s mutiny is cast in these terms too. Why is the novel so interested in conscience?  
 -  The Train Station scene (weirdly?) receives a lot of attention in the novel — perhaps more than any other scene. Why? Did Frederick murder Leonard?
