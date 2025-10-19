@@ -34,6 +34,8 @@ Gaskell: "I dare say I shall like my story, when I am a little further from itl 
 		- There's also a lot of references/allusions within the story itself, i think it is an attempt to lend credibility to certain perspectives and truths, yet at the same time there is always other allusions to various other truths that call into question other truths
 
 
+- Gaskell wrote that she would rather call her novel _Death and Variations_ because "there are five dead, each beautifully consistent with the personality of the individual".
+
 1) Mr. Thornton's visit to the Hale's in Chapter 10; 
 2) Margaret's early scenes with the Higgins's in Chapters 8, 11, and 13;
 3) the strike in Chapter 22;
