@@ -1,5 +1,13 @@
 Gaskell, Elizabeth Cleghorn. _North and South_. 2nd ed. With Angus Easson and Sally Shuttleworth. Oxford World’s Classics Ser. Oxford University Press USA - OSO, 2008.
 
+
+# Seminar Notes
+
+
+
+
+
+
 # Introduction
 
 closeness of themes to Dickens' *Hard Times* - "industrial conditions as a matrix for personal relations"
