@@ -2,12 +2,25 @@ Gaskell, Elizabeth Cleghorn. _North and South_. 2nd ed. With Angus Easson and Sa
 
 
 # Seminar Notes
+- ending of the novel bringing together North and South, how?
+	- Marriage and Death
+		- Death of Bessy
+			- inevitability of death and to illustrate the failings of the industrial; relentlessness of Bessy's death that the Novel sort of skips past VS  Leonard's death that the Novel keeps harping on.
+				- Nicholas Vs Mr Hale
 
+- why doesn't unions solve the problems
+	- "them or us" mentality - both the union vs the factory owners, and also within the working class (Butcher)
+		- the union is as tyrranical as the masters
 
+- so what does?
+	- face to face conversation & a mutual vulnerability
+		- can explain the death of Bessy - its true this interpersonal relationship of Bessy that Marget learns more authentically the plight of the working class (pg. 419 & 122)
 
-
-
-
+- North & South - another difference is in the financial
+	- how thats reconciled in the book is Margaret inheriting money and then investing that in Thronton's
+	- another evil in the book is "speculation"
+		- thronton's dad goes bankrupt
+		- the boook wants harmony - if you have money, invest it in productive manufacturing of goods instead of speculation
 # Introduction
 
 closeness of themes to Dickens' *Hard Times* - "industrial conditions as a matrix for personal relations"
