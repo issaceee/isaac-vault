@@ -21,6 +21,33 @@ Gaskell, Elizabeth Cleghorn. _North and South_. 2nd ed. With Angus Easson and Sa
 	- another evil in the book is "speculation"
 		- thronton's dad goes bankrupt
 		- the boook wants harmony - if you have money, invest it in productive manufacturing of goods instead of speculation
+
+- Train Scene
+	- Isolation of Margaret's not telling of the truth
+	- Going through this experience also makes Margaret more willing to marry him. the turn in their relationship seems to be from the sense of abjection and degrading
+		- "in Mr Thornton's eyes, she is degraded"
+		- insecurity is reflected in the conversation in the end (both fighting for who is not worthy - pg 436)
+		- 
+	- Moral ambiguity in the death and how the Novel actaully doesn't care about the death 
+		- 
+
+
+- A lot of emphasis on the dressing rooms = cultural differences
+
+- strike scene
+
+- takeaways for exams
+	- criticised for its politics - the book kind of wraps up in a super abrupt and not entirely convincing way - trying to affect the reconiliation through the miracle of inheritance
+		- political power of novels - invent solutions to real idological problems (ideology is like an imaginary solution to a real social contradiction) - the book therefore is trying to affect this reconciliation but the tensions in the real world cant just be wished to be sorted out, but the book is trying to invent a solution
+			- the secens of mis/non communication - all of these social communications are real and that North and South cant come together - actl this can be read that if we realy try to get to know each other, there would be strife that these miscommunications are built into how all of these work
+	- industrial novel (1830s-1840s)
+		- responding to the tumult in the british economy
+		- this is one way literature and Culture is being mobilised in the way that Arnold isnt really imagining - that literature can solve industrial
+		- we've invented retrospectively invented the genre, whereas in the 19th century they were writing a Novel of Purpose, a bigger project than what the industrial novel represents/suggests (a big transatlantic genre - a middle class literature, they are imagining the reforms that can smooth out the tensions btw bossess and workers)
+			- comes about in the wake of Enlightenment but also Engalicalism (delvelops instituttions and societies - all of these organisations that are created are absorbed in the 19th century to become the government)
+			- charity vs reform
+				- charity is religious, interpersonal
+				- reform, mediations betw the novel
 # Introduction
 
 closeness of themes to Dickens' *Hard Times* - "industrial conditions as a matrix for personal relations"
