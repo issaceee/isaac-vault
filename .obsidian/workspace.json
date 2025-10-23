@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Lecture Notes/PRE3W2 Nineteenth-Century Poetry Circus.md",
+                "file": "Readings/Lecture Notes/PRE2W1 Cultural Contexts 1; Migration & Conversion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRE3W2 Nineteenth-Century Poetry Circus"
+              "title": "PRE2W1 Cultural Contexts 1; Migration & Conversion"
+            }
+          },
+          {
+            "id": "afa775921d8dea0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readings/Lecture Notes/PRE2W2 Cultural Contexts Invasion & Kingship.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRE2W2 Cultural Contexts Invasion & Kingship"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a628997d923a822",
@@ -168,10 +184,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42da97a4890747b9",
+  "active": "afa775921d8dea0c",
   "lastOpenFiles": [
-    "Readings/Texts/Paper 2/Beda et al., Ecclesiastical History of the English People..md",
+    "Cultural Contexts II handout_extended.pdf",
+    "Cultural Contexts II handout_extended.docx",
+    "Readings/Lecture Notes/PRE2W1 Cultural Contexts 1; Migration & Conversion.md",
+    "Readings/Lecture Notes/PRE2W2 Cultural Contexts Invasion & Kingship.md",
+    "Untitled.md",
+    "Readings/Lecture Notes/PRE2 Intro to Medieval Lit.md",
+    "Readings/Lecture Notes/P3W1 What is Literature?.md",
     "Readings/Lecture Notes/PRE3W2 Nineteenth-Century Poetry Circus.md",
+    "Readings/Texts/Paper 2/Beda et al., Ecclesiastical History of the English People..md",
     "Victorian Poetry Circus Dramatic Monologue Ratcliffe Handout.pdf",
     "Readings/Lecture Notes/PRE1,3W2 Metre.md",
     "Readings/Lecture Notes/P3W1 Telling Stories.md",
@@ -184,28 +207,22 @@
     "Readings/Texts/Paper 1/P1S1.md",
     "Readings/Texts/Paper 3/Melville and Blum, Moby-Dick..md",
     "Readings/Texts/Paper 3/S1W1.md",
-    "Readings/Texts/Paper 2/PRE2 Cultural Contexts 1; Migration & Conversion.md",
     "Readings/Lecture Notes/P3W1 Many Voices.md",
-    "Readings/Texts/Paper 2/PRE2 Intro to Medieval Lit.md",
     "Readings/Texts/Paper 2/Dockray-Miller, “Old English Has a Serious Image Problem.”.md",
-    "P3W1 What is Literature?.md",
     "Readings/Texts/Paper 3/@duboisSoulsBlackFolk1994.md",
     "Readings/Texts/Paper 3/@williamsCultureSociety178019501960.md",
     "z. Assets/Intro.md",
     "Readings/Lecture Notes/P3W1 Practising Criticism.md",
     "Readings/Lecture Notes",
     "z. Assets/Templates/source-notes.md",
-    "Readings/Texts/Paper 3/Arnold, Arnold..md",
     "To Dos/source_notes",
     "Readings/Texts/Paper 1/Untitled",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas",
-    "Readings/Texts/Paper 2/Liuzza, _Beowulf_..md",
     "Readings/Texts/Paper 2",
     "z. Assets/Images/Pasted image 20250905195013.png",
     "z. Assets/Templates",
     "z. Assets/Images",
     "z. Assets",
-    "ssh_pub_key.txt",
-    "To Dos"
+    "ssh_pub_key.txt"
   ]
 }
