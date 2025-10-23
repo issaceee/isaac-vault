@@ -1,4 +1,4 @@
-![[Cultural Contexts II handout_extended.docx]]![[Cultural Contexts II handout_extended.pdf]]
+![[Cultural Contexts II handout_extended.pdf]]
 
 - 7 - 8 th century (after effects of conversion, and a golden age of Christian learning)
 - The first Viking age

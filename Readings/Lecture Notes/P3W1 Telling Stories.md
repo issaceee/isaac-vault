@@ -1,3 +1,37 @@
+---
+Paper:
+Lecturer:
+Date:
+---
+
+# Cleaned Up Notes
+
+
+
+
+
+# Own Notes
+
+
+
+
+
+
+# Transcript
+
+
+
+
+
+
+
+# Files
+
+
+
+
+
+
 
 1. Henry James
 	- history of genre, history of experiments in 

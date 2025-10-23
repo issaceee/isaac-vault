@@ -1,6 +1,22 @@
-metre - measured language
+---
+Paper:
+Lecturer:
+Date:
+---
+ 
+# Cleaned Up Notes
 
-# Why does Metre matter?
+
+
+
+
+# Own Notes
+
+metre
+
+- measured language
+
+## Why does Metre matter?
 
 "even as the child is often brought.... as have a pleasant taste"
 "is poesy dwelliing in a nice culled sound
@@ -26,7 +42,7 @@ in reality there are degrees of stress
 iambic pentameter - is not just unstressed, stress, but actually shakespeare's writing is sometiems split into 6-4
    "So long as men can breathe (implied caesura here) or eyes can see,"
 
-# what is stress
+## what is stress
 - added emphasis on particular syllables on a line
 - old english poetry is based on patterns of stress/accents but also pitch changes and duration changes (same syllables can be stressed in modern and old english but could have been performed differently, different way of stressing words)
 
@@ -65,3 +81,21 @@ iambic pentameter - is not just unstressed, stress, but actually shakespeare's w
 
 Sonnet 42
 - 
+
+
+
+# Transcript
+
+
+
+
+
+
+
+# Files
+
+
+
+
+
+
