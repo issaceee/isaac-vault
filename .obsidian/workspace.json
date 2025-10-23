@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Lecture Notes/PRE2W2 Cultural Contexts Invasion & Kingship.md",
+                "file": "z. Assets/Templates/Lecture Notes Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRE2W2 Cultural Contexts Invasion & Kingship"
+              "title": "Lecture Notes Template"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3a628997d923a822",
@@ -186,10 +185,18 @@
   },
   "active": "afa775921d8dea0c",
   "lastOpenFiles": [
+    "Readings/Lecture Notes/P3W1 Victorian Taster - Introductory Lecture for Literature, 1830-1900.md",
+    "z. Assets/Templates/Lecture Notes Template.md",
+    "Victorian theatre - taster lecture.pdf",
+    "VictorianTaster_Fiction_Handout2025.pdf",
+    "Poetry Taster.pdf",
+    "Readings/Lecture Notes/P3W1 Telling Stories.md",
+    "Readings/Lecture Notes/P3W1 Practising Criticism.md",
+    "Readings/Lecture Notes/P3W1 Many Voices.md",
+    "Readings/Lecture Notes/PRE2W2 Cultural Contexts Invasion & Kingship.md",
     "Cultural Contexts II handout_extended.pdf",
     "Cultural Contexts II handout_extended.docx",
     "Readings/Lecture Notes/PRE2W1 Cultural Contexts 1; Migration & Conversion.md",
-    "Readings/Lecture Notes/PRE2W2 Cultural Contexts Invasion & Kingship.md",
     "Untitled.md",
     "Readings/Lecture Notes/PRE2 Intro to Medieval Lit.md",
     "Readings/Lecture Notes/P3W1 What is Literature?.md",
@@ -197,7 +204,6 @@
     "Readings/Texts/Paper 2/Beda et al., Ecclesiastical History of the English People..md",
     "Victorian Poetry Circus Dramatic Monologue Ratcliffe Handout.pdf",
     "Readings/Lecture Notes/PRE1,3W2 Metre.md",
-    "Readings/Lecture Notes/P3W1 Telling Stories.md",
     "Readings/Lecture Notes/PRE3W2 Nineteenth-Century Forms and Ideas Circus - Aestheticism and Decadence.md",
     "Readings/Texts/Paper 3/Gaskell, North and South..md",
     "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
@@ -207,22 +213,15 @@
     "Readings/Texts/Paper 1/P1S1.md",
     "Readings/Texts/Paper 3/Melville and Blum, Moby-Dick..md",
     "Readings/Texts/Paper 3/S1W1.md",
-    "Readings/Lecture Notes/P3W1 Many Voices.md",
     "Readings/Texts/Paper 2/Dockray-Miller, “Old English Has a Serious Image Problem.”.md",
     "Readings/Texts/Paper 3/@duboisSoulsBlackFolk1994.md",
     "Readings/Texts/Paper 3/@williamsCultureSociety178019501960.md",
     "z. Assets/Intro.md",
-    "Readings/Lecture Notes/P3W1 Practising Criticism.md",
     "Readings/Lecture Notes",
-    "z. Assets/Templates/source-notes.md",
     "To Dos/source_notes",
     "Readings/Texts/Paper 1/Untitled",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas",
     "Readings/Texts/Paper 2",
-    "z. Assets/Images/Pasted image 20250905195013.png",
-    "z. Assets/Templates",
-    "z. Assets/Images",
-    "z. Assets",
-    "ssh_pub_key.txt"
+    "z. Assets/Images/Pasted image 20250905195013.png"
   ]
 }
