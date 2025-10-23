@@ -1,7 +1,7 @@
 ---
-Paper:
-Lecturer:
-Date:
+Paper: PRE3
+Lecturer: Prof. Robert Douglas-Fairhurst
+Date: 14 Oct 25
 ---
 
 # Cleaned Up Notes
@@ -11,26 +11,6 @@ Date:
 
 
 # Own Notes
-
-
-
-
-
-
-# Transcript
-
-
-
-
-
-
-
-# Files
-
-
-
-
-
 
 
 1. Henry James
@@ -167,3 +147,20 @@ STRATEGIES Guidelines
 	- this story and earlier stories?
 		- does it settle itself into a sect of conventions, renovate those conventions or strike of in a different direction entirely.
 - if still cant see it through these lenses, enjoy the text for its resistance to criticism
+
+
+# Transcript
+
+
+![[Nineteenth-Century Forms and Ideas Circus - PRE3 (copy)_Captions_English (United Kingdom).txt]]
+
+
+
+
+# Files
+
+
+
+
+
+
