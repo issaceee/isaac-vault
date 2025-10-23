@@ -98,3 +98,10 @@ Old English Poetry
 - 878: Overruning of Wessex, driving the young King Alfred into hiding
 
 - St Edmund
+
+- Alfred at War
+	- Asser's Life of King Alfred (trans Cook) vs Anglo Saxon Chronicals
+
+- Asser's Life of King Alfred (trans Cook)
+	- wants to present Aflred as a wise, virtuous and pious king
+	- resembles hediography
