@@ -11,7 +11,6 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - a lot of characterisation
 - who is the narrator?
 	- nm i think it is dorothea - "MY CASAUBON’S" in Ch. 10 
-	- "Poor Mr Casaubon" ch. 42
 
 # Key Notes
 
@@ -327,7 +326,7 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
   
   ‘Anything else–anything else!’ said old Featherstone, with hoarse rage, which, as if in a nightmare, tried to be loud, and yet was only just audible. ‘I want nothing else. You come here–you come here”
 
-## Book 4: Three Love Problems
+## Boook 4: Three Love Problems
 
 ### ch. 34
 - “ If any one will here contend that there must have been traits of goodness in old Featherstone, I will not presume to deny this; but I must observe that goodness is of a modest nature, easily discouraged, and when much elbowed in early life by unabashed vices, is apt to retire into extreme privacy, so that it is more easily believed in by those who construct a selfish old gentleman theoretically, than by those who form the narrower judgments based on his personal acquaintance.”
@@ -348,6 +347,7 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - “One must hire servants who will not break things,’ said Lydgate. (Certainly, this was reasoning with an imperfect vision of sequences. But at that period there was no sort of reasoning which was not more or less sanctioned by men of science.)”
 - “but he could not imagine himself pursuing them in such a home as Wrench had–the doors all open, the oil-cloth worn, the children in soiled pinafores, and lunch lingering in the form of bones, black-handled knives, and willow-pattern. But Wrench had a wretched lymphatic wife who made a mummy of herself indoors in a large shawl; and he must have altogether begun with an ill-chosen domestic apparatus.”
 - “ Lydgate, you perceive, had talked fervidly to Rosamond of his hopes as to the highest uses of his life, and had found it delightful to be listened to by a creature who would bring him the sweet furtherance of satisfying affection–beauty—repose–such help as our thoughts get from the summer sky and the flower-fringed meadows.
+  
   Lydgate relied much on the psychological difference between what for the sake of variety I will call goose and gander: especially on the innate submissiveness of the goose as beautifully corresponding to the strength of the gander.”
 
 ### ch. 37
@@ -367,20 +367,20 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 - ‘Oh, he’s a dangerous young sprig, that Mr Ladislaw,’ said Mrs Cadwallader, ‘with his opera songs and his ready tongue. A sort of Byronic hero–an amorous conspirator, it strikes me. And Thomas Aquinas is not fond of him. I could see that, the day the picture was brought.”
 - “In the right of it too,’ said the Rector. ‘Garth is an independent fellow: an original, simple-minded fellow. One day, when he was doing some valuation for me, he told me point-blank that clergymen seldom understood anything about business, and did mischief when they meddled; but he said it as quietly and respectfully as if he had been talking to me about sailors. He would make a different parish of Tipton, if Brooke would let him manage. I wish, by the help of the “Trumpet,” you could bring that round.”
 - “Look here! all this is about a landlord not a hundred miles from Middlemarch, who receives his own rents. They say he is the most retrogressive man in the county. I think you must have taught them that word in the “Pioneer.””
-- *“If we had to describe a man who is retrogressive in the most evil sense of the word–we should say, he is one who would dub himself a reformer of our constitution, while every interest for which he is immediately responsible is going to decay: a philanthropist who cannot bear one rogue to be hanged, but does not mind five honest tenants being half-starved: a man who shrieks at corruption, and keeps his farms at rack-rent:who roars himself red at rotten boroughs, and does not mind if every field on his farms has a rotten gate: a man very open-hearted to Leeds and Manchester, no doubt; he would give any number of representatives who will pay for their seats out of their “own pockets: what he objects to giving, is a little return on rent-days to help a tenant to buy stock, or an outlay on repairs to keep the weather out at a tenant’s barn-door or make his house look a little less like an Irish cottier’s.But we all know the wag’s definition of a philanthropist: a man whose charity increases directly as the square of the distance.”*
+- *“If we had to describe a man who is retrogressive in the most evil sense of the word–we should say, he is one who would dub himself a reformer of our constitution, while every interest for which he is immediately responsible is going to decay: a philanthropist who cannot bear one rogue to be hanged, but does not mind five honest tenants being half-starved: a man who shrieks at corruption, and keeps his farms at rack-rent:who roars himself red at rotten boroughs, and does not mind if every field on his farms has a rotten gate: a man very open-hearted to Leeds and Manchester, no doubt; he would give any number of representatives who will pay for their seats out of their “own pockets: what he objects to giving, is a little return on rent-days to help a tenant to buy stock, or an outlay on repairs to keep the weather out at a tenant’s barn-door or make his house look a little less like an Irish cottier’s.*But we all know the wag’s definition of a philanthropist: a man whose charity increases directly as the square of the distance.”*
 
 - “They said the last unsuccessful candidate at Middlemarch–Giles, wasn’t his name?—spent ten thousand pounds and failed because he did not bribe enough. What a bitter reflection for a man!’
-  ‘Somebody was saying,’ said the Rector, laughingly, ‘that East Retford* was nothing to Middlemarch, for bribery.’
-  ‘Nothing of the kind,’ said Mr Brooke. ‘The Tories bribe, you know: Hawley and his set bribe with treating, hot codlings,* and that sort of thing; and they bring the voters drunk to the poll. But they are not going to have it their own way in future–not in future, you know. Middlemarch is a little backward, I admit–the freemen are a little backward. But we shall educate them–we shall bring them on, you know. The best people there are on our side.”
+‘Somebody was saying,’ said the Rector, laughingly, ‘that East Retford* was nothing to Middlemarch, for bribery.’
+‘Nothing of the kind,’ said Mr Brooke. ‘The Tories bribe, you know: Hawley and his set bribe with treating, hot codlings,* and that sort of thing; and they bring the voters drunk to the poll. But they are not going to have it their own way in future–not in future, you know. Middlemarch is a little backward, I admit–the freemen are a little backward. But we shall educate them–we shall bring them on, you know. The best people there are on our side.”
 
 - “Better let him try to be popular and see that his character as a landlord stands in his way. I don’t think it signifies two straws about the “Pioneer,” or Ladislaw, or Brooke’s speechifying to the Middlemarchers. But it does signify about the parishioners in Tipton being comfortable.”
 
-### ch. 39
+### ch. 34
 - “A man is seldom ashamed of feeling that he cannot love a woman so well when he sees a certain greatness in her: nature having intended greatness for men. But nature has sometimes made sad oversights in carrying out her intention; as in the case of good Mr Brooke, whose masculine consciousness was at this moment in rather a stammering condition under the eloquence of his niece. He could not immediately find any other mode of expressing himself than that of rising, fixing his eye-glass, and fingering the papers before him.”
 
 - “But——eh, what?’
-  These interrogatives were addressed to the footman who had come in to say that the keeper had found one of Dagley’s boys with a leveret in his hand just killed.
-  ‘I’ll come, I’ll come. I shall let him off easily, you know,’ said Mr Brooke aside to Dorothea, shuffling away very cheerfully.”
+These interrogatives were addressed to the footman who had come in to say that the keeper had found one of Dagley’s boys with a leveret in his hand just killed.
+‘I’ll come, I’ll come. I shall let him off easily, you know,’ said Mr Brooke aside to Dorothea, shuffling away very cheerfully.”
 
 - “It is wonderful how much uglier things will look when we only suspect that we are blamed for them. Even our own persons in the glass are apt to change their aspect for us after we have heard some frank remark on their less admirable points; and on the other hand it is astonishing how pleasantly conscience takes our encroachments on those who never complain or have nobody to complain for them.”
 - “all these objects under the quiet light of a sky marbled with high clouds would have made a sort of picture which we have all paused over as a ‘charming bit,’ touching other sensibilities than those which are stirred by the depression of the agricultural interest and the sad lack of farming capital, as seen constantly in the newspapers of that time. But these troublesome associations were just now strongly present to Mr Brooke, and spoiled the scene for him”
@@ -393,190 +393,5 @@ Paper 3 / Week 7 / Class IV: The Victorian Novel (Part 1): Realism
 
 - “Poor Dagley read a few verses sometimes on a Sunday evening, and the world was at least not darker to him than it had been before. Some things he knew thoroughly, namely, the slovenly habits of farming, and the awkwardnesses of weather, stock and crops, at Freeman’s End–so called apparently by way of sarcasm, to imply that a man was free to quit it if he chose, but that there was no earthly ‘beyond’ open to him.”
 
-### ch. 40
-- “Wise in his daily work was he: / To fruits of diligence, / And not to faiths or polity, / He plied his utmost sense. / These perfect in their little parts, / Whose work is all their prize— / Without them how could laws, or arts, / Or towered cities rise?” 
-- “IN watching effects, if only of an electric battery, it is often necessary to change our place and examine a particular mixture or group at some distance from the point where the movement we are interested in was set up.”
-- “If you want to know more particularly how Mary looked, ten to one you will see a face like hers in the crowded street to-morrow, if you are there on the watch: she will not be among those daughters of Zion who are haughty, and walk with stretched-out necks and wanton eyes, mincing as they go: let all those pass, and fix your eyes on some small plump brownish person of firm but quiet carriage, who looks about her, but does not suppose that anybody is looking at her.”
-- “Yes, but there is a certain pride which is proper, Caleb.’
-  ‘I call it improper pride to let fools’ notions hinder you from doing a good action.”
-- “the soul of man, when it gets fairly rotten, will bear you all sorts of poisonous toad-stools, and no eye can see whence came the seed thereof.”
-
-### ch. 41
-- “Who shall tell what may be the effect of writing? If it happens to have been cut in stone, though it lie face downmost for ages on a forsaken beach, or ‘rest quietly under the drums and tramplings of many conquests,’* it may end by letting us into the secret of usurpations and other scandals gossiped about long empires ago:—this world being apparently a huge whispering-gallery”
-- “Having made this rather lofty comparison I am less uneasy in calling attention to the existence of low people by whose interference, however little we may like it, the course of the world is very much determined”
-
-### ch. 42
-- “This is a very bare and therefore a very incomplete way of putting the case. The human soul moves in many channels, and Mr Casaubon, we know, had a sense of rectitude and an honourable pride in satisfying the requirements of honour, which compelled him to find other reasons for his conduct than those of jealousy and vindictiveness. The way in which Mr Casaubon put the case was this:–”
-- “Here was a man who now for the first time found himself looking into the eyes of death–who was passing through one of those rare moments of experience when we feel the truth of a commonplace, which is as different from what we call knowing it, as the vision of waters upon the earth is different from the delirious vision of the water which cannot be had to cool the burning tongue. When the commonplace ‘We must all die’ trans-forms itself suddenly into the acute consciousness ‘I must die*—and soon,’ then death grapples us, and his fingers are cruel; afterwards, he may come to fold us in his arms as our mother did, and our last moment of dim earthly discerning may be like the first.”
-- “In such an hour the mind does not change its lifelong bias, but carries it onward in imagination to the other side of death, gazing backward–perhaps with the divine calm of beneficence, perhaps with the petty anxieties of self-assertion. What was Mr Casaubon’s bias his acts will give us a clue to. He held himself to be, with some private scholarly reservations, a believing Christian, as to estimates of the present and hopes of the future. But what we strive to gratify, though we may call it a distant hope, is an immediate desire: the future estate for which men drudge up city alleys exists already in their imagination and love. And Mr Casaubon’s immediate desire was not for divine communion and light divested of earthly conditions; his passionate longings, poor man, clung low and mist-like in very shady places.”
-
-## Book 5: The Dead Hand
-
-### ch. 43
-- “To Rosamond she was one of those county divinities not mixing with Middlemarch mortality, whose slightest marks of manner or appearance were worthy of her study; moreover, Rosamond was not without satisfaction that Mrs Casaubon should have an opportunity of studying her. What is the use of being exquisite if you are not seen by the best judges?”
-- “but prejudices, like odorous bodies, have a double existence both solid and subtle–solid as the pyramids, subtle as the twentieth echo of an echo, or as the memory of hyacinths which once scented the darkness.”
-- “He distrusted her affection; and what loneliness is more lonely than distrust?”
-
-### ch. 44
-- “but there were differences which represented every social shade between the polished moderation of Dr Minchin and the trenchant assertion of Mrs Dollop, the landlady of the Tankard in Slaughter Lane.”
-- “But these were people of minor importance. Good Middlemarch families were of course not going to change their doctor without reason shown; and everybody who had employed Mr Peacock did not feel obliged to accept a new man merely in the character of his successor, objecting that he was ‘not likely to be equal to Peacock.”
-- “But Lydgate had not been long in the town before there were particulars enough reported of him to breed much more specific expectations and to intensify differences into partisanship; some of the particulars being of that impressive order of which the significance is entirely hidden, like a statistical amount without a standard of comparison, but with a note of exclamation at the end. The cubic feet of oxygen yearly swallowed by a full-grown man–what a shudder they might have created in some Middlemarch circles! ‘Oxygen! nobody knows what that may be–is it any wonder the cholera has got to Dantzic? And yet there are people who say quarantine is no good!”
-- “I say, the most ungentlemanly trick a man can be guilty of is to come among the members of his profession with innovations which are a libel on their time-honoured procedure. That is my opinion, and I am ready to maintain it against any one who contradicts me.’ Mr Wrench’s voice had become exceedingly sharp.”
-- “The trash talked on such occasions was the more vexatious to Lydgate, because it gave precisely the sort of prestige which an incompetent and unscrupulous man would desire, and was sure to be imputed to him by the simmering dislike of the other medical men as an encouragement on his own part of ignorant puffing. But even his proud outspokenness was checked by the discernment that it was as useless to fight against the interpretations of ignorance as to whip the fog; and ‘good fortune’ insisted on using those interpretations.”
-- “till much prejudice against Lydgate’s method as to drugs was overcome by the proof of his marvellous skill in the speedy restoration of Nancy Nash after she had been rolling and rolling in agonies from the presence of a tumour both hard and obstinate, but nevertheless compelled to yield.”
-
-### ch. 45
-- “THAT opposition to the New Fever Hospital which Lydgate had sketched to Dorothea was, like other oppositions, to be viewed in many different lights. He regarded it as a mixture of jealousy and dunder-headed prejudice. Mr Bulstrode saw in it not only medical jealousy but a determination to thwart himself, prompted mainly by hatred of that vital religion of which he had striven to be an effectual lay representative–a hatred which certainly found pretexts apart from religion such as were only too easy to find in the entanglements of human action. These might be called the ministerial views. But oppositions have the illimitable range of objections at command, which need never stop short at the boundary of knowledge, but can draw for ever on the vasts of ignorance.”
-
-### ch. 46
-- “If you go in for the principle of Reform, you must be prepared to take what the situation offers,’ said Will. ‘If everybody pulled for his own bit against everybody else, the whole question would go to tatters.”
-- “But that is what the country wants,’ said Will. ‘Else there would be no meaning in political unions* or any other movement that knows what it’s about. It wants to have a House of Commons which is not weighted with nominees of the landed class, but with representatives of the other interests. And as to contending for a reform short of that, it is like asking for a bit of an avalanche which has already begun to thunder.”
-- “. Our sense of duty must often wait for some work which shall take the place of dilettantism and make us feel that the quality of our action is not a matter of indifference.”
-- “And some oddities of Will’s, more or less poetical, appeared to support Mr Keck, the editor of the ‘Trumpet,’ in asserting that Ladislaw, if the truth were known, was not only a Polish emissary but crack-brained, which accounted for the preternatural quickness and glibness of his speech when he got on to a platform–as he did whenever he had an opportunity, speaking with a facility which cast reflections on solid Englishmen generally. It was disgusting to Keck to see a strip of a fellow, with light curls round his head, get up and speechify by the hour against institutions ‘which had existed when he was in his cradle.’ And in a leading article of the ‘Trumpet,’ Keck characterized Ladislaw’s speech at a Reform meeting as ‘the violence of an energumen–a miserable effort to shroud in the brilliancy of fireworks the daring of irresponsible statements and the poverty of a knowledge which was of the cheapest and most recent description.”
-- “No matter; those who read the “Pioneer” don’t read the “Trumpet,”’ said Will, swallowing his tea and walking about. ‘Do you suppose the public reads with a view to its own conversion?”
-- “That depends on how you fix your standard of public men,’ said Will. ‘He’s good enough for the occasion: when the people have made up their mind as they are making it up now, they don’t want a man–they only want a vote.”
-
-### ch. 46
-- “He slept upon that idea, but when he was dressing in the rational morning light, Objection said—.... Having silenced Objection by force of unreason, Will walked to Lowick as if he had been”
-- “This was what a man got by worshipping the sight of a woman! The clerk observed with surprise that Mr Ladislaw did not join in the tune of Hanover, and reflected that he might have a cold”
-
-### ch. 47
-- “Still, there was a deep difference between that devotion to the living and that indefinite promise of devotion to the dead. While he lived, he could claim nothing that she would not”
-
-
-### ch. 48
-- “But the silence in her husband’s ear was never more to be broken.”
-
-### ch. 49
-
-### ch. 50
-- “True,’ said Dorothea. ‘It is hard to imagine what sort of notions our farmers and labourers get from their teaching. I have been looking into a volume of sermons by Mr Tyke: such sermons would be of no use at Lowick–I mean, about imputed righteousness* and the prophecies in the Apocalypse. I have always been thinking of the different ways in which Christianity is taught, and whenever I find one way that makes it a wider blessing than any other, I cling to that as the truest–I mean that which takes in the most good of all kinds, and brings in the most people as sharers in it. It is surely better to pardon too much, than to condemn too much”
-
-### ch. 51
-- “This prospect of converting votes was a dangerous distraction to Mr Brooke: his impression that waverers were likely to be allured by wavering statements, and also the liability of his mind to stick afresh at opposing arguments as they turned up in his memory, gave Will Ladislaw much trouble.”
-- “Very well, sir. I ask you what, as a husband and a father, I am to do when gentlemen come to me and say, “Do as you like, Mawmsey; but if you vote against us, I shall get my groceries elsewhere: when I sugar my liquor I like to feel that I am benefiting the country by maintaining tradesmen of the right colour.”
-- “ This Reform will touch everybody by-and-by–a thoroughly popular measure–a sort of A, B, C, you know, that must come first before the rest can follow. I quite agree with you that you’ve got to look at the thing in a family light: but public spirit, now. We’re all one family, you know–it’s all one cupboard. Such a thing as a vote, now: why, it may help to make men’s fortunes at the Cape–there’s no knowing what may be the effect of a vote,”
-- “ Few men have less need to cry for change than I have, personally speaking–that is, for self and family. I am not one of those who have nothing to lose: I mean as to respectability both in parish and private business, and noways in respect of your honourable self and custom, which you was good enough to say you would not withdraw from me, vote or no vote, while the article sent in was satisfactory”
-- “ Parliament, like the rest of our lives, even to our eating and apparel, could hardly go on if our imaginations were too active about processes. There were plenty of dirty-handed men in the world to do dirty business; and Will protested to himself that his share in bringing Mr Brooke through would be quite innocent.”
-
-### ch. 52
-- “No; though perhaps wisdom is not his strong point, but rather affection and sincerity. However, wisdom lies more in those two qualities than people are apt to imagine.”
-
-### ch. 53
-- “Enough. We are concerned with looking at Joshua Rigg’s sale of his land from Mr Bulstrode’s point of view, ”
-
-## Book 6: The Widow and The Wife
-### ch. 54
-
-### ch. 55
--
-
-### ch. 56
-- “I’n seen lots o’ things turn up sin’ I war a young un–the war an’ the pe-ace and the canells, an’ th’oald King George, an’ the Regen’,* an’ the new King George, an’ the new un as has got a new ne-ame–an’ it’s been all aloike to the poor mon. What’s the canells been t’ him? They ’n brought him neyther me-at nor ba-acon, nor wage to lay by, if he didn’t save it wi’ clemmin’* his own inside. Times ha’ got wusser for him sin’ I war a young un. An’ so it’ll be wi’ the railroads. They’ll on’y leave the poor mon furder behind. But them are fools as meddle, and so I told the chaps here. This is the big folks’s world, this is. But yo’re for the big folks, Muster Garth, yo are.”
-
-### ch. 57
-
-### ch. 58
-- “No one quicker than Rosamond to see causes and effects which lay within the track of her own tastes and interests: she had seen clearly Lydgate’s pre-eminence in Middle-march society, and could go on imaginatively tracing still more agreeable social effects when his talent should have advanced him; but for her, his professional and scientific ambition had no other relation to these desirable effects than if they had been the fortunate discovery of an ill-smelling oil. And that oil apart, with which she had nothing to do, of course she believed in her own opinion more than she did in his. ”
-- “Opinions may be divided as to his wisdom in making this present: some may think that it was a graceful attention to be expected from a man like Lydgate, and that the fault of any troublesome consequences lay in the pinched narrowness of provincial life at that time, which offered no conveniences for professional people whose fortune was not proportioned to their tastes; also, in Lydgate’s ridiculous fastidiousness about asking his friends for money.”
-
-### ch. 59
-- “NEWS is often dispersed as thoughtlessly and effectively as that pollen which the bees carry off (having no idea how powdery they are) when they are buzzing in search of their particular nectar. This fine comparison has reference to Fred Vincy, who on that evening at Lowick Parsonage heard a lively discussion among the ladies on the news which their old servant had got from Tantripp concerning Mr Casaubon’s strange mention of Mr Ladislaw in a codicil to his will made not long before his death.”
-
-### ch. 60
-- “But indefinite visions of ambition are weak against the ease of doing what is habitual or beguilingly agreeable; and we all know the difficulty of carrying out a resolve when we secretly long that it may turn out to be unnecessary. In such states of mind the most incredulous person has a private leaning towards miracle: impossible to conceive how our wish could be fulfilled, still–very wonderful things have happened!”
-
-### ch. 61
-- “It was not that he was in danger of legal punishment or of beggary: he was in danger only of seeing disclosed to the judgment of his neighbours and the mournful perception of his wife certain facts of his past life which would render him an object of scorn and an opprobrium of the religion with which he had diligently associated himself. The terror of being judged sharpens the memory: it sends an inevitable glare over that long-unvisited past which has been habitually recalled only in general phrases. Even without memory, the life is bound into one by a zone of dependence in growth and decay; but intense memory forces a man to own his blameworthy past. With memory set smarting like a reopened wound, a man’s past is not simply a dead history, an outworn preparation of the present: it is not a repented error shaken loose from the life: it is a still quivering part of himself, bringing shudders and bitter flavours and the tinglings of a merited shame.”
-
-### ch. 62
-- “Unwonted circumstances may make us all rather unlike ourselves: there are conditions under which the most majestic person is obliged to sneeze, and our emotions are liable to be acted on in the same incongruous manner”
-
-## Book 7: Two Temptations
-
-### ch. 63
-### ch. 64
-- “Lydgate’s anger rose: he was prepared to be indulgent towards feminine weakness, but not towards feminine dictation. The shallowness of a waternixie’s* soul may have a charm until she becomes didactic”
-- “Lydgate sat paralysed by opposing impulses: since no reasoning he could apply to Rosamond seemed likely to conquer her assent, he wanted to smash and grind some object on which he could at least produce an impression, or else to tell her brutally that he was master, and she must obey. But he not only dreaded the effect of such extremities on their mutual life–he had a growing dread of Rosaxmond’s quiet elusive obstinacy, which would not allow any assertion of power to be final; and again, she had touched him in a spot of keenest feeling by implying that she had been deluded with a false vision of happiness in marrying him. As to saying that he was master, it was not the fact. The very resolution to which he had wrought himself by dint of logic and honourable pride was beginning to relax under her torpedo-contact.* He swallowed half his cup of coffee, and then rose to go.”
-- “The Lydgate with whom she had been in love had been a group of airy conditions for her, most of which had disappeared, while their place had been taken by everyday details which must be lived through slowly from hour to hour, not floated through with a rapid selection of favourable aspects.”
-
-### ch. 65
-- 
-
-### ch. 66
-
-### ch. 67
-- “A philosopher fallen to betting is hardly distinguishable from a Philistine* under the same circumstances: the difference will chiefly be found in his subsequent reflections, and Lydgate chewed a very disagreeable cud in that way.”
-- “It is always a trial,’ said Mr Bulstrode; ‘but trial, my dear sir, is our portion here, and is a needed corrective. I recommend you to weigh the advice I have given.”
-
-### ch. 68
-
-### ch. 69
-
-### ch. 70
-- “A man vows, and yet will not cast away the means of breaking his vow. Is it that he distinctly means to break it? Not at all; but the desires which tend to break it are at work in him dimly, and make their way into his imagination, and relax his muscles in the very moments when he is telling himself over again the reasons for his vow.”
-
-### ch. 71
-- “The statement was passed on until it had quite lost the stamp of an inference, and was taken as information coming straight from Garth, so that even a diligent historian might have concluded Caleb to be the chief publisher of Bulstrode’s misdemeanours.”
-- “The business was felt to be so public and important that it required dinners to feed it, and many invitations were just then issued and accepted on the strength of this scandal concerning Bulstrode and Lydgate; wives, widows, and single ladies took their work and went out to tea oftener than usual; and all public conviviality, from the Green Dragon to Dollop’s, gathered a zest which could not be won from the question whether the Lords would throw out the Reform Bill.”
-
-## Book 8: Sunset and Sunrise
-### ch. 72
-- “character is not cut in marble–it is not something solid and unalterable. It is something living and changing, and may become diseased as our bodies do”
-
-### ch. 73
-- “There are episodes in most men’s lives in which their highest qualities can only cast a deterring shadow over the objects that fill their inward vision: Lydgate’s tender-heartedness was present just then only as a dread lest he should offend against it, not as an emotion that swayed him to tenderness. For he was very miserable. Only those who know the supremacy of the intellectual life–the life which has a seed of ennobling thought and purpose within it–can understand the grief of one who falls from that serene activity into the absorbing soul-wasting struggle with worldly annoyances.”
-- “What we call the “just possible” is sometimes true and the thing we find it easier to believe is grossly false.”
-- “It would be playing the part of a fool to offer his own testimony on behalf of himself, and say, ‘I did not take the money as a bribe.’ The circumstances would always be stronger than his assertion. And besides, to come forward and tell everything about himself must include declarations about Bulstrode which would darken the suspicions of others against him.”
-- “Science is properly more scrupulous than dogma. Dogma gives a charter to mistake, but the very breath of science is a contest with mistake, and must keep the conscience alive.”
-- “He preferred waiting for the incidental disclosure which events must soon bring about.”
-
-### ch. 74
-- “But truth is truth. The men tried at the assizes* are not all over-religious, I suppose”
-- “The sharp little woman’s conscience was somewhat troubled in the adjustment of these opposing ‘bests,’ and of her griefs and satisfactions under late events, which were likely to humble those who needed humbling, but also to fall heavily on her old friend whose faults she would have preferred seeing on a background of prosperity.”
-- “People will talk,’ he said. ‘Even if a man has been acquitted by a jury, they’ll talk, and nod and wink–and as far as the world goes, a man might often as well be guilty as not. It’s a breakdown blow, and it damages Lydgate as much as Bulstrode. I don’t pretend to say what is the truth. I only wish we had never heard the name of either Bulstrode or Lydgate. You’d better have been a Vincy all your life, and so had Rosamond.”
-- “he could not say, ‘How much is only slander and false suspicion?’ and he did not say, ‘I am innocent.”
-
-### ch. 75
-- “No notion could have been falser than this, for Rosamond’s discontent in her marriage was due to the conditions of marriage itself, to its demand for self-suppression and tolerance, and not to the nature of her husband; but the easy conception of an unreal Better had a sentimental charm which diverted her ennui”
-
-### ch. 76
-- “The presence of a noble nature, generous in its wishes, ardent in its charity, changes the lights for us: we begin to see things again in their larger, quieter masses, and to believe that we too can be seen and judged in the wholeness of our character. ”
-	- reference to narrator?
-- “But all that has nothing to do with the public belief. It is one of those cases in which a man is condemned on the ground of his character–it is believed that he has committed a crime in some undefined way, because he had the motive for doing it; and Bulstrode’s character has enveloped me, because I took his money. I am simply blighted–like a damaged ear of corn–the business is done and can’t be undone.”
-
-### ch. 77
-- “There are natures in which, if they love us, we are conscious of having a sort of baptism and consecration: they bind us over to rectitude and purity by their pure belief about us; and our sins become that worst kind of sacrilege which tears down the invisible altar of trust. ‘If you are not good, none is good’—those little words may give a terrific meaning to responsibility, may hold a vitriolic intensity for remorse.”
-
-### ch. 78
-- “Shallow natures dream of an easy sway over the emotions of others, trusting implicitly in their own petty magic to turn the deepest streams, and confident, by pretty gestures and remarks, of making the thing that is not as though it were. She knew that Will had received a severe blow, but she had been little used to imagining other people’s states of mind except as a material cut into shape by her own wishes; and she believed in her own power to soothe or subdue. Even Tertius, that most perverse of men, was always subdued in the long-run: events had been obstinate, but still Rosamond would have said now, as she did before her marriage, that she never gave up what she had set her mind on.”
-
-### ch. 79
-- “We are on a perilous margin when we begin to look passively at our future selves, and see our own figures led with”
-
-### ch. 80
-- “She was a part of that involuntary, palpitating life, and could neither look out on it from her luxurious shelter as a mere spectator, nor hide her eyes in selfish complaining.”
-
-### ch. 81
-- “Marriage is so unlike everything else. There is something even awful in the nearness it brings. Even if we loved some one else better than–than those we were married to, it would be no use’—poor Dorothea, in her palpitating anxiety, could only seize her language brokenly—‘I mean, marriage drinks up all our power of giving or getting any blessedness in that sort of love. I know it may be very dear–but it murders our marriage–and then the marriage stays with us like a murder–and everything else is gone. And then our husband–if he loved and trusted us, and we have not helped him, but made a curse in his life . .”
-
-### ch. 82
-- “The Rubicon,* we know, was a very insignificant stream to look at; its significance lay entirely in certain invisible conditions”
-- “Until that wretched yesterday–except the moment of vexation long ago in the very same room and in the very same presence–all their vision, all their thought of each other, had been as in a world apart, where the sunshine fell on tall white lilies, where no evil lurked, and no other soul entered. But now–would Dorothea meet him in that world again?”
-
-### ch. 83
-
-### ch. 84
-- “My dear fellow, we are rather apt to consider an act wrong because it is unpleasant to us,’ said the Rector, quietly. Like many men who take life easily, he had the knack of saying a home truth occasionally to those who felt themselves virtuously out of temper”
-
-### ch. 85
-
-### ch. 86
-
-### FINALE
-- “Marriage, which has been the bourne of so many narratives, is still a great beginning, as it was to Adam and Eve, who kept their honeymoon in Eden, but had their first little one among the thorns and thistles of the wilderness. It is still the beginning of the home epic–the gradual conquest or irremediable loss of that complete union which makes the advancing years a climax, and age the harvest of sweet memories in common.”
-- “In this way it was made clear that Middlemarch had never been deceived, and that there was no need to praise anybody for writing a book, since it was always done by somebody else.”
-- “Certainly those determining acts of her life were not ideally beautiful. They were the mixed result of young and noble impulse struggling amidst the conditions of an imperfect social state,* in which great feelings will often take the aspect of error, and great faith the aspect of illusion. For there is no creature whose inward being is so strong that it is not greatly determined by what lies outside it.”
-- “But the effect of her being on those around her was incalculably diffusive: for the growing good of the world is partly dependent on unhistoric acts; and that things are not so ill with you and me as they might have been, is half owing to the number who lived faithfully a hidden life, and rest in unvisited tombs.”
-
+### ch. 35
 

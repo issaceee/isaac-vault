@@ -1,53 +1,5 @@
 Gaskell, Elizabeth Cleghorn. _North and South_. 2nd ed. With Angus Easson and Sally Shuttleworth. Oxford World’s Classics Ser. Oxford University Press USA - OSO, 2008.
 
-
-# Seminar Notes
-- ending of the novel bringing together North and South, how?
-	- Marriage and Death
-		- Death of Bessy
-			- inevitability of death and to illustrate the failings of the industrial; relentlessness of Bessy's death that the Novel sort of skips past VS  Leonard's death that the Novel keeps harping on.
-				- Nicholas Vs Mr Hale
-
-- why doesn't unions solve the problems
-	- "them or us" mentality - both the union vs the factory owners, and also within the working class (Butcher)
-		- the union is as tyrranical as the masters
-
-- so what does?
-	- face to face conversation & a mutual vulnerability
-		- can explain the death of Bessy - its true this interpersonal relationship of Bessy that Marget learns more authentically the plight of the working class (pg. 419 & 122)
-
-- North & South - another difference is in the financial
-	- how thats reconciled in the book is Margaret inheriting money and then investing that in Thronton's
-	- another evil in the book is "speculation"
-		- thronton's dad goes bankrupt
-		- the boook wants harmony - if you have money, invest it in productive manufacturing of goods instead of speculation
-
-- Train Scene
-	- Isolation of Margaret's not telling of the truth
-	- Going through this experience also makes Margaret more willing to marry him. the turn in their relationship seems to be from the sense of abjection and degrading
-		- "in Mr Thornton's eyes, she is degraded"
-		- insecurity is reflected in the conversation in the end (both fighting for who is not worthy - pg 436)
-		- 
-	- Moral ambiguity in the death and how the Novel actaully doesn't care about the death 
-		- 
-
-
-- A lot of emphasis on the dressing rooms = cultural differences
-
-- strike scene
-
-- takeaways for exams
-	- criticised for its politics - the book kind of wraps up in a super abrupt and not entirely convincing way - trying to affect the reconiliation through the miracle of inheritance
-		- political power of novels - invent solutions to real idological problems (ideology is like an imaginary solution to a real social contradiction) - the book therefore is trying to affect this reconciliation but the tensions in the real world cant just be wished to be sorted out, but the book is trying to invent a solution
-			- the secens of mis/non communication - all of these social communications are real and that North and South cant come together - actl this can be read that if we realy try to get to know each other, there would be strife that these miscommunications are built into how all of these work
-	- industrial novel (1830s-1840s)
-		- responding to the tumult in the british economy
-		- this is one way literature and Culture is being mobilised in the way that Arnold isnt really imagining - that literature can solve industrial
-		- we've invented retrospectively invented the genre, whereas in the 19th century they were writing a Novel of Purpose, a bigger project than what the industrial novel represents/suggests (a big transatlantic genre - a middle class literature, they are imagining the reforms that can smooth out the tensions btw bossess and workers)
-			- comes about in the wake of Enlightenment but also Engalicalism (delvelops instituttions and societies - all of these organisations that are created are absorbed in the 19th century to become the government)
-			- charity vs reform
-				- charity is religious, interpersonal
-				- reform, mediations betw the novel
 # Introduction
 
 closeness of themes to Dickens' *Hard Times* - "industrial conditions as a matrix for personal relations"
@@ -80,23 +32,6 @@ Gaskell: "I dare say I shall like my story, when I am a little further from itl 
 	- I think it'll also be interesting to consider the idea of religion here (one singular truth)
 		- I think gaskell sets up a little bit of foreshadowing in highlighting first the father's struggle with the church and their one singular ideology, and this sets the precursor/context for the entire story and sturggle
 		- There's also a lot of references/allusions within the story itself, i think it is an attempt to lend credibility to certain perspectives and truths, yet at the same time there is always other allusions to various other truths that call into question other truths
-
-
-- Gaskell wrote that she would rather call her novel _Death and Variations_ because "there are five dead, each beautifully consistent with the personality of the individual".
-
-1) Mr. Thornton's visit to the Hale's in Chapter 10; 
-2) Margaret's early scenes with the Higgins's in Chapters 8, 11, and 13;
-3) the strike in Chapter 22;
-4) the scene where Margaret sees off Frederick on the train (and then Leonard dies and Margaret lies) in Chapters 32-34 and afterwards;
-5) Margaret and Thornton's happy ending in Chapters 51 and 52.
-
-**QUESTIONS**
-- What is the problem with industrialization, according to Gaskell? How is it represented in the novel? What does Margaret learn from her relationship with the Higgins's? What values are associated with the "north" of England and the "south"? How does the novel reconcile these conflicting values?  
-- How does the novel coordinate its romance plot with its social commentary? Why does Margaret reject Thornton at first? Why does she come around to him later?
-	- Gaskell holds the romance genre and the condition-of-England genre at a balance, with each of the genres informing the plot and actions of its various characters. The novel seems to revolve mainly around the stereotypical romance "enemies-to-lovers" plot, one that is very familar to *Austen's Pride and Prejudice*
-- What is the significance of the strike scene in Chapter 22? What does it suggest about the problems of industrial society? Is the book in favor of the union or against it?  
-- The book is preoccupied with matters of conscience: Mr. Hale leaves the church for this reason; Frederick’s mutiny is cast in these terms too. Why is the novel so interested in conscience?  
--  The Train Station scene (weirdly?) receives a lot of attention in the novel — perhaps more than any other scene. Why? Did Frederick murder Leonard?
 
 # Key Points
 
@@ -148,7 +83,7 @@ Gaskell: "I dare say I shall like my story, when I am a little further from itl 
 - "what he did not care to do for a Reverend.... he was only too glad to do..."
 	- compare the reputation btw Hale and Thornton in Helstone vs Milton
 
-### ==ch. 8==
+### ch. 8
 - use of smoke and fog: entire setting screams uncertainty
 - "THe window,... looked to the blank wall of a similar projection... it loomed through the fog like a great barrior to hope"
 
@@ -169,7 +104,7 @@ Gaskell: "I dare say I shall like my story, when I am a little further from itl 
 ### ch. 9
 - First instance of Mrs Thornton, directly after chracterisation of Margaret
 
-### ==ch. 10==
+### ch. 10
 - Mr Thornton likes Margaret! so cute
 - pg. 81 "If there is less adventure or less progress... I see men here"
 	- "raw crude materials came togerher; men of the same level, as regarded education and station, took suddenly the different positions of masters.... recieve his orders... what unlimited power the manufacturers had about the beginning of this century" pg 83 highlights the commoners vs the masters
@@ -181,14 +116,12 @@ chapter 11
 - "Margaret heard her murmur to herself: ' They shall hunger no more, neither thirst any more; neither shall the sun loight on them, nor any heat'"
 - "I could wish there were a God, if it were only to ask Him to bless thee"
 
-### ==ch. 11==
-
 ### ch. 12
 - "The very daringness with which mother and son spoke out unpalatbale truths.... each other's souls"
 - "the room altogether was full of knick-knacks, which must take a long time to dust; and time to people of limited income was money"
 - "do you like new music simply for its newness, then?"
 
-### ==ch. 13==
+### ch. 13
 - "as she went along the crowded narrow streets, she felt how much of interest they had gained by the simple favct of her having learnt to care for a dweller in them"
 - "I felt somethered like down below"
 - "if this should be th' end of all...I could."
@@ -250,7 +183,7 @@ ch 16.
 
 - "Margaret had taken off her gown and tossed it aside with a sortof impatient disgust"
 
-### ==ch. 22==
+### ch. 22
 - 'hands' trying to break into Mr Thornton's house (imported hands from overseas)
 - "save these poor strangers, whom you have decoyed here. Speak to your workmen as if they were human beings. Speak to them kindly. Dont let the soldiers come in and cut down poor creatures who are driven mad."
 - "Many in the crowd were mere boys; cruel and thoughtless, - ...little ones of bread"
@@ -366,7 +299,7 @@ ch 16.
 
 - "She is too perfect to be known by fragments. No mean brick shall be a specimen of the building of my palace."
 
-### ==ch. 7==
+### ch. 7
 
 
 ### ch. 8
@@ -378,7 +311,7 @@ ch 16.
 
 - "For some reason or other, Dixon never named this interview that she had had with Mr Thornton to Margaret. It might have been mere chance, but so it was that Margaret never heard that he had attended her poor mother's funeral"
 
-### ==ch. 9==
+### ch. 9
 - "There was something of infignation expressed in her countenance, but so kept down and controlled, that it gave her a superb air of disdain. There was no surprise, no curiosity. She stood awaiting the opening of his business there. Not a question did she ask."
 
 ### ch. 10
@@ -542,11 +475,11 @@ ch 16.
 
 - "how it was, or could be, that two men like himself and Higgins, living by the same trade, working in their different ways at the same object, could look upon each other's position and duties in so strangely different a way."
 
-### ==ch. 26==
+### ch. 26
 - "the advantages were mutual; we were both unconsciously and consciously teaching each other"
 - "no mere institutions, however wise, and however much thought may have been required to organise and arrange them, can attach class to class as they should be attached, unless the working out of such institutions bring the individuals of the different classes into actual personal contact"
 - "such intercourse is the very breath of life"
 
-### ==ch. 27==
+### ch. 27
 - "What it is to find oneself no longer young – yet thrown back to the strating-point which requires the hopeful energy of youth–to feel one half of life gone, and nothing done–nothing remaining of wasted opportunity, but the bitter recollection that it has been"
 - "Those who are happy and successful themselves are too apt to make light of the misfortune of others"
