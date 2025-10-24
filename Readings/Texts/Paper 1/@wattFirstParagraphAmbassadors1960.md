@@ -38,19 +38,6 @@ dateread:
 # Notes  
 %% begin notes %%
 
-
-250 word summary:
-
-What does Watt notice about the passage? How does he build out from local observations about the passage to some larger point? What is this larger point? Why does Watt think this passage is so significant? Why does he pick the passage that he does? Could he do the same analysis on any passage in James's novel? How many times did Watt need to read this passage before he could understand its larger significance?
-
-
-Instead of descriptive prose, Watt posits that James uses precise diction and grammatical/syntactical functions to draw the reader's attention towards the main conflict in the novel, as well as reflect James's outlook towards life. Some examples are James's use of non-transitive verbs, abstract nouns and negation to generalise Strether's thinking. In universalising the language and context, Watt argues that these small textual details become free from a particular temporal and physical realm, and therefore "[exist] independently of its context", thereby being able to "relate every event and every moment of life to the full complexity of its circumambient conditions."
-
-I personally found Watt's argument regarding James's tone being humorous rather than ironic most interesting as it highlights the reception of the novel by the audience. In his analysis, Watt argues that the narrative is 'multidimensional', continually implicating "a community of three minds–Strether's,James's, and the reader's". Particularly, Watt highlights a deliberate "balance of intention", in which "we feel for him even more than we smile at him", further highlighting James's precision in writing.
-
-Watt ends his analysis by comparing this passage to other opening passages by renowned authors. It is in this comparison that Watt underscores James's mastery in keeping "so many levels of meaning and impliction [...] in continuous operation", a mastery that is reflective of James's unique narrative texture, and thus I believe could possibly be seen in other passages in this specific novel. However, I believe that his other novels would reflect the beliefs/state of James at the time of writing them, as it has been argued that James's later writing style differ significantly from his earlier texts.
-
-
 500-Word Summary:
 
  Watt's introduction highlights the various strengths and weaknesses of literary analyses techniques over the decades from various cultures and regions. Mainly, he underscores the contrast between close reading (Practical Criticism - Anglo-Americans) and context reading (<i>explication de texte - </i>French). He also highlights gaps, mainly that the former misses the mark with understanding historical nuance and mainly applies to rich verses, whereas the latter resembles "a sort of bayonet drill" [@wattFirstParagraphAmbassadors1960: 250] , which highlights the inability of the technique to truly understand the depth of a text if one merely looks at its external factors. He then highlights various other developments such as the German's attempt at philology which ultimately lead to the technique of stylistics – an attempt at using linguistics to critically analyse a literary text. All in all, Watt expounds that no one technique is truly able to capture the heart of a text, foregrounding that his analysis is a amalgamation of the various techniques raised thus far, looking at the text through both a micro and macro lens. (I - "low as syntax"; II - "high as ideas"; III - "total literary structure") [@wattFirstParagraphAmbassadors1960: 253]
