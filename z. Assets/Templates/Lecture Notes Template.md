@@ -37,7 +37,7 @@ into a single, **integrated Markdown lecture note** written for an Oxford Engl
 
 **Goal:** produce polished, interpretive, Obsidian-ready notes that combine close reading, conceptual synthesis, and critical reflection — like an Oxford tutorial essay in note form, complete with mini-essays, motifs, and exam strategy.
 
-
+I have attached an excample of the ntoes as well. please follow exactly the structure under "Cleaned Up Notes"
 
 # Own Notes
 
