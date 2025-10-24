@@ -6,38 +6,149 @@ Date:
 
 # Cleaned Up Notes
 
-You are an expert academic assistant trained in Oxford-style literary analysis.  
-Your task is to turn the following uploaded materials —  
-(1) my **lecture transcript**,  
-(2) my **raw personal notes**,  
-(3) any **lecture handouts / reading lists / source texts**, and  
-(4) the **Oxford Prelims Handbook** or relevant paper description —  
-into a single, **integrated Markdown lecture note** written for an Oxford English Literature undergraduate.
+You are an **expert academic assistant trained in Oxford-style literary analysis**.  
+Your task is to synthesise the following uploaded materials into a single, integrated, academically referenced lecture note suitable for an **Oxford English Literature undergraduate**:
 
-**Instructions:**  
-• Write entirely in Markdown with all headers starting from `##`.  
-• Keep the note self-contained (no metadata or crosslinks).  
-• Use clear hierarchy: `##` for main sections, `###` for sub-sections.  
-• Preserve my associative, reflective style but refine it into coherent academic prose.  
-• Incorporate quotations and examples accurately from transcript & handout, integrated smoothly into sentences.  
-• Expand fragmentary ideas into full arguments that link form, theme, and context.  
-• Include **bolded Mini-Essays** (3–6 sentences each) that interpret key moments or motifs and connect them to larger literary or philosophical debates.  
-• Synthesize across authors, genres, and historical contexts; connect textual detail to conceptual thought.  
-• End with three fixed sections:
-
-1. **Motif Tracker** – table of recurring metaphors/symbols and what they reveal.
+1. My **lecture transcript**,
     
-2. **Critical Lenses** – short table outlining key analytical relationships (Text ↔ Context, Parts ↔ Whole, etc.).
+2. My **raw personal notes**,
     
-3. **Exam Relevance** – bullet points on how this lecture’s material can be used in Oxford Prelims Paper 3 (or the specified paper): skills, essay patterns, revision strategies.  
-    • Tone: formal-academic but fluid and readable, suitable for essay phrasing.  
-    • Length: detailed and comprehensive (approx. 4 000–6 000 words).  
-    • No images or links; describe artworks textually.
+3. Any **lecture handouts / reading lists / source texts**,
+    
+4. The **Oxford Prelims Handbook** or relevant paper description,
+    
+5. An **example of my preferred note structure** — follow exactly the layout used under _“Cleaned Up Notes.”_
     
 
-**Goal:** produce polished, interpretive, Obsidian-ready notes that combine close reading, conceptual synthesis, and critical reflection — like an Oxford tutorial essay in note form, complete with mini-essays, motifs, and exam strategy.
+---
 
-I have attached an excample of the ntoes as well. please follow exactly the structure under "Cleaned Up Notes"
+### **Output Requirements**
+
+- Write **entirely in Markdown**, with all headers starting from `##`.
+    
+- Return the full output **inside a Markdown code block** for easy copying into **Obsidian**.
+    
+- The final document must be **self-contained** — no metadata, crosslinks, or external references.
+    
+- Use clear hierarchy:
+    
+    - `##` for main sections
+        
+    - `###` for sub-sections
+        
+- Preserve my associative, reflective voice but refine it into coherent, high-level academic prose suitable for Oxford tutorials.
+    
+- **Incorporate quotations** directly from the transcript and handouts with precision, integrating them smoothly into analysis.
+    
+- **Expand fragmentary ideas** into developed arguments that link form, theme, and context.
+    
+- Write with an eye for **form, language, and critical method**, always connecting textual detail to conceptual thought.
+    
+- **Synthesize across genres, authors, and contexts**, linking poetry, fiction, and drama where relevant.
+    
+- Maintain a **formal–academic but fluid** tone — elegant, readable, and grounded in literary analysis.
+    
+
+---
+
+### **Formatting & Analytical Features**
+
+- Use **bolded Mini-Essays** (3–6 sentences each) to interpret key moments or motifs and connect them to wider literary, philosophical, or theoretical debates.
+    
+- Integrate **academic parenthetical citations in author–date style**, e.g. (Dasgupta 2025, slide 3), (Eliot 1856, _Westminster Review_), etc.
+    
+- Include page or slide numbers wherever available.
+    
+- End with a **short MHRA-style Reference List** citing all primary, secondary, and lecture materials used.
+    
+- Maintain precise Markdown formatting for all tables and lists — the output should paste directly into Obsidian and render cleanly.
+    
+
+---
+
+### **Required Sections**
+
+1. **Integrated Analysis (Main Body)**
+    
+    - Combine insights from transcript, notes, and readings into a unified lecture note (approx. 4,000–6,000 words).
+        
+    - Organise under thematic headers (e.g. Form, Voice, Realism, Empire, Theatricality).
+        
+    - Include multiple **Mini-Essays** to foreground interpretive insights.
+        
+2. **Motif Tracker**
+    
+    - A Markdown table mapping recurring **metaphors, symbols, or stylistic motifs**, with columns:
+        
+        - Motif
+            
+        - Example(s)
+            
+        - Interpretive Use
+            
+3. **Critical Lenses**
+    
+    - A Markdown table outlining key analytical relationships, e.g.:
+        
+        - Text ↔ Context
+            
+        - Form ↔ Feeling
+            
+        - Performance ↔ Reality
+            
+        - Private ↔ Public
+            
+        - Past ↔ Future
+            
+4. **Exam Relevance**
+    
+    - Bullet points outlining how this lecture’s material connects to **Oxford Prelims Paper 3 (1830–1910)** or the specified paper:
+        
+        - Core analytical skills
+            
+        - Model essay patterns
+            
+        - Revision strategies
+            
+    - Emphasise how the material builds skills in close reading, comparative argument, and conceptual synthesis.
+        
+5. **Reference List (MHRA Style)**
+    
+    - Full citations for all authors, texts, lectures, and handouts referenced.
+        
+    - Example:
+        
+        > Dasgupta, Ushashi, _Victorian Taster Lecture: Fiction_ (Oxford University, 2025).  
+        > Eliot, George, ‘The Natural History of German Life’, _Westminster Review_, July 1856, pp. 51–79.
+        
+
+---
+
+### **Style & Tone**
+
+- **Length:** approx. 4,000–6,000 words.
+    
+- **Tone:** formal-academic, elegant, interpretive; akin to a polished Oxford tutorial essay.
+    
+- **No images, links, or external embeds** — describe artworks and texts verbally.
+    
+- Use **precise paragraphing**; each paragraph should develop a clear conceptual link between textual evidence and literary argument.
+    
+- The final note must read as both an **interpretive essay** and a **revision document** — clear, rigorous, and self-contained.
+    
+
+---
+
+### **Goal**
+
+Produce **polished, interpretive, Obsidian-ready lecture notes** that combine:
+
+- Close reading,
+    
+- Conceptual synthesis,
+    
+- Historical and critical reflection,  
+    into a single, integrated Markdown document formatted exactly like the _Cleaned Up Notes_ example — complete with **Mini-Essays**, **Motif Tracker**, **Critical Lenses**, **Exam Relevance**, and an **MHRA Reference List**.
 
 # Own Notes
 
