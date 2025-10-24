@@ -11,10 +11,14 @@
             "id": "324278bff7da1df4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Readings/Lecture Notes/GENW1 Literary Worlds, World Literature hahaha.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GENW1 Literary Worlds, World Literature hahaha"
             }
           }
         ]
@@ -151,6 +155,7 @@
   },
   "active": "324278bff7da1df4",
   "lastOpenFiles": [
+    "Readings/Lecture Notes/GENW1 Paraphrase Friend or Foe?.md",
     "ssh_pub_key.txt",
     "My Library.json",
     "To Dos/the gothic.md",
@@ -184,7 +189,6 @@
     "Readings/Texts/Paper 1/@wattFirstParagraphAmbassadors1960.md",
     "Readings/Texts/Paper 3/Moby Dick",
     "Readings/Texts/Paper 3/North & South",
-    "Readings/Texts/Paper 3/Middle March",
-    "Readings/Texts/Victorian"
+    "Readings/Texts/Paper 3/Middle March"
   ]
 }
