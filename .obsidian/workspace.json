@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Lecture Notes/PRE2W1 Cultural Contexts 1; Migration & Conversion.md",
+                "file": "Readings/Texts/Paper 3/@gallagherPracticingNewHistoricism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRE2W1 Cultural Contexts 1; Migration & Conversion"
-            }
-          },
-          {
-            "id": "afa775921d8dea0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z. Assets/Templates/Lecture Notes Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture Notes Template"
+              "title": "@gallagherPracticingNewHistoricism"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,13 +168,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afa775921d8dea0c",
+  "active": "6971defc41656b43",
   "lastOpenFiles": [
+    "Readings/Texts/Paper 1/@wattFirstParagraphAmbassadors1960.md",
+    "Readings/Lecture Notes/PRE2W1 Cultural Contexts 1; Migration & Conversion.md",
+    "Readings/Texts/Paper 3/@gallagherPracticingNewHistoricism.md",
+    "z. Assets/Templates/Lecture Notes Template.md",
     "Readings/Lecture Notes/PRE3W1 Nineteenth-Century Forms and Ideas Circus - Telling Stories.md",
     "Readings/Lecture Notes/PRE3W2 Nineteenth-Century Poetry Circus.md",
     "Readings/Lecture Notes/PRE3W2 Nineteenth-Century Forms and Ideas Circus - Aestheticism and Decadence.md",
     "Readings/Lecture Notes/PRE3W1 Victorian Taster - Introductory Lecture for Literature, 1830-1900.md",
-    "z. Assets/Templates/Lecture Notes Template.md",
     "z. Assets/Intro.md",
     "Nineteenth-Century Forms and Ideas Circus - PRE3 (copy)_Captions_English (United Kingdom).txt",
     "Readings/Lecture Notes/PRE3W1 Many Voices.md",
@@ -202,7 +190,6 @@
     "Poetry Taster.pdf",
     "Cultural Contexts II handout_extended.pdf",
     "Cultural Contexts II handout_extended.docx",
-    "Readings/Lecture Notes/PRE2W1 Cultural Contexts 1; Migration & Conversion.md",
     "Untitled.md",
     "Readings/Lecture Notes/PRE2 Intro to Medieval Lit.md",
     "Readings/Lecture Notes/P3W1 What is Literature?.md",
@@ -211,14 +198,12 @@
     "Readings/Texts/Paper 3/Gaskell, North and South..md",
     "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
     "Readings/Texts/Paper 3/@arnoldArnoldCultureAnarchy1993.md",
-    "Readings/Texts/Paper 1/@wattFirstParagraphAmbassadors1960.md",
     "Readings/Texts/Paper 2/Untitled.md",
     "Readings/Texts/Paper 1/P1S1.md",
     "Readings/Texts/Paper 3/Melville and Blum, Moby-Dick..md",
     "Readings/Texts/Paper 3/S1W1.md",
     "Readings/Texts/Paper 2/Dockray-Miller, “Old English Has a Serious Image Problem.”.md",
     "Readings/Texts/Paper 3/@duboisSoulsBlackFolk1994.md",
-    "Readings/Texts/Paper 3/@williamsCultureSociety178019501960.md",
     "Readings/Lecture Notes",
     "To Dos/source_notes",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas",
