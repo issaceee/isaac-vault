@@ -2,5 +2,6 @@
   "obsidian-git",
   "obsidian-pandoc-reference-list",
   "obsidian-zotero-desktop-connector",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "local-backup"
 ]
