@@ -11,10 +11,14 @@
             "id": "324278bff7da1df4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Readings/Lecture Notes/GENW1 Literary Worlds, World Literature.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GENW1 Literary Worlds, World Literature"
             }
           }
         ]
