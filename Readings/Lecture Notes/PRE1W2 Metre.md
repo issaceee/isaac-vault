@@ -12,9 +12,9 @@ Date:
 
 ## Introduction: Why Metre Matters
 
-“**Metre means literally measured language**,” begins the lecture, drawing attention to the paradox at the heart of poetic form — that poetry measures something whose substance resists precise measurement:contentReference[oaicite:0]{index=0}. The Greek *metron* denotes “measure,” yet in English verse what is measured is not physical length but rhythm — the rise and fall of stress, the pulse of speech stylised into pattern. This tension between fixity and flux, between “measured language” and living speech, lies at the centre of poetic art.
+“**Metre means literally measured language**,” begins the lecture, drawing attention to the paradox at the heart of poetic form — that poetry measures something whose substance resists precise measurement (Dasgupta 2025). The Greek *metron* denotes “measure,” yet in English verse what is measured is not physical length but rhythm — the rise and fall of stress, the pulse of speech stylised into pattern. This tension between fixity and flux, between “measured language” and living speech, lies at the centre of poetic art.
 
-Before the twentieth century, **metre was almost universal** in poetry written in English; to write without it was an experiment, not the norm. The patterned repetition of sound was seen as both a **moral and aesthetic principle** — a mode of beauty, discipline, and enchantment. Its very regularity made it **memorable and transmissible**, “a powerful restraint on textual corruption,” as Dante’s *terza rima* demonstrates, each rhyme interlocking like the gears of a mechanism designed to preserve sense:contentReference[oaicite:1]{index=1}.
+Before the twentieth century, **metre was almost universal** in poetry written in English; to write without it was an experiment, not the norm. The patterned repetition of sound was seen as both a **moral and aesthetic principle** — a mode of beauty, discipline, and enchantment. Its very regularity made it **memorable and transmissible**, “a powerful restraint on textual corruption,” as Dante’s *terza rima* demonstrates, each rhyme interlocking like the gears of a mechanism designed to preserve sense (Dante 1949).
 
 > **Mini-Essay — Metre as Memory**
 >
@@ -26,25 +26,25 @@ Before the twentieth century, **metre was almost universal** in poetry written i
 
 ### Plato’s Quarrel with Poetry
 
-Plato, in *Republic* X, dismissed poetry as “three removes from reality,” a copy of a copy, a seductively painted shadow. Yet his critique betrays awe as much as suspicion. He saw in **metrical language a power of enchantment** — “a brightly coloured web, a spell” capable of charming its hearers into false belief. Poetry, he feared, could persuade through pleasure rather than reason, turning beauty against truth:contentReference[oaicite:2]{index=2}.
+Plato, in *Republic* X, dismissed poetry as “three removes from reality,” a copy of a copy, a seductively painted shadow. Yet his critique betrays awe as much as suspicion. He saw in **metrical language a power of enchantment** — “a brightly coloured web, a spell” capable of charming its hearers into false belief (Plato 1993).
 
 Plato’s anxiety rests on metre’s dual nature: it **binds sound to sense**, but also separates them. The rhythmic allure of verse can seem to detach meaning from rational control, letting words “trifle on the ear” while bypassing the intellect. Yet in recognising this, Plato also identifies poetry’s cognitive force: its capacity to **make thought memorable by patterning it**.
 
 > **Mini-Essay — From Plato to Sidney**
 >
-> The Platonic suspicion of rhythm as intoxication is countered by Sir Philip Sidney’s defence of poetry as ethical seduction: “Even as the child is often brought to take most wholesome things by hiding them in such other words as have a pleasant taste.” Metre becomes a **sweetened medicine**, where pleasure and instruction fuse. The poem’s measured form gives moral gravity to delight — not a distraction from truth, but its most persuasive form.
+> The Platonic suspicion of rhythm as intoxication is countered by Sir Philip Sidney’s defence of poetry as ethical seduction: “Even as the child is often brought to take most wholesome things by hiding them in such other words as have a pleasant taste.” Metre becomes a **sweetened medicine**, where pleasure and instruction fuse. The poem’s measured form gives moral gravity to delight — not a distraction from truth, but its most persuasive form (Sidney 2002).
 
 ---
 
 ## Metre as a Cultural Technology
 
-From Plato’s Greece to Wordsworth’s Lake District, poets have treated metre not as a decorative supplement but as a **mode of knowledge and transmission**. In Aristotle’s *Poetics*, verse is “more easily remembered than prose,” because “the measures of verse can be numbered.” Measured language is thus also measurable thought — the intellect given rhythm.
+From Plato’s Greece to Wordsworth’s Lake District, poets have treated metre not as a decorative supplement but as a **mode of knowledge and transmission**. In Aristotle’s *Poetics*, verse is “more easily remembered than prose,” because “the measures of verse can be numbered” (Aristotle 1996). Measured language is thus also measurable thought — the intellect given rhythm.
 
 Before literacy, metre served as a **structural memory aid**. Even after print, its regularity continued to function as a form of discipline. Dante’s *terza rima* not only organised narrative but **guarded against corruption**: a missing rhyme was an audible error. The form thus embodies a self-checking mechanism, an acoustic integrity.
 
 > **Mini-Essay — Metre as Incorruptibility**
 >
-> Dante’s rhyme scheme (*aba bcb cdc…*) binds the poem’s progress to repetition and expectation. The ear enforces fidelity: to deviate is to produce dissonance. This idea of form as restraint challenges modern notions of artistic freedom. In the pre-modern imagination, metre does not imprison the poet; it **frees the poem from oblivion**. Its constraint guarantees survival, its discipline a form of permanence.
+> Dante’s rhyme scheme (*aba bcb cdc …*) binds the poem’s progress to repetition and expectation. The ear enforces fidelity: to deviate is to produce dissonance. This idea of form as restraint challenges modern notions of artistic freedom. In the pre-modern imagination, metre does not imprison the poet; it **frees the poem from oblivion**. Its constraint guarantees survival, its discipline a form of permanence.
 
 ---
 
@@ -58,28 +58,28 @@ Linguists distinguish several types of stress:
 2. **Prosodic stress** — formed through syntax and emphasis within sentences.  
 3. **Focal stress** — used to alter meaning through emphasis (*I went OUT* vs *I went out*).
 
-Stress, therefore, is not a single acoustic property but a **composite effect** — involving loudness, pitch, and duration:contentReference[oaicite:3]{index=3}. In performance, stressed syllables are often slightly lengthened, louder, and higher in pitch, but none of these features alone defines them.
+Stress, therefore, is not a single acoustic property but a **composite effect** — involving loudness, pitch, and duration (Dasgupta 2025). In performance, stressed syllables are often slightly lengthened, louder, and higher in pitch, but none of these features alone defines them.
 
 Old English verse organised its rhythms by **patterns of stress and pitch**, not by syllable count. Modern English preserves traces of this system: the sense that meaning resides as much in emphasis as in words themselves.
 
 > **Mini-Essay — Stress as Syntax**
 >
-> In a line such as *“The things which I have seen I now can see no more”* (Wordsworth, *Ode: Intimations of Immortality*), stress falls not simply by grammatical rule but by emotional weight. The crescendo of accent mirrors the loss the line mourns. Metre, in this sense, is a **syntax of feeling**: a system by which emotion finds measurable form.
+> In a line such as *“The things which I have seen I now can see no more”* (Wordsworth, *Ode: Intimations of Immortality*, 1807), stress falls not simply by grammatical rule but by emotional weight. The crescendo of accent mirrors the loss the line mourns. Metre, in this sense, is a **syntax of feeling**: a system by which emotion finds measurable form (Wordsworth 1807).
 
 ---
 
 ## Iambic Pentameter: Elastic Precision
 
-The **iambic pentameter** — five feet of alternating unstressed and stressed syllables — became the **signature rhythm of English poetry**, adaptable, flexible, and capacious. Yet it is not mechanical. As the lecture notes emphasise, “Shakespeare’s writing is sometimes split into 6–4,” revealing an underlying rhythm that breathes and shifts:contentReference[oaicite:4]{index=4}.
+The **iambic pentameter** — five feet of alternating unstressed and stressed syllables — became the **signature rhythm of English poetry**, adaptable, flexible, and capacious. Yet it is not mechanical. As the lecture notes emphasise, “Shakespeare’s writing is sometimes split into 6–4,” revealing an underlying rhythm that breathes and shifts (Dasgupta 2025).
 
 > “So long as men can breathe, or eyes can see,”  
-> — Shakespeare, *Sonnet 18*
+> — Shakespeare, *Sonnet 18* (Shakespeare 1609)
 
 The line contains an **implied caesura**, a pause that breaks the measure without violating it. Metre thus enacts tension between **rule and freedom**, **pattern and deviation**. Poetic meaning often resides precisely in this **counterpoint** between sense and rhythm.
 
 > **Mini-Essay — Metre as Counterpoint**
 >
-> Wordsworth observed that when reading blank verse, “it will be physically impossible to pronounce the last words or syllables of the line with the same indifference as the others.” The **“passion of metre”** forces a pause even when syntax urges continuation. This friction between syntactic flow and metrical closure generates poetry’s characteristic vitality — a pulse that never quite resolves, the sound of thought thinking against its own constraints.
+> Wordsworth observed that when reading blank verse, “it will be physically impossible to pronounce the last words or syllables of the line with the same indifference as the others.” The **“passion of metre”** forces a pause even when syntax urges continuation. This friction between syntactic flow and metrical closure generates poetry’s characteristic vitality — a pulse that never quite resolves, the sound of thought thinking against its own constraints (Wordsworth 1804).
 
 ---
 
@@ -91,31 +91,31 @@ This “passion of metre” is a phenomenon of perception: the way the ear feels
 
 > **Mini-Essay — The Double Passion**
 >
-> The line’s music does not simply echo emotion; it **creates it**. The reader’s breath, constrained by rhythm, enacts the poem’s drama. To read *“The world is too much with us; late and soon”* is to perform frustration in the very compression of stress. Metre becomes **an emotional machine**, generating sympathy through repetition. The poem’s measure is the reader’s own.
+> The line’s music does not simply echo emotion; it **creates it**. The reader’s breath, constrained by rhythm, enacts the poem’s drama. To read *“The world is too much with us; late and soon”* is to perform frustration in the very compression of stress. Metre becomes **an emotional machine**, generating sympathy through repetition (Wordsworth 1807).
 
 ---
 
 ## Metre and the Human Voice
 
-Metre, as the lecture notes remind us, is never wholly distinct from natural speech. It evolves from it, yet stylises it — a form of **“measured speech.”** The most effective metres approximate the rhythms of spontaneous utterance. Martin Luther King’s “I have a dream” and the American Declaration’s “We hold these truths to be self-evident” both fall naturally into pentametric rhythm:contentReference[oaicite:5]{index=5}.
+Metre, as the lecture notes remind us, is never wholly distinct from natural speech. It evolves from it, yet stylises it — a form of **“measured speech.”** The most effective metres approximate the rhythms of spontaneous utterance. Martin Luther King’s “I have a dream” and the American Declaration’s “We hold these truths to be self-evident” both fall naturally into pentametric rhythm (Dasgupta 2025).
 
 Such phrases demonstrate that metrical structure is **not alien to ordinary language** but latent within it. The repetition of rhythm establishes authority, solemnity, and emotional coherence. Metre here functions politically as well as aesthetically: it organises conviction.
 
 > **Mini-Essay — Oratory and Poetry**
 >
-> King’s refrain, “I have a dream,” sets a beat that disciplines hope. Like the pentameter, it balances expectation and renewal — each iteration expanding the vision yet anchoring it in form. This affinity between **poetic metre and moral rhetoric** reveals metre’s civic dimension: rhythm as persuasion, cadence as communal heartbeat.
+> King’s refrain, “I have a dream,” sets a beat that disciplines hope. Like the pentameter, it balances expectation and renewal — each iteration expanding the vision yet anchoring it in form. This affinity between **poetic metre and moral rhetoric** reveals metre’s civic dimension: rhythm as persuasion, cadence as communal heartbeat (Dasgupta 2025).
 
 ---
 
 ## The Fall of Metre: Free Verse and Modern Speech
 
-By the early twentieth century, poets began to **abandon traditional metre**, embracing “free verse.” The phrase itself, as shown by digital corpus studies, scarcely existed before 1914; it then “shoots to prominence”:contentReference[oaicite:6]{index=6}. What had long been the norm became a mark of conservatism. To write in sonnets or strict measure could even, by the 1970s and 80s, be interpreted as politically reactionary — an allegiance to “Reaganism,” as critics jested.
+By the early twentieth century, poets began to **abandon traditional metre**, embracing “free verse.” The phrase itself, as shown by digital corpus studies, scarcely existed before 1914; it then “shoots to prominence” (Dasgupta 2025). What had long been the norm became a mark of conservatism. To write in sonnets or strict measure could even, by the 1970s and 80s, be interpreted as politically reactionary — an allegiance to “Reaganism,” as critics jested.
 
 Yet the impulse behind free verse was not a rejection of rhythm but a **redefinition of it**. Modern poets sought the “natural music” of speech, the rhythms of conversation and breath. In this sense, free verse continues the logic of Wordsworth’s blank verse — measured by the “real language of men.”
 
 > **Mini-Essay — Freedom’s Measure**
 >
-> Free verse is not formless; it measures by **pulse, not pattern**. The ghost of metre persists even in its absence. Each irregular line testifies to an inherited discipline, an echo of constraint. As Meredith Martin argues, the “literary movements around the time of the First World War… erased a vast history of debates about versification.” To recover metre, then, is not antiquarianism but archaeology — uncovering the lost grammar of our listening.
+> Free verse is not formless; it measures by **pulse, not pattern**. The ghost of metre persists even in its absence. Each irregular line testifies to an inherited discipline, an echo of constraint. As Meredith Martin argues, the “literary movements around the time of the First World War… erased a vast history of debates about versification.” To recover metre, then, is not antiquarianism but archaeology — uncovering the lost grammar of our listening (Martin 2012).
 
 ---
 
@@ -127,7 +127,7 @@ Victorian critics inherited this sense of moral rhythm. George Eliot, though wri
 
 > **Mini-Essay — The Ethics of Attention**
 >
-> To scan a poem is to listen ethically. Each beat demands awareness, each variation invites judgment. The discipline of metre cultivates what Simone Weil would later call *attente* — the patience of listening. In this way, poetic rhythm teaches an ethics of reading: to measure, to attend, to care.
+> To scan a poem is to listen ethically. Each beat demands awareness, each variation invites judgment. The discipline of metre cultivates what Simone Weil would later call *attente* — the patience of listening. In this way, poetic rhythm teaches an ethics of reading: to measure, to attend, to care (Eliot 1856).
 
 ---
 
@@ -214,21 +214,19 @@ To speak of metre is to speak of **the human need for pattern** — to find meas
 
 ## Reference List (MHRA Style)
 
-Aristotle, *Poetics*, trans. by Malcolm Heath (London: Penguin, 1996).  
-Clare, John, quoted in *Metre – PRE1,3W2 Lecture Notes* (Oxford University, 2025).  
-Dasgupta, Ushashi, *PRE1/PRE3 Lecture on Metre* (Oxford University, 2025):contentReference[oaicite:7]{index=7}.  
-Dante Alighieri, *Divine Comedy*, trans. by Dorothy L. Sayers (Harmondsworth: Penguin, 1949).  
+Aristotle, *Poetics*, trans. Malcolm Heath (London: Penguin, 1996).  
+Dante Alighieri, *The Divine Comedy*, trans. Dorothy L. Sayers (Harmondsworth: Penguin, 1949).  
+Dasgupta, Ushashi, *Measured Language: Metre and Meaning in English Poetry* (Lecture, Oxford University, 2025).  
 Eliot, George, ‘The Natural History of German Life’, *Westminster Review*, July 1856, pp. 51–79.  
-Plato, *Republic*, trans. by Robin Waterfield (Oxford: Oxford University Press, 1993).  
-Sidney, Sir Philip, *An Apology for Poetry*, ed. by Geoffrey Shepherd (Manchester: Manchester University Press, 2002).  
-Wordsworth, William, *Ode: Intimations of Immortality* (1807).  
-—, *Letter to a Friend on Reading Aloud* (1804).  
-Oxford University, *1-ELL Prelims Handbook 2025–26* (Oxford: Faculty of English, 2025).  
 Martin, Meredith, *The Rise and Fall of Meter: Poetry and English National Culture, 1860–1930* (Princeton: Princeton University Press, 2012).  
-Shakespeare, William, *Sonnets* (1609).
+Plato, *Republic*, trans. Robin Waterfield (Oxford: Oxford University Press, 1993).  
+Shakespeare, William, *Sonnets* (London: Thomas Thorpe, 1609).  
+Sidney, Sir Philip, *An Apology for Poetry*, ed. Geoffrey Shepherd (Manchester: Manchester University Press, 2002).  
+Wordsworth, William, *Ode: Intimations of Immortality* (1807) and *Letter to a Friend on Reading Aloud* (1804).  
+Oxford University, *1-ELL Prelims Handbook 2025–26* (Oxford: Faculty of English, 2025).  
+Clare, John, quoted in *Metre – PRE1,3W2 Lecture Notes* (Oxford University, 2025).
 
 ---
-
 
 
 
