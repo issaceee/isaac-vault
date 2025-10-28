@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Lecture Notes/PRE1W3 Metre.md",
+                "file": "Readings/Lecture Notes/todoPRE3W3 Nineteenth-Century Forms and Ideas Circus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRE1W3 Metre"
+              "title": "todoPRE3W3 Nineteenth-Century Forms and Ideas Circus"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a628997d923a822",
@@ -171,14 +172,17 @@
   },
   "active": "01b6842bb07b2a6f",
   "lastOpenFiles": [
-    "Readings/Lecture Notes/PRE1W3 Practicing Criticism - How to Read Punctuation.md",
+    "IMG_1837.heic",
+    "IMG_1836.heic",
+    "Readings/Lecture Notes/PRE1W2 Metre.md",
+    "Readings/Lecture Notes/todoPRE3W3 Nineteenth-Century Forms and Ideas Circus.md",
     "Readings/Lecture Notes/PRE1W3 Metre.md",
+    "Readings/Lecture Notes/PRE1W3 Practicing Criticism - How to Read Punctuation.md",
     "Readings/Lecture Notes/PRE1W2 CORE Literature and History.md",
     "Readings/Lecture Notes/PRE1W1 CORE What is Literature?.md",
     "Readings/Lecture Notes/PRE2W1 Cultural Contexts 1; Migration & Conversion.md",
     "Handout 3 Practising Criticism (MT 2025).pdf",
     "Handout 3 Practising Criticism (MT 2025).doc",
-    "Readings/Lecture Notes/PRE1W2 Metre.md",
     "Readings/Lecture Notes/PRE3W1 Nineteenth-Century Poetry Circus - Many Voices.md",
     "Readings/Lecture Notes/todoPRE3W1 Practising Criticism.md",
     "Readings/Lecture Notes/todoPRE3W2 Nineteenth-Century Poetry Circus.md",
@@ -204,10 +208,7 @@
     "z. Assets/Templates",
     "z. Assets/Documents",
     "z. Assets",
-    "z. Assets/Documents/Wilde Lecture 2 Vict and Modernist handout.pdf",
     "To Dos/narrative inadequacy.md",
-    "To Dos/the rise of the novel.md",
-    "To Dos/the gothic.md",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas"
   ]
 }
