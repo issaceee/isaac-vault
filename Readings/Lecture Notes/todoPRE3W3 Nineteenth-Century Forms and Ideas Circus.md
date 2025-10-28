@@ -1,6 +1,6 @@
 ---
-Paper: Professor Kirsten Shepherd
-Lecturer:
+Paper: PRE3
+Lecturer: Professor Kirsten Shepherd
 Date: 28 Oct 25
 ---
 
@@ -72,7 +72,11 @@ Evolution and Acting: Duse's Blush
 ![[IMG_1837.heic]]
 
 
+**insert the 19th century play examples here
 
+Ibsen vs Brieux
+* cavelier attitutde towards scientific development
+* Ibsen takes the ideas abt heredity and links it to social means - signalling of scientific to social ideas
 
 # Transcript
 
