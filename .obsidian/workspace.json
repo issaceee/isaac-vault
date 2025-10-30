@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Lecture Notes/todoPRE3W3 Digital Poetics and Victorian Verse.md",
+                "file": "Readings/Lecture Notes/todoPRE2W3 Old English Literature in Context - Rule & Reform.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todoPRE3W3 Digital Poetics and Victorian Verse"
+              "title": "todoPRE2W3 Old English Literature in Context - Rule & Reform"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a628997d923a822",
@@ -171,9 +172,11 @@
   },
   "active": "20b0ccf96a8fe83d",
   "lastOpenFiles": [
+    "Cultural Contexts III handout_extended 2024.pdf",
+    "Readings/Lecture Notes/todoPRE3W3 Digital Poetics and Victorian Verse.md",
+    "Readings/Lecture Notes/todoPRE2W3 Old English Literature in Context - Rule & Reform.md",
     "Readings/Lecture Notes/todoPRE3W3 Nineteenth-Century Forms and Ideas Circus.md",
     "Readings/Lecture Notes/todoPRE3W3 Nineteenth-Century Poetry Circus - Sense and Embodiment, The Body and Sensation.md",
-    "Readings/Lecture Notes/todoPRE3W3 Digital Poetics and Victorian Verse.md",
     "Readings/Lecture Notes/todoPRE1W3 CORE Authority and Intentionality (Author, Text, Reader).md",
     "z. Assets/Documents/Handout 3 Practising Criticism (MT 2025).pdf",
     "z. Assets/Documents/HandoutPoetryCircusSense2025.pdf",
@@ -204,7 +207,6 @@
     "Readings/Lecture Notes/GENW2 Literary Worlds, World Literature.md",
     "z. Assets/Documents/Ashe Prelims 2 Early Medieval Literature handout.pdf",
     "PRE1W2 CORE Literature and History.md",
-    "z. Assets/Templates/source-notes.md",
     "z. Assets/Documents/Pasted image 20250905195013.png",
     "z. Assets/Templates",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas"
