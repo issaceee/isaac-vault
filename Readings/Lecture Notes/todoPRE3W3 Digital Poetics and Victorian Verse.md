@@ -37,7 +37,7 @@ Date: 30 Oct 25
 - every printed edition of Dickinson alters her tone and form
 
 
-
+nultispectral imaging
 
 # Transcript
 
