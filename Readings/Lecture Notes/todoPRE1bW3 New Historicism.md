@@ -58,3 +58,9 @@ but thinking of putting it beside each other
 	- not really interested in differences
 	- but really noting difference in order to make their point more important
 - discourse - larger instituttional systems and arrangements that produce , runs through and animates a whole range of phenomena within a particular historical context,
+
+
+1. how close in time do two texts have to be in order to analyse them tgt?
+	1. what does comperataerity(compentarary) mean?
+2. the point of NH practices is tt they pick documents that are not too close together
+	1. 
