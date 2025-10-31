@@ -12,7 +12,7 @@ In order to demonstrate this, Gallagher and Greenblatt chart the development of 
 - is literature culture?
 	- do they treat potatos like literature? (or like representation/text)
 
-literature, art, symbol, representation, text
+literature, art, symbol, representation, text, logic, discourse
 
 symbol - coleridge, romantic era - how the art and the world unite
 
@@ -53,3 +53,8 @@ but thinking of putting it beside each other
 
 - what happens when you break the canon
 	- "This unsettling of the hierarchies does not seem revolutionary-we are not inclined to confuse a change in the curriculum with the fall of the state-but it does feel democratizing, in that it refuses to limit creativity to the spectacular achievements of a group of trained specialists" (pg. 10)
+
+- for new historicism - not really  separating the context and the text, as context is just a bunch of different texts that you can read
+	- not really interested in differences
+	- but really noting difference in order to make their point more important
+- discourse - larger instituttional systems and arrangements that produce , runs through and animates a whole range of phenomena within a particular historical context,
