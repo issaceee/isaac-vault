@@ -9,3 +9,47 @@ In order to demonstrate this, Gallagher and Greenblatt chart the development of 
 ---
 
 
+- is literature culture?
+	- do they treat potatos like literature? (or like representation/text)
+
+literature, art, symbol, representation, text
+
+symbol - coleridge, romantic era - how the art and the world unite
+
+- why does Greenblatt and Gallagher seem to appreciate "representation and text" more than "literature/symbol"
+	- "text" is a term that emerges out of structuralism, 
+
+- new historicism is historicism after close reading and new criticism and post-structuralism
+	- language of "text" and slightly lesser degree of "representation"
+	- close reading - bracket author's intention, not look at context
+
+emerges from post-structuralism - flattening out - everything becomes a text that can be read --> casts all of experience onto a flat plan, immerse in the world of a text
+
+why write about the potato?
+- why not write about bread?
+	- bread-nexus
+		- fantasy that potatoes can solve all our problems or make everyth worse
+		- why is this so disturbing to the potato people?
+			- potatoes are destabilizing to people who believe in political economy (belief that can predict  human behaviour by studying their needs and desires)
+				- can create a larger and large supply
+			- potato operates as a boundary-limit (outside the bounds of human capitalist company - outside of human culture)
+	- ** a logic that transcends all of these positions, that underlying all of these positions and sides, is an underlying logic that seem to combine all of these antithetic and combative positions (pg 127.)
+		- NH often fails to imbue work of art with any political work, because every work of art that the artist tries to make against society is still operating under the same condition sof that society
+			- e.g. an artisit that writes against a racist text, can show that the artist did hold
+			- whatever u thought is revolutionary, was acutally just of that time in that moment.
+
+- new historicism breaks down boundaries (for so long in lit studies were seen as huge chassms btw two things (break down boundaries btw a work of literature and historical context))
+- at that time (end of 18th c), big potato debate
+
+there is a kind of playfulness in the reading of the New Historicisms - how ridiculous can we choose an object?
+- bringing  seemingly different things and uniting them under the whole historical context
+- 
+
+what are the politics of treating the potato as a work of literature:
+- pg 10
+
+but thinking of putting it beside each other
+- including women into canonical literature BUT also like the potato - it dissolves the canon before it can really give it any political power
+
+- what happens when you break the canon
+	- "This unsettling of the hierarchies does not seem revolutionary-we are not inclined to confuse a change in the curriculum with the fall of the state-but it does feel democratizing, in that it refuses to limit creativity to the spectacular achievements of a group of trained specialists" (pg. 10)
