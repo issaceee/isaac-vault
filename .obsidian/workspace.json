@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readings/Lecture Notes/todoPRE1bW3 New Historicism.md",
-                "mode": "source",
+                "file": "To Dos/source_notes/@siddiqiCESSPOOLEMPIRESHERLOCK2006.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todoPRE1bW3 New Historicism"
+              "title": "@siddiqiCESSPOOLEMPIRESHERLOCK2006"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3a628997d923a822",
@@ -172,8 +171,10 @@
   },
   "active": "20b0ccf96a8fe83d",
   "lastOpenFiles": [
-    "Readings/Lecture Notes/todoPRE2W3 Old English Literature in Context - Rule & Reform.md",
     "Readings/Lecture Notes/todoPRE1bW3 New Historicism.md",
+    "To Dos/source_notes/@siddiqiCESSPOOLEMPIRESHERLOCK2006.md",
+    "To Dos/source_notes",
+    "Readings/Lecture Notes/todoPRE2W3 Old English Literature in Context - Rule & Reform.md",
     "Cultural Contexts III handout_extended 2024.pdf",
     "Readings/Lecture Notes/todoPRE3W3 Digital Poetics and Victorian Verse.md",
     "Readings/Lecture Notes/todoPRE3W3 Nineteenth-Century Forms and Ideas Circus.md",
@@ -206,8 +207,6 @@
     "Readings/Texts/GENW1 Literary Worlds, World Literature.md",
     "Readings/Lecture Notes/GENW1 Literary Worlds, World Literature hahaha.md",
     "Readings/Lecture Notes/GENW2 Literary Worlds, World Literature.md",
-    "z. Assets/Documents/Ashe Prelims 2 Early Medieval Literature handout.pdf",
-    "PRE1W2 CORE Literature and History.md",
     "z. Assets/Documents/Pasted image 20250905195013.png",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas"
   ]
