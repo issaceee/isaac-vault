@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d5d1bee1f8b46b63",
+        "id": "d19791fcbfc654d3",
         "type": "tabs",
         "children": [
           {
-            "id": "20b0ccf96a8fe83d",
+            "id": "3ea2d33b338beae0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Dos/source_notes/@siddiqiCESSPOOLEMPIRESHERLOCK2006.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "@siddiqiCESSPOOLEMPIRESHERLOCK2006"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "review",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readings/Lecture Notes/todoPRE1W4 CORE Reading Poetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for todoPRE1W4 CORE Reading Poetry"
             }
           },
           {
@@ -140,20 +137,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Readings/Lecture Notes/todoPRE1W4 CORE Reading Poetry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of todoPRE1W4 CORE Reading Poetry"
+            }
+          },
+          {
+            "id": "4ab8cbdc9967bb82",
+            "type": "leaf",
+            "state": {
+              "type": "comment-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "comment-view"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -169,45 +177,46 @@
       "local-backup:Run local backup": false
     }
   },
-  "active": "20b0ccf96a8fe83d",
+  "active": "6971defc41656b43",
   "lastOpenFiles": [
-    "Readings/Lecture Notes/todoPRE3W3 Nineteenth-Century Poetry Circus - Sense and Embodiment, The Body and Sensation.md",
-    "To Dos/source_notes/@siddiqiCESSPOOLEMPIRESHERLOCK2006.md",
-    "Readings/Lecture Notes/todoPRE1bW3 New Historicism.md",
-    "To Dos/source_notes",
-    "Readings/Lecture Notes/todoPRE2W3 Old English Literature in Context - Rule & Reform.md",
-    "Cultural Contexts III handout_extended 2024.pdf",
-    "Readings/Lecture Notes/todoPRE3W3 Digital Poetics and Victorian Verse.md",
-    "Readings/Lecture Notes/todoPRE3W3 Nineteenth-Century Forms and Ideas Circus.md",
-    "Readings/Lecture Notes/todoPRE1W3 CORE Authority and Intentionality (Author, Text, Reader).md",
-    "z. Assets/Documents/Handout 3 Practising Criticism (MT 2025).pdf",
-    "z. Assets/Documents/HandoutPoetryCircusSense2025.pdf",
-    "IMG_1837.heic",
-    "IMG_1836.heic",
-    "Readings/Lecture Notes/PRE1W2 Metre.md",
-    "Readings/Lecture Notes/PRE1W3 Metre.md",
-    "Readings/Lecture Notes/PRE1W3 Practicing Criticism - How to Read Punctuation.md",
-    "Readings/Lecture Notes/PRE1W2 CORE Literature and History.md",
-    "Readings/Lecture Notes/PRE1W1 CORE What is Literature?.md",
-    "Readings/Lecture Notes/PRE2W1 Cultural Contexts 1; Migration & Conversion.md",
-    "Handout 3 Practising Criticism (MT 2025).doc",
-    "Readings/Lecture Notes/PRE3W1 Nineteenth-Century Poetry Circus - Many Voices.md",
-    "Readings/Lecture Notes/todoPRE3W1 Practising Criticism.md",
-    "Readings/Lecture Notes/todoPRE3W2 Nineteenth-Century Poetry Circus.md",
-    "Nineteenth-Century Poetry Circus - PRE3 (copy)_Captions_English (United Kingdom).txt",
-    "Many Voices handout 2025.doc",
-    "Readings/Lecture Notes/PRE3W2 Oscar Wilde.md",
-    "Readings/Lecture Notes/PRE2W2 Cultural Contexts Invasion & Kingship.md",
-    "Readings/Lecture Notes/PRE2W1 Intro to Medieval Lit.md",
-    "Readings/Lecture Notes/PRE3W2 Nineteenth-Century Forms and Ideas Circus - Aestheticism and Decadence.md",
-    "Readings/Lecture Notes/PRE3W1 Nineteenth-Century Forms and Ideas Circus - Telling Stories.md",
-    "Readings/Lecture Notes/GENW1 Paraphrase Friend or Foe?.md",
-    "Readings/Lecture Notes/GENW1 Literary Worlds, World Literature.md",
-    "~$gore's Worlds handout.docx",
-    "Readings/Texts/GENW1 Literary Worlds, World Literature.md",
-    "Readings/Lecture Notes/GENW1 Literary Worlds, World Literature hahaha.md",
-    "Readings/Lecture Notes/GENW2 Literary Worlds, World Literature.md",
+    "z. Assets/Documents/Wilde Lecture 2 Vict and Modernist handout.pdf",
+    "z. Assets/Documents/Wilde Intro handout.pdf",
+    "z. Assets/Documents/VictorianTaster_Fiction_Handout2025.pdf",
+    "z. Assets/Documents/Victorian theatre - taster lecture.pdf",
+    "z. Assets/Documents/Victorian Poetry Circus Dramatic Monologue Ratcliffe Handout.pdf",
+    "z. Assets/Documents/RajmohansWife_Handout_2025.pdf",
+    "z. Assets/Documents/Poetry Taster.pdf",
     "z. Assets/Documents/Pasted image 20250905195013.png",
+    "z. Assets/Documents/Paraphrase lecture Oxford.pdf",
+    "z. Assets/Documents/HandoutPoetryCircusSense2025.pdf",
+    "z. Assets/Documents/Handout 3 Practising Criticism (MT 2025).pdf",
+    "z. Assets/Documents/Cultural Contexts II handout_extended.pdf",
+    "z. Assets/Templates/source-notes.md",
+    "z. Assets/Templates/Lecture Notes Template.md",
+    "z. Assets/Intro.md",
+    "To Dos/the gothic.md",
+    "To Dos/narrative inadequacy.md",
+    "To Dos/natural supernaturalism.md",
+    "To Dos/source_notes/@siddiqiCESSPOOLEMPIRESHERLOCK2006.md",
+    "To Dos/the rise of the novel.md",
+    "To Dos/Life of Charlotte Brontë.md",
+    "To Dos/narratorial frames.md",
+    "To Dos/the domestic.md",
+    "To Dos/narrative authority.md",
+    "To Dos/domestic.md",
+    "To Dos/gothic violence.md",
+    "To Dos/narratorial failure.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Wuthering Heights.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Williams, Natural Supernaturalism in “Wuthering Heights.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Vargish, REVENGE AND “WUTHERING HEIGHTS.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Stoneman, Feminist Criticism of “Wuthering Heights.”.md",
+    "Readings/Texts/Victorian/Wuthering Heights/Rena-Dozier, “Gothic Criticisms.”.md",
+    "Readings/Texts/Paper 3/S1W1.md",
+    "Readings/Texts/Paper 3/Melville and Blum, Moby-Dick..md",
+    "Readings/Texts/Paper 3/Gaskell, North and South..md",
+    "Readings/Texts/Paper 3/Eliot and Russell, “Middlemarch.”.md",
+    "Readings/Texts/Paper 3/@williamsCultureSociety178019501960.md",
+    "z. Assets/Pasted image 20251113122446.png",
     "Readings/Texts/Paper 1/Robert Browning, “My Last Duchess” (1842).canvas"
   ]
 }
